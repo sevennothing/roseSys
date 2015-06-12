@@ -1,0 +1,9 @@
+/Makefile.am/1.4/Mon Apr 19 08:05:36 2010//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.3/Mon Apr 19 08:09:03 2010//Tnetbsd-6-1-5-RELEASE
+/iscsi-initiator.8/1.8/Tue Feb 22 17:15:55 2011//Tnetbsd-6-1-5-RELEASE
+/iscsi-initiator.c/1.9/Thu Oct  6 13:05:28 2011//Tnetbsd-6-1-5-RELEASE
+/libkmod.c/1.2/Tue Jun 30 02:44:52 2009//Tnetbsd-6-1-5-RELEASE
+/libkmod.h/1.2/Tue Jun 30 02:44:52 2009//Tnetbsd-6-1-5-RELEASE
+/virtdir.c/1.1/Thu Jun 25 13:47:11 2009//Tnetbsd-6-1-5-RELEASE
+/virtdir.h/1.1/Thu Jun 25 13:47:11 2009//Tnetbsd-6-1-5-RELEASE
+D

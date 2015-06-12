@@ -1,0 +1,23 @@
+/Makefile/1.5/Sun Dec 11 12:22:02 2005//Tnetbsd-6-1-5-RELEASE
+/files.ieee1394/1.10/Sun Apr 30 12:11:58 2006//Tnetbsd-6-1-5-RELEASE
+/firewire.c/1.38/Tue Sep  7 07:26:54 2010//Tnetbsd-6-1-5-RELEASE
+/firewire.h/1.6/Sun Nov 14 15:47:20 2010//Tnetbsd-6-1-5-RELEASE
+/firewire_phy.h/1.3/Mon Mar 29 03:05:27 2010//Tnetbsd-6-1-5-RELEASE
+/firewirereg.h/1.16/Sun Apr 24 18:52:26 2011//Tnetbsd-6-1-5-RELEASE
+/fwcrom.c/1.13/Thu Aug 26 07:36:53 2010//Tnetbsd-6-1-5-RELEASE
+/fwdev.c/1.26/Sun Jul 31 13:51:53 2011//Tnetbsd-6-1-5-RELEASE
+/fwdma.c/1.16/Sun May 23 18:56:58 2010//Tnetbsd-6-1-5-RELEASE
+/fwdma.h/1.6/Mon Mar 29 03:05:27 2010//Tnetbsd-6-1-5-RELEASE
+/fwmem.c/1.16/Sun Jul 31 13:51:53 2011//Tnetbsd-6-1-5-RELEASE
+/fwmem.h/1.4/Mon Mar 29 03:05:27 2010//Tnetbsd-6-1-5-RELEASE
+/fwohci.c/1.132/Sun Jul 31 13:51:53 2011//Tnetbsd-6-1-5-RELEASE
+/fwohcireg.h/1.18/Mon Mar 29 03:05:27 2010//Tnetbsd-6-1-5-RELEASE
+/fwohcivar.h/1.32/Sun May 23 18:56:59 2010//Tnetbsd-6-1-5-RELEASE
+/fwphyreg.h/1.3/Mon Mar 29 03:05:28 2010//Tnetbsd-6-1-5-RELEASE
+/iec13213.h/1.5/Thu Aug 26 07:36:53 2010//Tnetbsd-6-1-5-RELEASE
+/iec68113.h/1.4/Mon Mar 29 03:05:28 2010//Tnetbsd-6-1-5-RELEASE
+/if_fwip.c/1.24/Sun May 23 18:56:59 2010//Tnetbsd-6-1-5-RELEASE
+/if_fwipvar.h/1.5/Mon Mar 29 03:05:28 2010//Tnetbsd-6-1-5-RELEASE
+/sbp.c/1.33/Sat Aug 14 10:39:33 2010//Tnetbsd-6-1-5-RELEASE
+/sbp.h/1.6/Sun Aug 29 21:14:16 2010//Tnetbsd-6-1-5-RELEASE
+D

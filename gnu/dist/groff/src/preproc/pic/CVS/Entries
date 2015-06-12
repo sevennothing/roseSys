@@ -1,0 +1,17 @@
+/Makefile.sub/1.4/Sat Jul  5 22:09:04 2003//Tnetbsd-6-1-5-RELEASE
+/TODO/1.1.1.2/Fri Jul 30 14:44:57 2004//Tnetbsd-6-1-5-RELEASE
+/common.cpp/1.1.1.3/Mon Feb  6 18:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/common.h/1.1.1.4/Mon Feb  6 18:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/lex.cpp/1.1.1.2/Mon Feb  6 18:14:20 2006//Tnetbsd-6-1-5-RELEASE
+/main.cpp/1.1.1.2/Mon Feb  6 18:14:21 2006//Tnetbsd-6-1-5-RELEASE
+/object.cpp/1.1.1.3/Mon Feb  6 18:14:21 2006//Tnetbsd-6-1-5-RELEASE
+/object.h/1.1.1.4/Mon Feb  6 18:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/output.h/1.1.1.4/Mon Feb  6 18:14:21 2006//Tnetbsd-6-1-5-RELEASE
+/pic.h/1.1.1.3/Mon Feb  6 18:14:22 2006//Tnetbsd-6-1-5-RELEASE
+/pic.man/1.1.1.3/Mon Feb  6 18:14:23 2006//Tnetbsd-6-1-5-RELEASE
+/pic.y/1.5/Mon Feb  6 18:25:48 2006//Tnetbsd-6-1-5-RELEASE
+/position.h/1.1.1.2/Mon Feb  6 18:14:23 2006//Tnetbsd-6-1-5-RELEASE
+/tex.cpp/1.1.1.3/Mon Feb  6 18:14:23 2006//Tnetbsd-6-1-5-RELEASE
+/text.h/1.1.1.1/Thu Apr 19 12:51:34 2001//Tnetbsd-6-1-5-RELEASE
+/troff.cpp/1.1.1.3/Mon Feb  6 18:14:29 2006//Tnetbsd-6-1-5-RELEASE
+D

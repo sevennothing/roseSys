@@ -1,0 +1,11 @@
+/clean.sh/1.1.1.6.4.1/Wed Jun  6 18:17:42 2012//Tnetbsd-6-1-5-RELEASE
+/commandlist/1.1.1.1.2.2/Sat Dec 15 05:39:40 2012//Tnetbsd-6-1-5-RELEASE
+/knowngood.ns1.after/1.1.1.2/Sun Oct 25 00:01:37 2009//Tnetbsd-6-1-5-RELEASE
+/knowngood.ns1.afterstop/1.1.1.1/Sun Mar 22 14:56:57 2009//Tnetbsd-6-1-5-RELEASE
+/knowngood.ns1.before/1.1.1.2/Sun Oct 25 00:01:37 2009//Tnetbsd-6-1-5-RELEASE
+/setup.sh/1.1.1.5.4.2/Sat Dec 15 05:39:40 2012//Tnetbsd-6-1-5-RELEASE
+/tests.sh/1.1.1.5.4.2/Sat Dec 15 05:39:40 2012//Tnetbsd-6-1-5-RELEASE
+/update_test.pl/1.1.1.2.6.2/Sat Dec 15 05:39:40 2012//Tnetbsd-6-1-5-RELEASE
+D/ns1////
+D/ns2////
+D/ns3////

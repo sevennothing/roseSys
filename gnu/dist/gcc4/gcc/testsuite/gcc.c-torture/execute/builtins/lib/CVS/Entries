@@ -1,0 +1,25 @@
+/abs.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/chk.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/fprintf.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/main.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/memcmp.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/memmove.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/mempcpy.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/memset.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/printf.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/sprintf.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/stpcpy.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/strcat.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/strchr.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/strcmp.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/strcpy.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/strcspn.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/strlen.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/strncat.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/strncmp.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/strncpy.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/strpbrk.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/strrchr.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/strspn.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+/strstr.c/1.1.1.1/Thu Apr 20 09:14:19 2006//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,8 @@
+/ixdp425_led.c/1.5/Fri Jul  1 20:42:36 2011//Tnetbsd-6-1-5-RELEASE
+/ixdp425_machdep.c/1.29/Fri Jul  1 20:42:36 2011//Tnetbsd-6-1-5-RELEASE
+/ixdp425_mainbus.c/1.7.8.1/Wed Oct 17 22:21:08 2012//Tnetbsd-6-1-5-RELEASE
+/ixdp425_pci.c/1.8/Fri Jul  1 20:42:36 2011//Tnetbsd-6-1-5-RELEASE
+/ixdp425_start.S/1.7/Mon Jan 31 06:28:04 2011//Tnetbsd-6-1-5-RELEASE
+/ixdp425reg.h/1.7/Wed Oct 21 14:15:51 2009//Tnetbsd-6-1-5-RELEASE
+/ixdp425var.h/1.4/Wed Oct 21 14:15:51 2009//Tnetbsd-6-1-5-RELEASE
+D

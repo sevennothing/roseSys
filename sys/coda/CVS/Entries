@@ -1,0 +1,20 @@
+/README/1.3/Sun Apr  8 13:50:51 2007//Tnetbsd-6-1-5-RELEASE
+/TODO/1.4/Sun Apr  8 13:50:51 2007//Tnetbsd-6-1-5-RELEASE
+/cnode.h/1.17/Fri Mar 21 17:59:57 2008//Tnetbsd-6-1-5-RELEASE
+/coda.h/1.17/Sat Aug  7 20:39:33 2010//Tnetbsd-6-1-5-RELEASE
+/coda_io.h/1.7/Sun Dec 11 12:19:50 2005//Tnetbsd-6-1-5-RELEASE
+/coda_namecache.c/1.24/Sat Apr 18 14:58:02 2009//Tnetbsd-6-1-5-RELEASE
+/coda_namecache.h/1.12/Wed Mar 18 15:14:30 2009//Tnetbsd-6-1-5-RELEASE
+/coda_opstats.h/1.6/Sun Dec 11 12:19:50 2005//Tnetbsd-6-1-5-RELEASE
+/coda_pioctl.h/1.8/Sat Aug  7 20:39:33 2010//Tnetbsd-6-1-5-RELEASE
+/coda_psdev.c/1.47/Sun Jan 11 02:45:46 2009//Tnetbsd-6-1-5-RELEASE
+/coda_subr.c/1.25/Wed Aug 31 18:31:02 2011//Tnetbsd-6-1-5-RELEASE
+/coda_subr.h/1.8/Sun Dec 11 12:19:50 2005//Tnetbsd-6-1-5-RELEASE
+/coda_venus.c/1.28/Tue Jul 20 17:26:03 2010//Tnetbsd-6-1-5-RELEASE
+/coda_venus.h/1.11/Sun Mar  4 06:01:12 2007//Tnetbsd-6-1-5-RELEASE
+/coda_vfsops.c/1.70.14.1/Mon Apr 21 10:17:48 2014//Tnetbsd-6-1-5-RELEASE
+/coda_vfsops.h/1.18/Mon Nov 26 19:01:28 2007//Tnetbsd-6-1-5-RELEASE
+/coda_vnops.c/1.81/Tue Sep 13 19:34:27 2011//Tnetbsd-6-1-5-RELEASE
+/coda_vnops.h/1.13/Sun May 14 21:24:49 2006//Tnetbsd-6-1-5-RELEASE
+/files.coda/1.6/Tue Mar  2 16:43:48 2010//Tnetbsd-6-1-5-RELEASE
+D

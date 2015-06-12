@@ -1,0 +1,15 @@
+/Makefile/1.8/Sat Feb  6 23:45:25 2010//Tnetbsd-6-1-5-RELEASE
+/endgame.c/1.5/Thu Aug  7 09:37:20 2003//Tnetbsd-6-1-5-RELEASE
+/extern.c/1.8/Thu Aug  7 09:37:20 2003//Tnetbsd-6-1-5-RELEASE
+/getguess.c/1.8/Thu Aug  7 09:37:21 2003//Tnetbsd-6-1-5-RELEASE
+/getword.c/1.9/Fri Nov  5 21:30:32 2004//Tnetbsd-6-1-5-RELEASE
+/hangman.6/1.12/Thu Aug  7 09:37:21 2003//Tnetbsd-6-1-5-RELEASE
+/hangman.h/1.14/Fri Aug 26 06:18:17 2011//Tnetbsd-6-1-5-RELEASE
+/main.c/1.14/Fri Aug  8 16:10:47 2008//Tnetbsd-6-1-5-RELEASE
+/pathnames.h/1.4/Thu Aug  7 09:37:22 2003//Tnetbsd-6-1-5-RELEASE
+/playgame.c/1.5/Thu Aug  7 09:37:22 2003//Tnetbsd-6-1-5-RELEASE
+/prdata.c/1.5/Thu Aug  7 09:37:22 2003//Tnetbsd-6-1-5-RELEASE
+/prman.c/1.5/Thu Aug  7 09:37:22 2003//Tnetbsd-6-1-5-RELEASE
+/prword.c/1.5/Thu Aug  7 09:37:22 2003//Tnetbsd-6-1-5-RELEASE
+/setup.c/1.10/Thu Aug  7 09:37:22 2003//Tnetbsd-6-1-5-RELEASE
+D

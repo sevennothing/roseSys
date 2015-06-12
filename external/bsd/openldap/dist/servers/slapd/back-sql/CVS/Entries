@@ -1,0 +1,20 @@
+/Makefile.in/1.1.1.3/Sun Dec 12 15:23:25 2010//Tnetbsd-6-1-5-RELEASE
+/add.c/1.1.1.3/Sun Dec 12 15:23:23 2010//Tnetbsd-6-1-5-RELEASE
+/api.c/1.1.1.3/Sun Dec 12 15:23:23 2010//Tnetbsd-6-1-5-RELEASE
+/back-sql.h/1.1.1.3/Sun Dec 12 15:23:23 2010//Tnetbsd-6-1-5-RELEASE
+/bind.c/1.1.1.3/Sun Dec 12 15:23:23 2010//Tnetbsd-6-1-5-RELEASE
+/compare.c/1.1.1.3/Sun Dec 12 15:23:23 2010//Tnetbsd-6-1-5-RELEASE
+/config.c/1.1.1.3/Sun Dec 12 15:23:24 2010//Tnetbsd-6-1-5-RELEASE
+/delete.c/1.1.1.3/Sun Dec 12 15:23:24 2010//Tnetbsd-6-1-5-RELEASE
+/entry-id.c/1.1.1.3/Sun Dec 12 15:23:24 2010//Tnetbsd-6-1-5-RELEASE
+/init.c/1.1.1.3/Sun Dec 12 15:23:25 2010//Tnetbsd-6-1-5-RELEASE
+/modify.c/1.1.1.3/Sun Dec 12 15:23:25 2010//Tnetbsd-6-1-5-RELEASE
+/modrdn.c/1.1.1.3/Sun Dec 12 15:23:25 2010//Tnetbsd-6-1-5-RELEASE
+/operational.c/1.1.1.3/Sun Dec 12 15:23:25 2010//Tnetbsd-6-1-5-RELEASE
+/proto-sql.h/1.1.1.3/Sun Dec 12 15:23:25 2010//Tnetbsd-6-1-5-RELEASE
+/schema-map.c/1.1.1.3/Sun Dec 12 15:23:26 2010//Tnetbsd-6-1-5-RELEASE
+/search.c/1.1.1.3/Sun Dec 12 15:23:27 2010//Tnetbsd-6-1-5-RELEASE
+/sql-wrap.c/1.1.1.3/Sun Dec 12 15:23:27 2010//Tnetbsd-6-1-5-RELEASE
+/util.c/1.1.1.3/Sun Dec 12 15:23:27 2010//Tnetbsd-6-1-5-RELEASE
+D/docs////
+D/rdbms_depend////

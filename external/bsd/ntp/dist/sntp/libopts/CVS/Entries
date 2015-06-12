@@ -1,0 +1,46 @@
+/COPYING.gplv3/1.1.1.2/Tue Jan 31 21:27:55 2012//Tnetbsd-6-1-5-RELEASE
+/COPYING.lgplv3/1.1.1.2/Tue Jan 31 21:27:54 2012//Tnetbsd-6-1-5-RELEASE
+/COPYING.mbsd/1.1.1.1/Sun Dec 13 16:57:16 2009//Tnetbsd-6-1-5-RELEASE
+/MakeDefs.inc/1.1.1.1/Sun Dec 13 16:57:16 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.am/1.1.1.2/Tue Jan 31 21:27:49 2012//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.2/Tue Jan 31 21:27:53 2012//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.2/Tue Jan 31 21:27:45 2012//Tnetbsd-6-1-5-RELEASE
+/ag-char-map.h/1.1.1.2/Tue Jan 31 21:27:48 2012//Tnetbsd-6-1-5-RELEASE
+/autoopts.c/1.2/Fri Feb  3 21:36:40 2012//Tnetbsd-6-1-5-RELEASE
+/autoopts.h/1.4/Fri Feb  3 21:36:40 2012//Tnetbsd-6-1-5-RELEASE
+/boolean.c/1.1.1.2/Tue Jan 31 21:27:49 2012//Tnetbsd-6-1-5-RELEASE
+/configfile.c/1.2/Fri Feb  3 21:36:40 2012//Tnetbsd-6-1-5-RELEASE
+/cook.c/1.1.1.2/Tue Jan 31 21:27:47 2012//Tnetbsd-6-1-5-RELEASE
+/enumeration.c/1.2/Fri Feb  3 21:36:40 2012//Tnetbsd-6-1-5-RELEASE
+/environment.c/1.1.1.2/Tue Jan 31 21:27:53 2012//Tnetbsd-6-1-5-RELEASE
+/file.c/1.2/Fri Feb  3 21:36:40 2012//Tnetbsd-6-1-5-RELEASE
+/genshell.c/1.1.1.2/Tue Jan 31 21:27:49 2012//Tnetbsd-6-1-5-RELEASE
+/genshell.h/1.1.1.2/Tue Jan 31 21:27:46 2012//Tnetbsd-6-1-5-RELEASE
+/libopts.c/1.1.1.2/Tue Jan 31 21:27:54 2012//Tnetbsd-6-1-5-RELEASE
+/load.c/1.2/Fri Feb  3 21:36:40 2012//Tnetbsd-6-1-5-RELEASE
+/makeshell.c/1.2/Fri Feb  3 21:36:40 2012//Tnetbsd-6-1-5-RELEASE
+/nested.c/1.4/Fri Feb  3 21:36:40 2012//Tnetbsd-6-1-5-RELEASE
+/numeric.c/1.2/Wed Feb  1 20:48:01 2012//Tnetbsd-6-1-5-RELEASE
+/parse-duration.c/1.3/Fri Feb  3 21:36:40 2012//Tnetbsd-6-1-5-RELEASE
+/parse-duration.h/1.1.1.2/Tue Jan 31 21:27:47 2012//Tnetbsd-6-1-5-RELEASE
+/pgusage.c/1.1.1.2/Tue Jan 31 21:27:52 2012//Tnetbsd-6-1-5-RELEASE
+/proto.h/1.1.1.2/Tue Jan 31 21:27:51 2012//Tnetbsd-6-1-5-RELEASE
+/putshell.c/1.2/Fri Feb  3 21:36:40 2012//Tnetbsd-6-1-5-RELEASE
+/reset.c/1.2/Fri Feb  3 21:36:40 2012//Tnetbsd-6-1-5-RELEASE
+/restore.c/1.1.1.2/Tue Jan 31 21:27:49 2012//Tnetbsd-6-1-5-RELEASE
+/save.c/1.4/Fri Feb  3 21:36:40 2012//Tnetbsd-6-1-5-RELEASE
+/sort.c/1.1.1.2/Tue Jan 31 21:27:52 2012//Tnetbsd-6-1-5-RELEASE
+/stack.c/1.3/Wed Feb  1 07:46:23 2012//Tnetbsd-6-1-5-RELEASE
+/streqvcmp.c/1.2/Fri Feb  3 21:36:40 2012//Tnetbsd-6-1-5-RELEASE
+/text_mmap.c/1.1.1.2/Tue Jan 31 21:27:51 2012//Tnetbsd-6-1-5-RELEASE
+/time.c/1.1.1.2/Tue Jan 31 21:27:45 2012//Tnetbsd-6-1-5-RELEASE
+/tokenize.c/1.2/Fri Feb  3 21:36:40 2012//Tnetbsd-6-1-5-RELEASE
+/usage.c/1.1.1.2/Tue Jan 31 21:27:53 2012//Tnetbsd-6-1-5-RELEASE
+/value-type.c/1.1.1.2/Tue Jan 31 21:27:48 2012//Tnetbsd-6-1-5-RELEASE
+/value-type.h/1.1.1.2/Tue Jan 31 21:27:51 2012//Tnetbsd-6-1-5-RELEASE
+/version.c/1.1.1.2/Tue Jan 31 21:27:46 2012//Tnetbsd-6-1-5-RELEASE
+/xat-attribute.c/1.1.1.2/Tue Jan 31 21:27:52 2012//Tnetbsd-6-1-5-RELEASE
+/xat-attribute.h/1.1.1.2/Tue Jan 31 21:27:48 2012//Tnetbsd-6-1-5-RELEASE
+D/autoopts////
+D/compat////
+D/m4////

@@ -1,0 +1,10 @@
+/Makefile.am/1.1.1.1/Sun Dec 13 16:54:56 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.2/Tue Jan 31 21:23:34 2012//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.1/Sun Dec 13 16:54:56 2009//Tnetbsd-6-1-5-RELEASE
+/chuinit.c/1.1.1.1/Sun Dec 13 16:54:57 2009//Tnetbsd-6-1-5-RELEASE
+/clkinit.c/1.1.1.1/Sun Dec 13 16:54:57 2009//Tnetbsd-6-1-5-RELEASE
+/tty_chu.c/1.1.1.1/Sun Dec 13 16:54:57 2009//Tnetbsd-6-1-5-RELEASE
+/tty_chu_STREAMS.c/1.1.1.1/Sun Dec 13 16:54:56 2009//Tnetbsd-6-1-5-RELEASE
+/tty_clk.c/1.1.1.1/Sun Dec 13 16:54:57 2009//Tnetbsd-6-1-5-RELEASE
+/tty_clk_STREAMS.c/1.1.1.1/Sun Dec 13 16:54:56 2009//Tnetbsd-6-1-5-RELEASE
+D/sys////

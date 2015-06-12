@@ -1,0 +1,9 @@
+/Makefile/1.2/Wed Apr 22 15:23:05 2009//Tnetbsd-6-1-5-RELEASE
+/defs.h/1.2/Mon Feb 16 06:46:54 2009//Tnetbsd-6-1-5-RELEASE
+/mmcformat.8/1.4/Wed Nov 26 21:04:56 2008//Tnetbsd-6-1-5-RELEASE
+/mmcformat.c/1.3/Sun Jan 18 09:58:41 2009//Tnetbsd-6-1-5-RELEASE
+/uscsi_sense.c/1.1/Wed May 14 16:49:48 2008//Tnetbsd-6-1-5-RELEASE
+/uscsi_subr.c/1.1/Wed May 14 16:49:48 2008//Tnetbsd-6-1-5-RELEASE
+/uscsilib.h/1.1/Wed May 14 16:49:48 2008//Tnetbsd-6-1-5-RELEASE
+/uscsilib_machdep.h/1.1/Wed May 14 16:49:48 2008//Tnetbsd-6-1-5-RELEASE
+D

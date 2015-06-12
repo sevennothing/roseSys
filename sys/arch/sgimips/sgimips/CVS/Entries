@@ -1,0 +1,14 @@
+/arcemu.c/1.21/Fri Jul  1 18:54:32 2011//Tnetbsd-6-1-5-RELEASE
+/arcemu.h/1.12/Sun Feb 20 07:59:51 2011//Tnetbsd-6-1-5-RELEASE
+/autoconf.c/1.42.18.1/Wed Aug  8 15:51:03 2012//Tnetbsd-6-1-5-RELEASE
+/bus.c/1.64/Sun Feb 12 16:34:10 2012//Tnetbsd-6-1-5-RELEASE
+/clock.c/1.24/Sun Feb 20 07:59:51 2011//Tnetbsd-6-1-5-RELEASE
+/clockvar.h/1.4/Tue Sep  5 01:38:59 2006//Tnetbsd-6-1-5-RELEASE
+/console.c/1.42/Fri Jul  1 18:54:32 2011//Tnetbsd-6-1-5-RELEASE
+/cpu.c/1.26/Sun Feb 20 07:59:51 2011//Tnetbsd-6-1-5-RELEASE
+/disksubr.c/1.23/Wed Jan  2 11:48:28 2008//Tnetbsd-6-1-5-RELEASE
+/ip22_cache.S/1.5/Sun Dec 11 12:18:58 2005//Tnetbsd-6-1-5-RELEASE
+/locore_machdep.S/1.5/Fri Apr 28 01:12:51 2006//Tnetbsd-6-1-5-RELEASE
+/machdep.c/1.136/Thu Jul 28 04:06:09 2011//Tnetbsd-6-1-5-RELEASE
+/mainbus.c/1.20/Sun Feb 20 07:59:51 2011//Tnetbsd-6-1-5-RELEASE
+D

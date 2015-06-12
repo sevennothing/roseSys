@@ -1,0 +1,18 @@
+/Makefile/1.4/Tue Nov 26 23:30:11 2002//Tnetbsd-6-1-5-RELEASE
+/dc21285mem.h/1.2/Sat Jun  9 10:44:11 2001//Tnetbsd-6-1-5-RELEASE
+/dc21285reg.h/1.5/Fri Dec 14 11:08:03 2007//Tnetbsd-6-1-5-RELEASE
+/footbridge.c/1.25/Fri Jul  1 19:32:28 2011//Tnetbsd-6-1-5-RELEASE
+/footbridge.h/1.4/Fri Jul  1 19:32:28 2011//Tnetbsd-6-1-5-RELEASE
+/footbridge_clock.c/1.26/Tue Jul 21 07:35:55 2009//Tnetbsd-6-1-5-RELEASE
+/footbridge_com.c/1.34/Fri Jul  1 19:32:28 2011//Tnetbsd-6-1-5-RELEASE
+/footbridge_com_io.c/1.8/Sun Feb 12 16:34:07 2012//Tnetbsd-6-1-5-RELEASE
+/footbridge_intr.h/1.14/Fri Feb 13 08:37:52 2009//Tnetbsd-6-1-5-RELEASE
+/footbridge_io.c/1.21/Sun Feb 12 16:34:07 2012//Tnetbsd-6-1-5-RELEASE
+/footbridge_irqhandler.c/1.23/Mon Dec 20 00:25:27 2010//Tnetbsd-6-1-5-RELEASE
+/footbridge_irqhandler.h/1.5/Sun Dec 11 12:16:45 2005//Tnetbsd-6-1-5-RELEASE
+/footbridge_machdep.c/1.10/Tue Apr  1 23:19:10 2003//Tnetbsd-6-1-5-RELEASE
+/footbridge_pci.c/1.22/Sun Feb 12 16:34:07 2012//Tnetbsd-6-1-5-RELEASE
+/footbridgevar.h/1.7/Fri Jul  1 19:32:28 2011//Tnetbsd-6-1-5-RELEASE
+/todclock.c/1.14/Tue Jul 21 07:35:55 2009//Tnetbsd-6-1-5-RELEASE
+/todclockvar.h/1.2/Sat Mar 14 14:45:55 2009//Tnetbsd-6-1-5-RELEASE
+D/isa////

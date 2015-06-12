@@ -1,0 +1,27 @@
+/Makefile/1.10/Sat Feb  6 23:45:24 2010//Tnetbsd-6-1-5-RELEASE
+/battlestar.6/1.15/Thu Sep 15 02:09:41 2005//Tnetbsd-6-1-5-RELEASE
+/battlestar.c/1.16/Sun Jul 20 01:03:21 2008//Tnetbsd-6-1-5-RELEASE
+/command1.c/1.4/Wed Aug 12 05:20:38 2009//Tnetbsd-6-1-5-RELEASE
+/command2.c/1.3/Fri Jul  1 06:04:54 2005//Tnetbsd-6-1-5-RELEASE
+/command3.c/1.3/Fri Jul  1 06:04:54 2005//Tnetbsd-6-1-5-RELEASE
+/command4.c/1.3/Fri Jul  1 06:04:54 2005//Tnetbsd-6-1-5-RELEASE
+/command5.c/1.3/Fri Jul  1 06:04:54 2005//Tnetbsd-6-1-5-RELEASE
+/command6.c/1.8/Sat Apr 24 00:38:30 2010//Tnetbsd-6-1-5-RELEASE
+/command7.c/1.3/Fri Jul  1 06:04:54 2005//Tnetbsd-6-1-5-RELEASE
+/cypher.c/1.23/Fri Jul  1 06:04:54 2005//Tnetbsd-6-1-5-RELEASE
+/dayfile.c/1.12/Thu Aug  7 09:37:01 2003//Tnetbsd-6-1-5-RELEASE
+/dayobjs.c/1.9/Thu Aug  7 09:37:01 2003//Tnetbsd-6-1-5-RELEASE
+/extern.h/1.33/Fri Aug 26 06:18:17 2011//Tnetbsd-6-1-5-RELEASE
+/fly.c/1.14/Sat Dec 15 19:44:39 2007//Tnetbsd-6-1-5-RELEASE
+/getcom.c/1.14/Mon Jan 16 17:38:16 2012//Tnetbsd-6-1-5-RELEASE
+/globals.c/1.19/Thu Aug  7 09:37:02 2003//Tnetbsd-6-1-5-RELEASE
+/init.c/1.15/Fri Jul  1 06:04:54 2005//Tnetbsd-6-1-5-RELEASE
+/misc.c/1.9/Fri Jul  1 06:04:54 2005//Tnetbsd-6-1-5-RELEASE
+/nightfile.c/1.12/Thu Aug  7 09:37:02 2003//Tnetbsd-6-1-5-RELEASE
+/nightobjs.c/1.9/Thu Aug  7 09:37:03 2003//Tnetbsd-6-1-5-RELEASE
+/parse.c/1.15/Fri Jul  1 06:04:54 2005//Tnetbsd-6-1-5-RELEASE
+/pathnames.h/1.4/Thu Aug  7 09:37:03 2003//Tnetbsd-6-1-5-RELEASE
+/room.c/1.13/Mon May 23 22:44:18 2011//Tnetbsd-6-1-5-RELEASE
+/save.c/1.12/Fri Jul  1 06:04:54 2005//Tnetbsd-6-1-5-RELEASE
+/words.c/1.11/Thu Aug  7 09:37:03 2003//Tnetbsd-6-1-5-RELEASE
+D

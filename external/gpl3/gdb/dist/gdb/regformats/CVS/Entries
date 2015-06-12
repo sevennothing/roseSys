@@ -1,0 +1,25 @@
+/arm-with-iwmmxt.dat/1.1.1.1/Sat Sep 24 20:15:57 2011//Tnetbsd-6-1-5-RELEASE
+/arm-with-neon.dat/1.1.1.1/Sat Sep 24 20:15:57 2011//Tnetbsd-6-1-5-RELEASE
+/arm-with-vfpv2.dat/1.1.1.1/Sat Sep 24 20:15:57 2011//Tnetbsd-6-1-5-RELEASE
+/arm-with-vfpv3.dat/1.1.1.1/Sat Sep 24 20:15:57 2011//Tnetbsd-6-1-5-RELEASE
+/mips-linux.dat/1.1.1.1/Sat Sep 24 20:15:57 2011//Tnetbsd-6-1-5-RELEASE
+/mips64-linux.dat/1.1.1.1/Sat Sep 24 20:15:57 2011//Tnetbsd-6-1-5-RELEASE
+/reg-arm.dat/1.1.1.1/Sat Sep 24 20:15:57 2011//Tnetbsd-6-1-5-RELEASE
+/reg-bfin.dat/1.1.1.1/Sat Sep 24 20:15:57 2011//Tnetbsd-6-1-5-RELEASE
+/reg-cf.dat/1.1.1.1/Sat Sep 24 20:15:57 2011//Tnetbsd-6-1-5-RELEASE
+/reg-cris.dat/1.1.1.1/Sat Sep 24 20:15:57 2011//Tnetbsd-6-1-5-RELEASE
+/reg-crisv32.dat/1.1.1.1/Sat Sep 24 20:15:57 2011//Tnetbsd-6-1-5-RELEASE
+/reg-ia64.dat/1.1.1.1/Sat Sep 24 20:15:57 2011//Tnetbsd-6-1-5-RELEASE
+/reg-m32r.dat/1.1.1.1/Sat Sep 24 20:15:57 2011//Tnetbsd-6-1-5-RELEASE
+/reg-m68k.dat/1.1.1.1/Sat Sep 24 20:15:58 2011//Tnetbsd-6-1-5-RELEASE
+/reg-sh.dat/1.1.1.1/Sat Sep 24 20:15:58 2011//Tnetbsd-6-1-5-RELEASE
+/reg-sparc64.dat/1.1.1.1/Sat Sep 24 20:15:58 2011//Tnetbsd-6-1-5-RELEASE
+/reg-spu.dat/1.1.1.1/Sat Sep 24 20:15:58 2011//Tnetbsd-6-1-5-RELEASE
+/reg-xtensa.dat/1.1.1.1/Sat Sep 24 20:15:58 2011//Tnetbsd-6-1-5-RELEASE
+/regdat.sh/1.1.1.1/Sat Sep 24 20:15:58 2011//Tnetbsd-6-1-5-RELEASE
+/regdef.h/1.1.1.1/Sat Sep 24 20:15:58 2011//Tnetbsd-6-1-5-RELEASE
+/s390-linux32.dat/1.1.1.1/Sat Sep 24 20:15:57 2011//Tnetbsd-6-1-5-RELEASE
+/s390-linux64.dat/1.1.1.1/Sat Sep 24 20:15:58 2011//Tnetbsd-6-1-5-RELEASE
+/s390x-linux64.dat/1.1.1.1/Sat Sep 24 20:15:58 2011//Tnetbsd-6-1-5-RELEASE
+D/i386////
+D/rs6000////

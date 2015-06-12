@@ -1,0 +1,25 @@
+/20010423-1.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/20020313-1.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/20020326-1.c/1.1.1.1/Thu Apr 20 09:14:51 2006//Tnetbsd-6-1-5-RELEASE
+/20030225-2.c/1.1.1.1/Thu Apr 20 09:14:51 2006//Tnetbsd-6-1-5-RELEASE
+/20030405-1.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/20030811-1.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/20040303-1.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/asm-1.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/float80-1.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/float80-2.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/float80-varargs-1.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/fpreg-1.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/fpreg-2.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/fptr-1.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/got-1.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/ia64.exp/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/postinc-1.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/sibcall-unwind-1.c/1.1.1.1/Thu Apr 20 09:14:48 2006//Tnetbsd-6-1-5-RELEASE
+/sibcall-unwind-2.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/small-addr-1.c/1.1.1.1/Thu Apr 20 09:14:48 2006//Tnetbsd-6-1-5-RELEASE
+/types-1.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/types-2.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/visibility-1.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+/visibility-2.c/1.1.1.1/Thu Apr 20 09:14:49 2006//Tnetbsd-6-1-5-RELEASE
+D

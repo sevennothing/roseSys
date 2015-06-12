@@ -1,0 +1,14 @@
+/Makefile/1.15.4.2/Sun Nov 18 19:05:18 2012//Tnetbsd-6-1-5-RELEASE
+/Makefile.xxboot/1.1.6.2/Sun Nov 18 19:05:17 2012//Tnetbsd-6-1-5-RELEASE
+/boot.S/1.3.2.3/Sat Nov 24 20:20:27 2012//Tnetbsd-6-1-5-RELEASE
+/bootmain.c/1.4.2.3/Sat Nov 24 20:20:27 2012//Tnetbsd-6-1-5-RELEASE
+/conf.c/1.1.6.2/Sun Nov 18 19:05:17 2012//Tnetbsd-6-1-5-RELEASE
+/consio1.c/1.1.6.2/Sun Nov 18 19:05:17 2012//Tnetbsd-6-1-5-RELEASE
+/version/1.2.2.3/Sat Nov 24 20:20:27 2012//Tnetbsd-6-1-5-RELEASE
+/xx.c/1.2.2.3/Sat Nov 24 20:20:27 2012//Tnetbsd-6-1-5-RELEASE
+/xxboot.ldscript/1.1.6.2/Sun Nov 18 19:05:18 2012//Tnetbsd-6-1-5-RELEASE
+D/cdboot_cd9660////
+D/xxboot_ffsv1////
+D/xxboot_ffsv2////
+D/xxboot_lfsv1////
+D/xxboot_lfsv2////

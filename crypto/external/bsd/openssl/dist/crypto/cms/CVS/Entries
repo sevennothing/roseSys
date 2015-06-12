@@ -1,0 +1,17 @@
+/Makefile/1.1.1.3.4.1/Tue Aug 14 07:56:16 2012//Tnetbsd-6-1-5-RELEASE
+/cms.h/1.1.1.3.4.1/Tue Aug 14 07:56:17 2012//Tnetbsd-6-1-5-RELEASE
+/cms_asn1.c/1.1.1.3.4.1/Tue Aug 14 07:56:17 2012//Tnetbsd-6-1-5-RELEASE
+/cms_att.c/1.1.1.1/Sun Jul 19 23:03:27 2009//Tnetbsd-6-1-5-RELEASE
+/cms_cd.c/1.1.1.1.16.1/Tue Apr  8 11:44:23 2014//Tnetbsd-6-1-5-RELEASE
+/cms_dd.c/1.1.1.1/Sun Jul 19 23:03:27 2009//Tnetbsd-6-1-5-RELEASE
+/cms_enc.c/1.1.1.1.8.1.6.1/Tue Apr  8 11:44:23 2014//Tnetbsd-6-1-5-RELEASE
+/cms_env.c/1.1.1.3.4.1.6.1/Fri Jun  6 05:20:05 2014//Tnetbsd-6-1-5-RELEASE
+/cms_err.c/1.1.1.3.4.1/Tue Aug 14 07:56:17 2012//Tnetbsd-6-1-5-RELEASE
+/cms_ess.c/1.1.1.2/Sat Dec 26 23:31:59 2009//Tnetbsd-6-1-5-RELEASE
+/cms_io.c/1.1.1.1/Sun Jul 19 23:03:28 2009//Tnetbsd-6-1-5-RELEASE
+/cms_lcl.h/1.1.1.3.4.1/Tue Aug 14 07:56:18 2012//Tnetbsd-6-1-5-RELEASE
+/cms_lib.c/1.1.1.3.12.1/Tue Apr  8 11:44:23 2014//Tnetbsd-6-1-5-RELEASE
+/cms_pwri.c/1.3.2.2.6.1/Fri Aug 15 08:25:07 2014//Tnetbsd-6-1-5-RELEASE
+/cms_sd.c/1.1.1.2.22.1/Fri Jun  6 05:20:05 2014//Tnetbsd-6-1-5-RELEASE
+/cms_smime.c/1.1.1.3.4.1.6.1/Fri Jun  6 05:20:05 2014//Tnetbsd-6-1-5-RELEASE
+D

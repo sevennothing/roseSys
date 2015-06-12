@@ -1,0 +1,15 @@
+/ChangeLog/1.1.1.1/Wed Apr 13 18:15:39 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.am/1.1.1.2/Thu Apr 14 14:09:27 2011//Tnetbsd-6-1-5-RELEASE
+/NTMakefile/1.1.1.1/Wed Apr 13 18:15:39 2011//Tnetbsd-6-1-5-RELEASE
+/apop.c/1.1.1.1/Wed Apr 13 18:15:39 2011//Tnetbsd-6-1-5-RELEASE
+/digest.c/1.1.1.1/Wed Apr 13 18:15:39 2011//Tnetbsd-6-1-5-RELEASE
+/heim-auth.h/1.1.1.1/Wed Apr 13 18:15:39 2011//Tnetbsd-6-1-5-RELEASE
+/heimntlm.h/1.1.1.2/Thu Apr 14 14:09:27 2011//Tnetbsd-6-1-5-RELEASE
+/libheimntlm-exports.def/1.1.1.1/Wed Apr 13 18:15:39 2011//Tnetbsd-6-1-5-RELEASE
+/libheimntlm-version.rc/1.1.1.1/Wed Apr 13 18:15:39 2011//Tnetbsd-6-1-5-RELEASE
+/ntlm.c/1.1.1.1/Wed Apr 13 18:15:39 2011//Tnetbsd-6-1-5-RELEASE
+/ntlm_err.et/1.1.1.1/Wed Apr 13 18:15:39 2011//Tnetbsd-6-1-5-RELEASE
+/test_commonauth.c/1.1.1.1/Wed Apr 13 18:15:39 2011//Tnetbsd-6-1-5-RELEASE
+/test_ntlm.c/1.1.1.1/Wed Apr 13 18:15:39 2011//Tnetbsd-6-1-5-RELEASE
+/version-script.map/1.1.1.2/Thu Apr 14 14:09:28 2011//Tnetbsd-6-1-5-RELEASE
+D

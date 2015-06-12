@@ -1,0 +1,9 @@
+/README.TXT/1.1.1.1/Fri Jul 23 05:34:43 2004//Tnetbsd-6-1-5-RELEASE
+/bpftest/1.2/Wed Feb 15 17:55:12 2012//Tnetbsd-6-1-5-RELEASE
+/iptest/1.2/Wed Feb 15 17:55:12 2012//Tnetbsd-6-1-5-RELEASE
+/ptest/1.2/Wed Feb 15 17:55:12 2012//Tnetbsd-6-1-5-RELEASE
+/test.format/1.2/Wed Feb 15 17:55:12 2012//Tnetbsd-6-1-5-RELEASE
+/vfycksum.pl/1.2/Wed Feb 15 17:55:12 2012//Tnetbsd-6-1-5-RELEASE
+D/expected////
+D/input////
+D/regress////

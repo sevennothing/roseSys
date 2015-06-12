@@ -1,0 +1,136 @@
+/MAKEDEV.awk/1.21/Tue Mar 30 07:30:03 2010//Tnetbsd-6-1-5-RELEASE
+/MAKEDEV.local/1.14/Wed Apr 30 13:10:49 2008//Tnetbsd-6-1-5-RELEASE
+/MAKEDEV.tmpl/1.151.2.9.2.1/Mon Jul 29 08:53:44 2013//Tnetbsd-6-1-5-RELEASE
+/Makefile/1.396.2.2/Mon Sep 17 19:00:34 2012//Tnetbsd-6-1-5-RELEASE
+/aliases/1.22/Wed Aug 25 15:38:44 2010//Tnetbsd-6-1-5-RELEASE
+/bootptab/1.6/Tue Apr 24 21:55:06 2001//Tnetbsd-6-1-5-RELEASE
+/changelist/1.25/Tue Jan 27 10:32:18 2009//Tnetbsd-6-1-5-RELEASE
+/crontab/1.15/Wed Nov 27 15:09:17 2002//Tnetbsd-6-1-5-RELEASE
+/csh.cshrc/1.2/Wed May  8 17:19:27 1996//Tnetbsd-6-1-5-RELEASE
+/csh.login/1.2/Wed May  8 17:19:28 1996//Tnetbsd-6-1-5-RELEASE
+/csh.logout/1.2/Wed May  8 17:19:31 1996//Tnetbsd-6-1-5-RELEASE
+/daily/1.80.2.6/Tue Nov 20 23:11:47 2012//Tnetbsd-6-1-5-RELEASE
+/daily.conf/1.4/Sun Oct  1 05:53:01 2000//Tnetbsd-6-1-5-RELEASE
+/disktab/1.2/Sat Jan 25 18:28:44 2003//Tnetbsd-6-1-5-RELEASE
+/dm.conf/1.3/Sat Feb 15 10:02:12 1997//Tnetbsd-6-1-5-RELEASE
+/envsys.conf/1.12/Sat Apr 26 13:02:35 2008//Tnetbsd-6-1-5-RELEASE
+/floppytab/1.1/Fri Nov 29 16:31:54 1996//Tnetbsd-6-1-5-RELEASE
+/ftpchroot/1.3/Sat Jan  4 14:03:34 1997//Tnetbsd-6-1-5-RELEASE
+/ftpusers/1.9/Tue May 30 02:10:01 2006//Tnetbsd-6-1-5-RELEASE
+/gettytab/1.18/Sun Jan  8 22:23:46 2006//Tnetbsd-6-1-5-RELEASE
+/gpio.conf/1.2/Sat Nov 19 17:30:09 2011//Tnetbsd-6-1-5-RELEASE
+/group/1.28/Sat Jan 28 02:17:29 2012//Tnetbsd-6-1-5-RELEASE
+/hosts/1.8/Fri Jul  3 22:32:55 2009//Tnetbsd-6-1-5-RELEASE
+/hosts.equiv/1.3/Wed May 22 01:36:12 1996//Tnetbsd-6-1-5-RELEASE
+/hosts.lpd/1.2/Sat Jan  4 14:03:36 1997//Tnetbsd-6-1-5-RELEASE
+/inetd.conf/1.58/Tue Oct 16 02:47:14 2007//Tnetbsd-6-1-5-RELEASE
+/locate.conf/1.1/Fri Feb  6 15:24:25 2004//Tnetbsd-6-1-5-RELEASE
+/login.conf/1.3/Wed Nov 19 18:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/mailer.conf/1.18/Sun Jul 24 08:28:11 2011//Tnetbsd-6-1-5-RELEASE
+/man.conf/1.29.2.1/Sat Feb 18 18:03:26 2012//Tnetbsd-6-1-5-RELEASE
+/master.passwd/1.45.2.1/Fri Jul 20 23:16:29 2012//Tnetbsd-6-1-5-RELEASE
+/minfree/1.1/Wed Jul 30 22:17:57 1997//Tnetbsd-6-1-5-RELEASE
+/mkttys/1.1/Sun Jun 20 21:30:26 2004//Tnetbsd-6-1-5-RELEASE
+/monthly/1.12/Mon Dec 27 03:38:52 2010//Tnetbsd-6-1-5-RELEASE
+/monthly.conf/1.3/Sun Oct  1 05:53:01 2000//Tnetbsd-6-1-5-RELEASE
+/motd/1.3/Wed Apr 28 05:16:16 1993//Tnetbsd-6-1-5-RELEASE
+/motd.beta/1.4/Thu Aug 30 15:56:34 2007//Tnetbsd-6-1-5-RELEASE
+/motd.current/1.6/Mon Mar 23 18:19:16 2009//Tnetbsd-6-1-5-RELEASE
+/motd.rc/1.4/Thu Aug 30 15:56:34 2007//Tnetbsd-6-1-5-RELEASE
+/motd.stable/1.4/Thu Aug 30 15:56:34 2007//Tnetbsd-6-1-5-RELEASE
+/mrouted.conf/1.5/Tue Jan 21 23:50:05 2003//Tnetbsd-6-1-5-RELEASE
+/named.conf/1.6/Tue Aug 24 13:18:58 2010//Tnetbsd-6-1-5-RELEASE
+/netconfig/1.1/Fri Jun  2 22:54:10 2000//Tnetbsd-6-1-5-RELEASE
+/networks/1.5/Fri Jul 10 06:22:15 1998//Tnetbsd-6-1-5-RELEASE
+/newsyslog.conf/1.21/Mon Sep 18 22:39:37 2006//Tnetbsd-6-1-5-RELEASE
+/nsswitch.conf/1.6/Sun Oct 25 00:17:06 2009//Tnetbsd-6-1-5-RELEASE
+/ntp.conf/1.14.16.1/Mon Jan  6 19:12:23 2014//Tnetbsd-6-1-5-RELEASE
+/passwd.conf/1.3/Fri Dec  3 21:40:04 2010//Tnetbsd-6-1-5-RELEASE
+/phones/1.4/Sat Feb 15 10:02:21 1997//Tnetbsd-6-1-5-RELEASE
+/printcap/1.14/Thu Sep  4 18:22:47 2008//Tnetbsd-6-1-5-RELEASE
+/profile/1.1/Sat Jun 21 06:07:39 1997//Tnetbsd-6-1-5-RELEASE
+/protocols/1.23/Tue Jan  4 06:54:59 2011//Tnetbsd-6-1-5-RELEASE
+/rbootd.conf/1.3/Sun Dec 29 03:30:09 1996//Tnetbsd-6-1-5-RELEASE
+/rc/1.166/Thu Aug 11 22:52:47 2011//Tnetbsd-6-1-5-RELEASE
+/rc.conf/1.96/Sat Oct 14 17:01:29 2000//Tnetbsd-6-1-5-RELEASE
+/rc.local/1.32/Wed Jun 11 17:14:52 2008//Tnetbsd-6-1-5-RELEASE
+/rc.shutdown/1.8.60.1/Mon Jul  2 21:20:52 2012//Tnetbsd-6-1-5-RELEASE
+/rc.subr/1.88.4.1/Mon Apr  9 18:05:28 2012//Tnetbsd-6-1-5-RELEASE
+/remote/1.8/Wed Apr 25 23:46:12 2001//Tnetbsd-6-1-5-RELEASE
+/rpc/1.7/Sat May 17 21:37:09 2008//Tnetbsd-6-1-5-RELEASE
+/security/1.110/Wed Mar  2 17:00:28 2011//Tnetbsd-6-1-5-RELEASE
+/security.conf/1.8/Sun Oct  1 05:53:03 2000//Tnetbsd-6-1-5-RELEASE
+/services/1.94/Thu Feb 10 13:39:32 2011//Tnetbsd-6-1-5-RELEASE
+/shells/1.3/Sun Dec 29 03:23:07 1996//Tnetbsd-6-1-5-RELEASE
+/shrc/1.7/Mon Dec 27 03:38:52 2010//Tnetbsd-6-1-5-RELEASE
+/sysctl.conf/1.8/Sun Sep 25 21:47:22 2011//Tnetbsd-6-1-5-RELEASE
+/syslog.conf/1.9/Fri Jul 23 03:45:42 2004//Tnetbsd-6-1-5-RELEASE
+/weekly/1.25.2.4/Tue Nov 20 23:11:47 2012//Tnetbsd-6-1-5-RELEASE
+/weekly.conf/1.3/Sun Oct  1 05:53:03 2000//Tnetbsd-6-1-5-RELEASE
+/wscons.conf/1.19/Fri Jul 22 19:06:23 2011//Tnetbsd-6-1-5-RELEASE
+D/bluetooth////
+D/defaults////
+D/etc.acorn26////
+D/etc.acorn32////
+D/etc.algor////
+D/etc.alpha////
+D/etc.amd64////
+D/etc.amiga////
+D/etc.amigappc////
+D/etc.arc////
+D/etc.atari////
+D/etc.bebox////
+D/etc.cats////
+D/etc.cesfic////
+D/etc.cobalt////
+D/etc.dreamcast////
+D/etc.emips////
+D/etc.evbarm////
+D/etc.evbmips////
+D/etc.evbppc////
+D/etc.evbsh3////
+D/etc.ews4800mips////
+D/etc.hp300////
+D/etc.hp700////
+D/etc.hpcarm////
+D/etc.hpcmips////
+D/etc.hpcsh////
+D/etc.i386////
+D/etc.ibmnws////
+D/etc.iyonix////
+D/etc.landisk////
+D/etc.luna68k////
+D/etc.mac68k////
+D/etc.macppc////
+D/etc.mipsco////
+D/etc.mmeye////
+D/etc.mvme68k////
+D/etc.mvmeppc////
+D/etc.netwinder////
+D/etc.news68k////
+D/etc.newsmips////
+D/etc.next68k////
+D/etc.ofppc////
+D/etc.pmax////
+D/etc.prep////
+D/etc.rs6000////
+D/etc.sandpoint////
+D/etc.sbmips////
+D/etc.sgimips////
+D/etc.shark////
+D/etc.sparc////
+D/etc.sparc64////
+D/etc.sun2////
+D/etc.sun3////
+D/etc.vax////
+D/etc.x68k////
+D/etc.zaurus////
+D/iscsi////
+D/mtree////
+D/namedb////
+D/pam.d////
+D/powerd////
+D/rc.d////
+D/root////
+D/skel////
+D/ssh////

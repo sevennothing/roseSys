@@ -1,0 +1,17 @@
+/Makefile/1.18/Sun Sep 11 10:32:23 2011//Tnetbsd-6-1-5-RELEASE
+/h_atexit.c/1.1/Wed Jan 12 19:44:08 2011//Tnetbsd-6-1-5-RELEASE
+/h_getopt.c/1.1/Sat Jan  1 23:56:49 2011//Tnetbsd-6-1-5-RELEASE
+/h_getopt_long.c/1.1/Sat Jan  1 23:56:49 2011//Tnetbsd-6-1-5-RELEASE
+/t_atexit.sh/1.1/Wed Jan 12 19:44:08 2011//Tnetbsd-6-1-5-RELEASE
+/t_div.c/1.2/Thu Jul  7 11:12:18 2011//Tnetbsd-6-1-5-RELEASE
+/t_exit.c/1.1/Mon May  9 07:31:51 2011//Tnetbsd-6-1-5-RELEASE
+/t_getenv.c/1.2/Fri Jul 15 13:54:31 2011//Tnetbsd-6-1-5-RELEASE
+/t_getenv_thread.c/1.1/Fri Jul 15 13:54:31 2011//Tnetbsd-6-1-5-RELEASE
+/t_getopt.sh/1.1/Sat Jan  1 23:56:49 2011//Tnetbsd-6-1-5-RELEASE
+/t_hsearch.c/1.3/Thu Sep 15 14:51:06 2011//Tnetbsd-6-1-5-RELEASE
+/t_mi_vector_hash.c/1.3/Thu Jul  7 11:12:18 2011//Tnetbsd-6-1-5-RELEASE
+/t_posix_memalign.c/1.2/Thu Jul  7 11:12:18 2011//Tnetbsd-6-1-5-RELEASE
+/t_strtod.c/1.27/Fri Sep 30 14:50:20 2011//Tnetbsd-6-1-5-RELEASE
+/t_strtol.c/1.5/Tue Jun 14 02:45:58 2011//Tnetbsd-6-1-5-RELEASE
+/t_system.c/1.1/Sun Sep 11 10:32:23 2011//Tnetbsd-6-1-5-RELEASE
+D

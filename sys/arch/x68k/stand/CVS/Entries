@@ -1,0 +1,17 @@
+/Makefile/1.8.162.2/Sun Nov 18 19:05:18 2012//Tnetbsd-6-1-5-RELEASE
+/Makefile.booters/1.7/Tue Oct 11 13:07:06 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.1/Mon Jan  7 04:00:02 2002//Tnetbsd-6-1-5-RELEASE
+D/aout2hux////
+D/boot////
+D/boot_ufs////
+D/boot_ustar////
+D/common////
+D/installboot////
+D/libdos////
+D/libiocs////
+D/libsa////
+D/loadbsd////
+D/mboot////
+D/netboot////
+D/newdisk////
+D/xxboot////

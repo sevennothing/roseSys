@@ -1,0 +1,15 @@
+/bsdtar.1/1.1.1.3/Wed Jul 14 22:11:31 2010//Tnetbsd-6-1-5-RELEASE
+/bsdtar.c/1.1.1.2/Sat Feb 20 02:49:08 2010//Tnetbsd-6-1-5-RELEASE
+/bsdtar.h/1.1.1.2/Sat Feb 20 02:49:08 2010//Tnetbsd-6-1-5-RELEASE
+/bsdtar_platform.h/1.1.1.2/Sat Feb 20 02:49:08 2010//Tnetbsd-6-1-5-RELEASE
+/bsdtar_windows.c/1.1.1.1/Sat Feb 20 02:49:10 2010//Tnetbsd-6-1-5-RELEASE
+/bsdtar_windows.h/1.1.1.1/Sat Feb 20 02:49:10 2010//Tnetbsd-6-1-5-RELEASE
+/cmdline.c/1.1.1.1/Sat Feb 20 02:49:08 2010//Tnetbsd-6-1-5-RELEASE
+/getdate.c/1.1.1.1/Sat Feb 20 02:49:09 2010//Tnetbsd-6-1-5-RELEASE
+/read.c/1.1.1.2/Sat Feb 20 02:49:09 2010//Tnetbsd-6-1-5-RELEASE
+/subst.c/1.1.1.2/Sat Feb 20 02:49:09 2010//Tnetbsd-6-1-5-RELEASE
+/tree.c/1.1.1.2/Sat Feb 20 02:49:09 2010//Tnetbsd-6-1-5-RELEASE
+/tree.h/1.1.1.2/Sat Feb 20 02:49:10 2010//Tnetbsd-6-1-5-RELEASE
+/util.c/1.1.1.2/Sat Feb 20 02:49:10 2010//Tnetbsd-6-1-5-RELEASE
+/write.c/1.1.1.3/Sun Mar 14 19:20:19 2010//Tnetbsd-6-1-5-RELEASE
+D/test////

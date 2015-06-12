@@ -1,0 +1,13 @@
+/atppc_ofisa.c/1.10/Mon Apr 28 20:23:54 2008//Tnetbsd-6-1-5-RELEASE
+/com_ofisa.c/1.14/Tue Apr  8 20:11:36 2008//Tnetbsd-6-1-5-RELEASE
+/ess_ofisa.c/1.25/Sat May 22 16:35:00 2010//Tnetbsd-6-1-5-RELEASE
+/files.ofisa/1.14/Sun Dec 11 12:22:48 2005//Tnetbsd-6-1-5-RELEASE
+/if_cs_ofisa.c/1.25/Thu Feb  2 19:43:04 2012//Tnetbsd-6-1-5-RELEASE
+/joy_ofisa.c/1.15/Wed Nov 23 23:07:33 2011//Tnetbsd-6-1-5-RELEASE
+/lpt_ofisa.c/1.14/Tue Apr  8 20:11:36 2008//Tnetbsd-6-1-5-RELEASE
+/ofisa.c/1.24/Fri Jun  3 07:39:30 2011//Tnetbsd-6-1-5-RELEASE
+/ofisavar.h/1.6/Sun Dec 11 12:22:48 2005//Tnetbsd-6-1-5-RELEASE
+/pckbc_ofisa.c/1.15/Sat Mar 15 13:23:25 2008//Tnetbsd-6-1-5-RELEASE
+/sb_ofisa.c/1.17/Mon Apr 28 20:23:54 2008//Tnetbsd-6-1-5-RELEASE
+/wdc_ofisa.c/1.30/Tue Mar 18 20:46:36 2008//Tnetbsd-6-1-5-RELEASE
+D

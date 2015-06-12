@@ -1,0 +1,8 @@
+/Makefile.inc/1.1/Sun Feb 20 08:02:46 2011//Tnetbsd-6-1-5-RELEASE
+/arcbios.c/1.13/Sun Feb 20 08:02:46 2011//Tnetbsd-6-1-5-RELEASE
+/arcbios.h/1.13/Sun Feb 20 08:02:46 2011//Tnetbsd-6-1-5-RELEASE
+/arcbios_calls.S/1.1/Sun Feb 20 08:02:46 2011//Tnetbsd-6-1-5-RELEASE
+/arcbios_tty.c/1.22/Sun Apr 24 16:26:59 2011//Tnetbsd-6-1-5-RELEASE
+/arcbiosvar.h/1.6/Mon Apr 28 20:23:47 2008//Tnetbsd-6-1-5-RELEASE
+/genassym.cf/1.1/Sun Feb 20 08:02:46 2011//Tnetbsd-6-1-5-RELEASE
+D

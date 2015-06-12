@@ -1,0 +1,13 @@
+/clean.sh/1.1.1.3.4.1/Wed Jun  6 18:17:58 2012//Tnetbsd-6-1-5-RELEASE
+/dig1.good/1.1.1.3.4.1/Wed Jun  6 18:17:58 2012//Tnetbsd-6-1-5-RELEASE
+/dig2.good/1.1.1.3.4.1/Wed Jun  6 18:17:58 2012//Tnetbsd-6-1-5-RELEASE
+/prereq.sh/1.1.1.1.4.2/Sat Dec 15 05:39:49 2012//Tnetbsd-6-1-5-RELEASE
+/setup.sh/1.1.1.3.4.2/Sat Dec 15 05:39:49 2012//Tnetbsd-6-1-5-RELEASE
+/tests.sh/1.1.1.5.4.1/Wed Jun  6 18:17:58 2012//Tnetbsd-6-1-5-RELEASE
+D/ans5////
+D/ns1////
+D/ns2////
+D/ns3////
+D/ns4////
+D/ns6////
+D/ns7////

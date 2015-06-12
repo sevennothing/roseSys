@@ -1,0 +1,11 @@
+/Makefile/1.46/Sun Aug 14 17:50:16 2011//Tnetbsd-6-1-5-RELEASE
+/bbinfo.c/1.14/Sun Apr  5 11:55:39 2009//Tnetbsd-6-1-5-RELEASE
+/ext2fs.c/1.6/Thu Jan 14 16:27:49 2010//Tnetbsd-6-1-5-RELEASE
+/ffs.c/1.29/Thu Jan 14 16:27:49 2010//Tnetbsd-6-1-5-RELEASE
+/fstypes.c/1.13/Thu Jan 14 16:27:49 2010//Tnetbsd-6-1-5-RELEASE
+/installboot.8/1.84/Sat Feb 11 07:27:25 2012//Tnetbsd-6-1-5-RELEASE
+/installboot.c/1.36/Thu Nov  3 20:46:41 2011//Tnetbsd-6-1-5-RELEASE
+/installboot.h/1.38/Tue Jun 14 05:35:08 2011//Tnetbsd-6-1-5-RELEASE
+/machines.c/1.38/Tue Jun 14 05:35:08 2011//Tnetbsd-6-1-5-RELEASE
+/sum.c/1.5/Thu Jan 14 16:27:49 2010//Tnetbsd-6-1-5-RELEASE
+D/arch////

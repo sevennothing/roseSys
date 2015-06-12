@@ -1,0 +1,64 @@
+/COPYRIGHT/1.1.1.2/Tue Jan 31 21:18:50 2012//Tnetbsd-6-1-5-RELEASE
+/ChangeLog/1.1.1.2/Tue Jan 31 21:18:52 2012//Tnetbsd-6-1-5-RELEASE
+/CommitLog/1.1.1.2/Tue Jan 31 21:19:42 2012//Tnetbsd-6-1-5-RELEASE
+/CommitLog-4.1.0/1.1.1.1/Sun Dec 13 16:51:59 2009//Tnetbsd-6-1-5-RELEASE
+/INSTALL/1.1.1.1/Sun Dec 13 16:53:01 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.am/1.1.1.2/Tue Jan 31 21:19:42 2012//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.2/Tue Jan 31 21:19:43 2012//Tnetbsd-6-1-5-RELEASE
+/NEWS/1.1.1.2/Tue Jan 31 21:19:43 2012//Tnetbsd-6-1-5-RELEASE
+/NOTES.y2kfixes/1.1.1.1/Sun Dec 13 16:53:01 2009//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.1/Sun Dec 13 16:53:02 2009//Tnetbsd-6-1-5-RELEASE
+/README.bk/1.1.1.1/Sun Dec 13 16:53:02 2009//Tnetbsd-6-1-5-RELEASE
+/README.hackers/1.1.1.1/Sun Dec 13 16:53:02 2009//Tnetbsd-6-1-5-RELEASE
+/README.patches/1.1.1.1/Sun Dec 13 16:53:02 2009//Tnetbsd-6-1-5-RELEASE
+/README.refclocks/1.1.1.1/Sun Dec 13 16:53:02 2009//Tnetbsd-6-1-5-RELEASE
+/README.versions/1.1.1.1/Sun Dec 13 16:53:02 2009//Tnetbsd-6-1-5-RELEASE
+/TODO/1.1.1.1/Sun Dec 13 16:53:02 2009//Tnetbsd-6-1-5-RELEASE
+/WHERE-TO-START/1.1.1.1/Sun Dec 13 16:53:02 2009//Tnetbsd-6-1-5-RELEASE
+/aclocal.m4/1.1.1.2/Tue Jan 31 21:19:44 2012//Tnetbsd-6-1-5-RELEASE
+/bincheck.mf/1.1.1.2/Tue Jan 31 21:19:43 2012//Tnetbsd-6-1-5-RELEASE
+/bootstrap/1.1.1.2/Tue Jan 31 21:19:44 2012//Tnetbsd-6-1-5-RELEASE
+/build/1.1.1.2/Tue Jan 31 21:19:44 2012//Tnetbsd-6-1-5-RELEASE
+/compile/1.1.1.1/Sun Dec 13 16:53:08 2009//Tnetbsd-6-1-5-RELEASE
+/config.guess/1.1.1.2/Tue Jan 31 21:19:45 2012//Tnetbsd-6-1-5-RELEASE
+/config.h.in/1.1.1.2/Tue Jan 31 21:19:47 2012//Tnetbsd-6-1-5-RELEASE
+/config.sub/1.1.1.2/Tue Jan 31 21:19:47 2012//Tnetbsd-6-1-5-RELEASE
+/configure/1.1.1.2/Tue Jan 31 21:20:07 2012//Tnetbsd-6-1-5-RELEASE
+/configure.ac/1.1.1.2/Tue Jan 31 21:20:11 2012//Tnetbsd-6-1-5-RELEASE
+/depcomp/1.1.1.1/Sun Dec 13 16:53:31 2009//Tnetbsd-6-1-5-RELEASE
+/deps-ver/1.1.1.2/Tue Jan 31 21:20:11 2012//Tnetbsd-6-1-5-RELEASE
+/depsver.mf/1.1.1.1/Sun Dec 13 16:53:32 2009//Tnetbsd-6-1-5-RELEASE
+/dot.emacs/1.1.1.1/Sun Dec 13 16:53:32 2009//Tnetbsd-6-1-5-RELEASE
+/excludes/1.1.1.1/Sun Dec 13 16:53:32 2009//Tnetbsd-6-1-5-RELEASE
+/flock-build/1.1.1.2/Tue Jan 31 21:20:11 2012//Tnetbsd-6-1-5-RELEASE
+/install-sh/1.1.1.1/Sun Dec 13 16:53:32 2009//Tnetbsd-6-1-5-RELEASE
+/ltmain.sh/1.1.1.2/Tue Jan 31 21:20:19 2012//Tnetbsd-6-1-5-RELEASE
+/missing/1.1.1.1/Sun Dec 13 16:53:37 2009//Tnetbsd-6-1-5-RELEASE
+/packageinfo.sh/1.1.1.2/Tue Jan 31 21:20:19 2012//Tnetbsd-6-1-5-RELEASE
+/readme.y2kfixes/1.1.1.1/Sun Dec 13 16:53:37 2009//Tnetbsd-6-1-5-RELEASE
+/results.y2kfixes/1.1.1.1/Sun Dec 13 16:53:37 2009//Tnetbsd-6-1-5-RELEASE
+/version/1.1.1.2/Tue Jan 31 21:20:19 2012//Tnetbsd-6-1-5-RELEASE
+/version.m4/1.1.1.2/Tue Jan 31 21:20:19 2012//Tnetbsd-6-1-5-RELEASE
+/ylwrap/1.1.1.1/Sun Dec 13 16:53:37 2009//Tnetbsd-6-1-5-RELEASE
+D/ElectricFence////
+D/adjtimed////
+D/arlib////
+D/clockstuff////
+D/conf////
+D/html////
+D/include////
+D/kernel////
+D/lib////
+D/libntp////
+D/libopts////
+D/libparse////
+D/m4////
+D/ntpd////
+D/ntpdate////
+D/ntpdc////
+D/ntpq////
+D/ntpsnmpd////
+D/parseutil////
+D/scripts////
+D/sntp////
+D/util////

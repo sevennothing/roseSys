@@ -1,0 +1,18 @@
+/alpha.c/1.21/Sun Aug 14 17:50:17 2011//Tnetbsd-6-1-5-RELEASE
+/amiga.c/1.7/Thu Jan 14 16:27:49 2010//Tnetbsd-6-1-5-RELEASE
+/emips.c/1.1/Wed Jan 26 01:18:55 2011//Tnetbsd-6-1-5-RELEASE
+/ews4800mips.c/1.2/Sat Feb 18 10:08:07 2006//Tnetbsd-6-1-5-RELEASE
+/hp300.c/1.13/Thu Feb 10 23:25:11 2011//Tnetbsd-6-1-5-RELEASE
+/hp700.c/1.5/Mon Jan  9 11:44:53 2012//Tnetbsd-6-1-5-RELEASE
+/i386.c/1.37/Sun Aug 14 17:50:17 2011//Tnetbsd-6-1-5-RELEASE
+/landisk.c/1.5/Thu May  7 07:03:39 2009//Tnetbsd-6-1-5-RELEASE
+/macppc.c/1.11/Sat May 24 19:15:21 2008//Tnetbsd-6-1-5-RELEASE
+/news.c/1.7/Mon Apr 28 20:24:16 2008//Tnetbsd-6-1-5-RELEASE
+/next68k.c/1.7/Thu Jan  7 13:26:00 2010//Tnetbsd-6-1-5-RELEASE
+/pmax.c/1.14/Sun Apr  5 11:55:39 2009//Tnetbsd-6-1-5-RELEASE
+/sparc.c/1.11/Mon Apr 28 20:24:16 2008//Tnetbsd-6-1-5-RELEASE
+/sparc64.c/1.18/Thu Jan 14 16:27:49 2010//Tnetbsd-6-1-5-RELEASE
+/sun68k.c/1.21/Mon Apr 28 20:24:16 2008//Tnetbsd-6-1-5-RELEASE
+/vax.c/1.13.8.1/Sat Apr 20 09:58:23 2013//Tnetbsd-6-1-5-RELEASE
+/x68k.c/1.4/Mon Apr 28 20:24:16 2008//Tnetbsd-6-1-5-RELEASE
+D

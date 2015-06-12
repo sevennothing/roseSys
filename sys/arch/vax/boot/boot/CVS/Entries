@@ -1,0 +1,23 @@
+/Makefile/1.38/Sat Jan 22 19:19:24 2011//Tnetbsd-6-1-5-RELEASE
+/autoconf.c/1.28/Wed Mar 18 10:22:37 2009//Tnetbsd-6-1-5-RELEASE
+/boot.c/1.31/Sat Jan 22 19:19:24 2011//Tnetbsd-6-1-5-RELEASE
+/conf.c/1.15/Wed Mar 18 16:00:15 2009//Tnetbsd-6-1-5-RELEASE
+/consio.c/1.15/Sat Mar 14 14:46:07 2009//Tnetbsd-6-1-5-RELEASE
+/consio2.S/1.1/Sun Feb 24 01:04:24 2002//Tnetbsd-6-1-5-RELEASE
+/ctu.c/1.8/Wed Mar 18 10:22:37 2009//Tnetbsd-6-1-5-RELEASE
+/data.h/1.4/Sat Jul  1 05:55:34 2006//Tnetbsd-6-1-5-RELEASE
+/devopen.c/1.16/Sat Mar 14 21:04:16 2009//Tnetbsd-6-1-5-RELEASE
+/hp.c/1.9/Wed Mar 18 16:00:15 2009//Tnetbsd-6-1-5-RELEASE
+/if_de.c/1.8/Mon Oct 26 19:16:58 2009//Tnetbsd-6-1-5-RELEASE
+/if_le.c/1.12/Mon Jan 12 11:32:45 2009//Tnetbsd-6-1-5-RELEASE
+/if_ni.c/1.9/Sun Jul  3 08:56:25 2011//Tnetbsd-6-1-5-RELEASE
+/if_qe.c/1.9/Mon Oct 26 19:16:58 2009//Tnetbsd-6-1-5-RELEASE
+/if_ze.c/1.17/Mon Oct 26 19:16:58 2009//Tnetbsd-6-1-5-RELEASE
+/mfm.c/1.13/Mon Oct 26 19:16:58 2009//Tnetbsd-6-1-5-RELEASE
+/netio.c/1.16/Thu May 19 02:37:41 2011//Tnetbsd-6-1-5-RELEASE
+/ra.c/1.18/Wed Mar 18 16:00:15 2009//Tnetbsd-6-1-5-RELEASE
+/rom.c/1.9/Wed Mar 18 16:00:15 2009//Tnetbsd-6-1-5-RELEASE
+/tmscp.c/1.8/Tue Mar 17 18:19:15 2009//Tnetbsd-6-1-5-RELEASE
+/vaxstand.h/1.8/Sun Dec 11 12:19:30 2005//Tnetbsd-6-1-5-RELEASE
+/version/1.6/Sun Dec 11 12:19:30 2005//Tnetbsd-6-1-5-RELEASE
+D

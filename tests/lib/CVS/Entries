@@ -1,0 +1,22 @@
+/Makefile/1.17/Tue Dec 27 00:47:23 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.1/Wed Nov  3 16:10:21 2010//Tnetbsd-6-1-5-RELEASE
+D/csu////
+D/libbluetooth////
+D/libc////
+D/libcrypt////
+D/libcurses////
+D/libdes////
+D/libevent////
+D/libm////
+D/libobjc////
+D/libposix////
+D/libppath////
+D/libprop////
+D/libpthread////
+D/librt////
+D/librumpclient////
+D/librumphijack////
+D/libskey////
+D/libtre////
+D/libutil////
+D/semaphore////

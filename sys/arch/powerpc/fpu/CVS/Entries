@@ -1,0 +1,14 @@
+/files.fpu/1.1/Wed Jun 13 06:01:46 2001//Tnetbsd-6-1-5-RELEASE
+/fpu_add.c/1.4/Sun Dec 11 12:18:42 2005//Tnetbsd-6-1-5-RELEASE
+/fpu_arith.h/1.4/Sat Dec 24 20:07:28 2005//Tnetbsd-6-1-5-RELEASE
+/fpu_compare.c/1.4/Sun Dec 11 12:18:42 2005//Tnetbsd-6-1-5-RELEASE
+/fpu_div.c/1.4/Sun Dec 11 12:18:42 2005//Tnetbsd-6-1-5-RELEASE
+/fpu_emu.c/1.15/Tue Jan 18 01:02:53 2011//Tnetbsd-6-1-5-RELEASE
+/fpu_emu.h/1.3/Sun Dec 11 12:18:42 2005//Tnetbsd-6-1-5-RELEASE
+/fpu_explode.c/1.6/Sun Dec 11 12:18:42 2005//Tnetbsd-6-1-5-RELEASE
+/fpu_extern.h/1.4/Mon Apr 28 20:23:32 2008//Tnetbsd-6-1-5-RELEASE
+/fpu_implode.c/1.6/Sun Dec 11 12:18:42 2005//Tnetbsd-6-1-5-RELEASE
+/fpu_mul.c/1.4/Sun Dec 11 12:18:42 2005//Tnetbsd-6-1-5-RELEASE
+/fpu_sqrt.c/1.4/Sun Dec 11 12:18:42 2005//Tnetbsd-6-1-5-RELEASE
+/fpu_subr.c/1.4/Sun Dec 11 12:18:42 2005//Tnetbsd-6-1-5-RELEASE
+D

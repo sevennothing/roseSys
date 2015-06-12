@@ -1,0 +1,23 @@
+/Makefile.am/1.1.1.1/Sat Jan 28 02:57:42 2012//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.1/Sat Jan 28 02:57:42 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_changeownerauth.8/1.2/Sat Jan 28 16:03:46 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_clear.8/1.1.1.1/Sat Jan 28 02:57:42 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_createek.8/1.1.1.1/Sat Jan 28 02:57:41 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_getpubek.8/1.1.1.1/Sat Jan 28 02:57:42 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_nvdefine.8/1.1.1.1/Sat Jan 28 02:57:41 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_nvinfo.8/1.1.1.1/Sat Jan 28 02:57:40 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_nvread.8/1.1.1.1/Sat Jan 28 02:57:42 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_nvrelease.8/1.1.1.1/Sat Jan 28 02:57:42 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_nvwrite.8/1.1.1.1/Sat Jan 28 02:57:41 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_resetdalock.8/1.1.1.1/Sat Jan 28 02:57:41 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_restrictpubek.8/1.1.1.1/Sat Jan 28 02:57:42 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_revokeek.8/1.1.1.1/Sat Jan 28 02:57:42 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_selftest.8/1.1.1.1/Sat Jan 28 02:57:40 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_setactive.8/1.1.1.1/Sat Jan 28 02:57:41 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_setclearable.8/1.1.1.1/Sat Jan 28 02:57:42 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_setenable.8/1.1.1.1/Sat Jan 28 02:57:41 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_setoperatorauth.8/1.1.1.1/Sat Jan 28 02:57:42 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_setownable.8/1.1.1.1/Sat Jan 28 02:57:42 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_setpresence.8/1.1.1.1/Sat Jan 28 02:57:41 2012//Tnetbsd-6-1-5-RELEASE
+/tpm_takeownership.8/1.1.1.1/Sat Jan 28 02:57:41 2012//Tnetbsd-6-1-5-RELEASE
+D

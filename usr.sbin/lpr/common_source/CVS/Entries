@@ -1,0 +1,11 @@
+/Makefile/1.11/Sat May  3 14:48:32 2008//Tnetbsd-6-1-5-RELEASE
+/common.c/1.40/Mon Jul 13 19:05:41 2009//Tnetbsd-6-1-5-RELEASE
+/common_vars.c/1.4/Mon Nov 28 03:26:06 2005//Tnetbsd-6-1-5-RELEASE
+/displayq.c/1.34/Mon Jul 13 19:05:41 2009//Tnetbsd-6-1-5-RELEASE
+/fatal.c/1.5/Mon Nov 28 03:26:06 2005//Tnetbsd-6-1-5-RELEASE
+/lp.h/1.25/Tue Aug 30 19:27:37 2011//Tnetbsd-6-1-5-RELEASE
+/lp.local.h/1.8/Thu Aug  7 11:25:25 2003//Tnetbsd-6-1-5-RELEASE
+/pathnames.h/1.8/Sun Oct 19 05:51:44 2003//Tnetbsd-6-1-5-RELEASE
+/rmjob.c/1.25/Mon Jul 13 19:05:41 2009//Tnetbsd-6-1-5-RELEASE
+/startdaemon.c/1.15/Wed May 16 20:45:45 2007//Tnetbsd-6-1-5-RELEASE
+D

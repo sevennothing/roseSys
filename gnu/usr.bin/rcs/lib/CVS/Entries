@@ -1,0 +1,22 @@
+/Makefile/1.23/Thu May 26 12:56:29 2011//Tnetbsd-6-1-5-RELEASE
+/conf.h/1.12/Sat Sep  6 09:43:34 2003//Tnetbsd-6-1-5-RELEASE
+/maketime.c/1.5/Tue Oct 15 07:00:06 1996//Tnetbsd-6-1-5-RELEASE
+/maketime.h/1.2/Tue Oct 15 07:00:07 1996//Tnetbsd-6-1-5-RELEASE
+/merger.c/1.4/Tue Oct 15 07:00:08 1996//Tnetbsd-6-1-5-RELEASE
+/partime.c/1.4/Tue Oct 15 07:00:10 1996//Tnetbsd-6-1-5-RELEASE
+/partime.h/1.2/Tue Oct 15 07:00:10 1996//Tnetbsd-6-1-5-RELEASE
+/rcsbase.h/1.12/Thu Jan 12 14:10:56 2012//Tnetbsd-6-1-5-RELEASE
+/rcsedit.c/1.10/Fri Jan  6 15:16:03 2012//Tnetbsd-6-1-5-RELEASE
+/rcsfcmp.c/1.4/Tue Oct 15 07:00:18 1996//Tnetbsd-6-1-5-RELEASE
+/rcsfnms.c/1.6/Tue Mar 25 13:56:39 1997//Tnetbsd-6-1-5-RELEASE
+/rcsgen.c/1.5/Fri Jan  6 15:16:03 2012//Tnetbsd-6-1-5-RELEASE
+/rcskeep.c/1.7/Mon Oct 21 07:00:08 1996//Tnetbsd-6-1-5-RELEASE
+/rcskeys.c/1.8/Mon Oct 21 07:00:09 1996//Tnetbsd-6-1-5-RELEASE
+/rcslex.c/1.7/Sun May 15 14:33:12 2011//Tnetbsd-6-1-5-RELEASE
+/rcsmap.c/1.4/Tue Oct 15 07:00:24 1996//Tnetbsd-6-1-5-RELEASE
+/rcsrev.c/1.7/Fri Jan  6 15:16:03 2012//Tnetbsd-6-1-5-RELEASE
+/rcssyn.c/1.4/Tue Oct 15 07:00:26 1996//Tnetbsd-6-1-5-RELEASE
+/rcstime.c/1.2/Tue Oct 15 07:00:26 1996//Tnetbsd-6-1-5-RELEASE
+/rcsutil.c/1.8/Fri Sep 17 13:13:32 1999//Tnetbsd-6-1-5-RELEASE
+/version.c/1.2/Tue Oct 15 07:00:28 1996//Tnetbsd-6-1-5-RELEASE
+D

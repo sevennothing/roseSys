@@ -1,0 +1,10 @@
+#! /bin/sh
+# Provision of this shell script should not be taken to imply that use of
+# GNU eqn with groff -Tascii|-Tlatin1|-Tutf8|-Tcp1047 is supported.
+
+GROFF_RUNTIME="${GROFF_BIN_PATH=/home/licj/software/netBSD/source/netBSD/usr/src/obj/tooldir.Linux-2.6.32-358.el6.x86_64-x86_64/lib/groff}:"
+PATH="$GROFF_RUNTIME$PATH"
+export PATH
+exec eqn -Tascii ${1+"$@"}
+
+# eof

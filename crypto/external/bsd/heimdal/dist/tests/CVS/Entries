@@ -1,0 +1,11 @@
+/ChangeLog/1.1.1.1/Wed Apr 13 18:16:01 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.am/1.1.1.2/Thu Apr 14 14:09:51 2011//Tnetbsd-6-1-5-RELEASE
+/NTMakefile/1.1.1.1/Wed Apr 13 18:16:01 2011//Tnetbsd-6-1-5-RELEASE
+D/bin////
+D/can////
+D/db////
+D/gss////
+D/java////
+D/kdc////
+D/ldap////
+D/plugin////

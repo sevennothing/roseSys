@@ -1,0 +1,20 @@
+/TODO/1.1/Sat Dec 28 20:12:24 2002//Tnetbsd-6-1-5-RELEASE
+/atppc_pnpbios.c/1.9/Fri Jul  1 18:14:15 2011//Tnetbsd-6-1-5-RELEASE
+/com_pnpbios.c/1.15/Fri Jul  1 18:14:15 2011//Tnetbsd-6-1-5-RELEASE
+/ess_pnpbios.c/1.22/Fri Jul  1 18:14:15 2011//Tnetbsd-6-1-5-RELEASE
+/fdc_pnpbios.c/1.17/Thu Feb  2 19:42:59 2012//Tnetbsd-6-1-5-RELEASE
+/files.pnpbios/1.17/Sat Dec  9 22:45:26 2006//Tnetbsd-6-1-5-RELEASE
+/joy_pnpbios.c/1.15/Sat Nov 26 14:06:44 2011//Tnetbsd-6-1-5-RELEASE
+/lm_pnpbios.c/1.15/Fri Jul  1 18:14:15 2011//Tnetbsd-6-1-5-RELEASE
+/lpt_pnpbios.c/1.12/Fri Jul  1 18:14:15 2011//Tnetbsd-6-1-5-RELEASE
+/npx_pnpbios.c/1.13/Fri Jul  1 18:14:15 2011//Tnetbsd-6-1-5-RELEASE
+/pciide_pnpbios.c/1.27/Fri Jul  1 18:14:15 2011//Tnetbsd-6-1-5-RELEASE
+/pckbc_pnpbios.c/1.17/Sun Jun  8 18:35:25 2008//Tnetbsd-6-1-5-RELEASE
+/pnpbios.c/1.71/Thu Jun 30 20:09:31 2011//Tnetbsd-6-1-5-RELEASE
+/pnpbioscall.S/1.2/Tue Dec 11 23:06:14 2007//Tnetbsd-6-1-5-RELEASE
+/pnpbiosreg.h/1.4/Tue Dec 25 18:33:33 2007//Tnetbsd-6-1-5-RELEASE
+/pnpbiosvar.h/1.12/Thu Jun 30 20:09:31 2011//Tnetbsd-6-1-5-RELEASE
+/sb_pnpbios.c/1.16/Fri Jul  1 18:14:15 2011//Tnetbsd-6-1-5-RELEASE
+/wss_pnpbios.c/1.20/Fri Jul  1 18:14:15 2011//Tnetbsd-6-1-5-RELEASE
+/ym_pnpbios.c/1.17/Fri Jul  1 18:14:15 2011//Tnetbsd-6-1-5-RELEASE
+D

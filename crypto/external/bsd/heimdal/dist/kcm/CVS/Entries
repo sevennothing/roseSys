@@ -1,0 +1,19 @@
+/Makefile.am/1.1.1.2/Thu Apr 14 14:08:10 2011//Tnetbsd-6-1-5-RELEASE
+/NTMakefile/1.1.1.1/Wed Apr 13 18:14:35 2011//Tnetbsd-6-1-5-RELEASE
+/acl.c/1.1.1.1/Wed Apr 13 18:14:35 2011//Tnetbsd-6-1-5-RELEASE
+/acquire.c/1.1.1.1/Wed Apr 13 18:14:35 2011//Tnetbsd-6-1-5-RELEASE
+/cache.c/1.1.1.1/Wed Apr 13 18:14:35 2011//Tnetbsd-6-1-5-RELEASE
+/client.c/1.1.1.1/Wed Apr 13 18:14:36 2011//Tnetbsd-6-1-5-RELEASE
+/config.c/1.1.1.1/Wed Apr 13 18:14:36 2011//Tnetbsd-6-1-5-RELEASE
+/connect.c/1.1.1.1/Wed Apr 13 18:14:36 2011//Tnetbsd-6-1-5-RELEASE
+/events.c/1.1.1.1/Wed Apr 13 18:14:36 2011//Tnetbsd-6-1-5-RELEASE
+/glue.c/1.1.1.1/Wed Apr 13 18:14:36 2011//Tnetbsd-6-1-5-RELEASE
+/headers.h/1.1.1.1/Wed Apr 13 18:14:36 2011//Tnetbsd-6-1-5-RELEASE
+/kcm.8/1.3/Thu Apr 28 14:07:12 2011//Tnetbsd-6-1-5-RELEASE
+/kcm_locl.h/1.1.1.2/Thu Apr 14 14:08:11 2011//Tnetbsd-6-1-5-RELEASE
+/log.c/1.1.1.1/Wed Apr 13 18:14:36 2011//Tnetbsd-6-1-5-RELEASE
+/main.c/1.1.1.1/Wed Apr 13 18:14:36 2011//Tnetbsd-6-1-5-RELEASE
+/protocol.c/1.1.1.1/Wed Apr 13 18:14:36 2011//Tnetbsd-6-1-5-RELEASE
+/renew.c/1.1.1.1/Wed Apr 13 18:14:36 2011//Tnetbsd-6-1-5-RELEASE
+/sessions.c/1.1.1.1/Wed Apr 13 18:14:36 2011//Tnetbsd-6-1-5-RELEASE
+D

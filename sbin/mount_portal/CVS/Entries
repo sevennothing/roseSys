@@ -1,0 +1,14 @@
+/Makefile/1.25/Sun Aug 14 11:34:11 2011//Tnetbsd-6-1-5-RELEASE
+/activate.c/1.15/Sat Apr 11 07:36:43 2009//Tnetbsd-6-1-5-RELEASE
+/conf.c/1.12/Mon Jul  2 16:33:05 2007//Tnetbsd-6-1-5-RELEASE
+/mount_portal.8/1.21/Sat Dec  5 20:34:28 2009//Tnetbsd-6-1-5-RELEASE
+/pathnames.h/1.6/Thu Aug  7 10:04:30 2003//Tnetbsd-6-1-5-RELEASE
+/portal.conf/1.3/Sat Mar 18 14:57:59 1995//Tnetbsd-6-1-5-RELEASE
+/portald.h/1.10/Sat Dec  5 20:11:02 2009//Tnetbsd-6-1-5-RELEASE
+/pt_conf.c/1.7/Thu Aug  7 10:04:30 2003//Tnetbsd-6-1-5-RELEASE
+/pt_exec.c/1.9/Mon Jul  2 18:07:45 2007//Tnetbsd-6-1-5-RELEASE
+/pt_file.c/1.17/Mon Jul  2 18:07:45 2007//Tnetbsd-6-1-5-RELEASE
+/pt_filter.c/1.11/Tue Jan  4 23:36:23 2011//Tnetbsd-6-1-5-RELEASE
+/pt_tcp.c/1.21/Sat Apr 11 07:36:43 2009//Tnetbsd-6-1-5-RELEASE
+/puffs_portal.c/1.5/Mon Dec 19 15:36:27 2011//Tnetbsd-6-1-5-RELEASE
+D/examples////

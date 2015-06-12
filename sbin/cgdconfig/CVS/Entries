@@ -1,0 +1,17 @@
+/Makefile/1.14/Tue Dec 14 17:46:21 2010//Tnetbsd-6-1-5-RELEASE
+/cgdconfig.8/1.31/Sun Jul  3 19:05:10 2011//Tnetbsd-6-1-5-RELEASE
+/cgdconfig.c/1.33/Mon Aug 29 14:34:59 2011//Tnetbsd-6-1-5-RELEASE
+/cgdconfig.h/1.1/Tue Sep  8 22:16:56 2009//Tnetbsd-6-1-5-RELEASE
+/cgdconfig_hostops.c/1.1/Tue Dec 14 17:46:21 2010//Tnetbsd-6-1-5-RELEASE
+/cgdconfig_rumpops.c/1.1/Tue Dec 14 17:46:21 2010//Tnetbsd-6-1-5-RELEASE
+/cgdlex.l/1.5/Thu Oct 29 14:49:03 2009//Tnetbsd-6-1-5-RELEASE
+/cgdparse.y/1.5/Thu Jul 17 16:24:55 2008//Tnetbsd-6-1-5-RELEASE
+/extern.h/1.2/Sat Feb 16 17:56:11 2008//Tnetbsd-6-1-5-RELEASE
+/params.c/1.24/Fri Sep 12 16:51:55 2008//Tnetbsd-6-1-5-RELEASE
+/params.h/1.10/Sun May 11 03:15:21 2008//Tnetbsd-6-1-5-RELEASE
+/pkcs5_pbkdf2.c/1.15/Sat Nov 27 17:08:37 2010//Tnetbsd-6-1-5-RELEASE
+/pkcs5_pbkdf2.h/1.5/Mon Apr 28 20:23:08 2008//Tnetbsd-6-1-5-RELEASE
+/prog_ops.h/1.1/Tue Dec 14 17:46:21 2010//Tnetbsd-6-1-5-RELEASE
+/utils.c/1.20/Sat Apr 11 07:40:37 2009//Tnetbsd-6-1-5-RELEASE
+/utils.h/1.9/Sun May 11 03:15:21 2008//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,37 @@
+/ABOUT-NLS/1.2/Fri Apr 10 11:20:28 2009//Tnetbsd-6-1-5-RELEASE
+/AUTHORS/1.1.1.1/Tue Apr  7 22:10:01 2009//Tnetbsd-6-1-5-RELEASE
+/BUGS/1.1.1.1/Tue Apr  7 22:10:01 2009//Tnetbsd-6-1-5-RELEASE
+/COPYING/1.1.1.1/Tue Apr  7 22:10:02 2009//Tnetbsd-6-1-5-RELEASE
+/COPYING.LIB/1.1.1.1/Tue Apr  7 22:10:02 2009//Tnetbsd-6-1-5-RELEASE
+/ChangeLog/1.1.1.1/Tue Apr  7 22:10:03 2009//Tnetbsd-6-1-5-RELEASE
+/ChangeLog.zoo/1.1.1.1/Tue Apr  7 22:10:03 2009//Tnetbsd-6-1-5-RELEASE
+/DEVEL-CVS/1.1.1.1/Tue Apr  7 22:10:03 2009//Tnetbsd-6-1-5-RELEASE
+/FAQ/1.1.1.1/Tue Apr  7 22:10:03 2009//Tnetbsd-6-1-5-RELEASE
+/HACKING/1.1.1.1/Tue Apr  7 22:10:03 2009//Tnetbsd-6-1-5-RELEASE
+/INSTALL/1.2/Fri Apr 10 11:20:28 2009//Tnetbsd-6-1-5-RELEASE
+/MINOR-BUGS/1.1.1.1/Tue Apr  7 22:10:03 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.am/1.1.1.1/Tue Apr  7 22:10:03 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.1/Tue Apr  7 22:10:04 2009//Tnetbsd-6-1-5-RELEASE
+/NEWS/1.1.1.1/Tue Apr  7 22:10:04 2009//Tnetbsd-6-1-5-RELEASE
+/PROJECTS/1.1.1.1/Tue Apr  7 22:10:04 2009//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.1/Tue Apr  7 22:10:04 2009//Tnetbsd-6-1-5-RELEASE
+/README.VMS/1.1.1.1/Tue Apr  7 22:10:04 2009//Tnetbsd-6-1-5-RELEASE
+/TESTS/1.1.1.1/Tue Apr  7 22:10:04 2009//Tnetbsd-6-1-5-RELEASE
+/TODO/1.1.1.1/Tue Apr  7 22:10:04 2009//Tnetbsd-6-1-5-RELEASE
+/aclocal.m4/1.2/Fri Apr 10 11:20:28 2009//Tnetbsd-6-1-5-RELEASE
+/config.h.in/1.2/Fri Apr 10 11:20:28 2009//Tnetbsd-6-1-5-RELEASE
+/configure/1.3/Fri Apr 10 11:20:28 2009//Tnetbsd-6-1-5-RELEASE
+/configure.in/1.2/Fri Apr 10 11:20:28 2009//Tnetbsd-6-1-5-RELEASE
+/cvs-format.el/1.1.1.1/Tue Apr  7 22:10:08 2009//Tnetbsd-6-1-5-RELEASE
+/cvs.spec.in/1.1.1.1/Tue Apr  7 22:10:08 2009//Tnetbsd-6-1-5-RELEASE
+/cvs2netbsd/1.1/Wed Apr  8 16:27:51 2009//Tnetbsd-6-1-5-RELEASE
+/mktemp.sh/1.1.1.1/Tue Apr  7 22:10:08 2009//Tnetbsd-6-1-5-RELEASE
+D/build-aux////
+D/contrib////
+D/diff////
+D/doc////
+D/lib////
+D/m4////
+D/maint-aux////
+D/man////
+D/src////

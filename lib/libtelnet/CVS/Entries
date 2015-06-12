@@ -1,0 +1,22 @@
+/Makefile/1.34/Mon Jan  9 15:25:33 2012//Tnetbsd-6-1-5-RELEASE
+/auth-proto.h/1.15/Mon Mar 20 21:23:47 2006//Tnetbsd-6-1-5-RELEASE
+/auth.c/1.20/Mon Jan  9 15:25:33 2012//Tnetbsd-6-1-5-RELEASE
+/auth.h/1.11/Sun Feb  6 05:53:07 2005//Tnetbsd-6-1-5-RELEASE
+/enc-proto.h/1.9/Mon Jan  9 15:25:33 2012//Tnetbsd-6-1-5-RELEASE
+/enc_des.c/1.15/Mon Jan  9 15:25:33 2012//Tnetbsd-6-1-5-RELEASE
+/encrypt.c/1.16/Mon Jan  9 15:25:33 2012//Tnetbsd-6-1-5-RELEASE
+/encrypt.h/1.9/Mon Jan  9 15:25:33 2012//Tnetbsd-6-1-5-RELEASE
+/forward.c/1.3/Sun Feb  6 05:53:07 2005//Tnetbsd-6-1-5-RELEASE
+/genget.c/1.12/Mon Jan  9 15:25:33 2012//Tnetbsd-6-1-5-RELEASE
+/getent.c/1.10/Sun Feb  6 05:53:07 2005//Tnetbsd-6-1-5-RELEASE
+/kerberos5.c/1.19/Mon Jan  9 15:25:33 2012//Tnetbsd-6-1-5-RELEASE
+/key-proto.h/1.6/Sun Feb  6 05:53:07 2005//Tnetbsd-6-1-5-RELEASE
+/misc-proto.h/1.10/Sun Feb  6 05:53:07 2005//Tnetbsd-6-1-5-RELEASE
+/misc.c/1.12/Thu Aug  7 16:44:56 2003//Tnetbsd-6-1-5-RELEASE
+/misc.h/1.9/Mon Jan  9 15:25:34 2012//Tnetbsd-6-1-5-RELEASE
+/pk.c/1.4/Sat Feb 19 22:55:35 2005//Tnetbsd-6-1-5-RELEASE
+/pk.h/1.2/Sat Feb 19 22:55:35 2005//Tnetbsd-6-1-5-RELEASE
+/shlib_version/1.11/Sun Jan 11 03:07:50 2009//Tnetbsd-6-1-5-RELEASE
+/spx.c/1.7/Tue Apr 19 03:19:46 2005//Tnetbsd-6-1-5-RELEASE
+/sra.c/1.11/Mon Jan  9 15:25:34 2012//Tnetbsd-6-1-5-RELEASE
+D

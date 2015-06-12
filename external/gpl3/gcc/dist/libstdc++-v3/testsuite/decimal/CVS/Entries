@@ -1,0 +1,17 @@
+/binary-arith.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+/cast_neg.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+/comparison.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+/compound-assignment-memfunc.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+/compound-assignment.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+/conversion-from-float.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+/conversion-from-integral.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+/conversion-to-generic-float.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+/conversion-to-integral.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+/ctor.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+/incdec-memfunc.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+/incdec.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+/make-decimal.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+/mixed-mode_neg.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+/operator_neg.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+/unary-arith.cc/1.1.1.1/Tue Jun 21 01:24:36 2011//Tnetbsd-6-1-5-RELEASE
+D

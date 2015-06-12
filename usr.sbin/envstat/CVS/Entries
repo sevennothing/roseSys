@@ -1,0 +1,12 @@
+/Makefile/1.10/Tue Dec 14 08:04:14 2010//Tnetbsd-6-1-5-RELEASE
+/config.c/1.12/Wed Aug 31 13:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/config_lex.l/1.7/Mon Feb 15 22:37:14 2010//Tnetbsd-6-1-5-RELEASE
+/config_yacc.y/1.4/Thu Jul 17 16:24:55 2008//Tnetbsd-6-1-5-RELEASE
+/envstat.8/1.61/Thu Feb  9 18:10:26 2012//Tnetbsd-6-1-5-RELEASE
+/envstat.c/1.90/Thu Feb  9 18:10:26 2012//Tnetbsd-6-1-5-RELEASE
+/envstat.h/1.2/Fri Nov 16 08:01:38 2007//Tnetbsd-6-1-5-RELEASE
+/envstat_hostops.c/1.2/Wed Dec 15 15:07:54 2010//Tnetbsd-6-1-5-RELEASE
+/envstat_rumpops.c/1.2/Wed Dec 15 15:07:54 2010//Tnetbsd-6-1-5-RELEASE
+/envsys.conf.5/1.14/Thu Feb  9 18:10:26 2012//Tnetbsd-6-1-5-RELEASE
+/prog_ops.h/1.2/Wed Dec 15 15:07:54 2010//Tnetbsd-6-1-5-RELEASE
+D

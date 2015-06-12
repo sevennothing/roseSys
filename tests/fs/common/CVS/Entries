@@ -1,0 +1,14 @@
+/Makefile/1.7/Thu Aug 11 10:52:12 2011//Tnetbsd-6-1-5-RELEASE
+/fstest_ext2fs.c/1.2/Fri Jul 30 16:15:05 2010//Tnetbsd-6-1-5-RELEASE
+/fstest_ffs.c/1.5/Sun Jun 26 13:06:00 2011//Tnetbsd-6-1-5-RELEASE
+/fstest_lfs.c/1.4/Fri Jul 30 16:15:05 2010//Tnetbsd-6-1-5-RELEASE
+/fstest_msdosfs.c/1.2/Fri Jul 30 16:15:05 2010//Tnetbsd-6-1-5-RELEASE
+/fstest_nfs.c/1.9/Mon Feb 28 21:08:46 2011//Tnetbsd-6-1-5-RELEASE
+/fstest_puffs.c/1.10/Thu Feb 10 16:35:01 2011//Tnetbsd-6-1-5-RELEASE
+/fstest_rumpfs.c/1.1/Thu Nov 11 17:39:29 2010//Tnetbsd-6-1-5-RELEASE
+/fstest_sysvbfs.c/1.2/Fri Jul 30 16:15:05 2010//Tnetbsd-6-1-5-RELEASE
+/fstest_tmpfs.c/1.2/Fri Jul 30 16:15:05 2010//Tnetbsd-6-1-5-RELEASE
+/fstest_v7fs.c/1.1/Thu Aug 11 10:52:12 2011//Tnetbsd-6-1-5-RELEASE
+/h_fsmacros.h/1.35/Thu Aug 11 10:52:12 2011//Tnetbsd-6-1-5-RELEASE
+/snapshot.c/1.6/Sat Feb 12 18:13:46 2011//Tnetbsd-6-1-5-RELEASE
+D/nfsrpc////

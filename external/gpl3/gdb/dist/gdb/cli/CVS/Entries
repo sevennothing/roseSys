@@ -1,0 +1,15 @@
+/cli-cmds.c/1.1.1.1/Sat Sep 24 20:13:29 2011//Tnetbsd-6-1-5-RELEASE
+/cli-cmds.h/1.1.1.1/Sat Sep 24 20:13:30 2011//Tnetbsd-6-1-5-RELEASE
+/cli-decode.c/1.1.1.1/Sat Sep 24 20:13:30 2011//Tnetbsd-6-1-5-RELEASE
+/cli-decode.h/1.1.1.1/Sat Sep 24 20:13:30 2011//Tnetbsd-6-1-5-RELEASE
+/cli-dump.c/1.1.1.1/Sat Sep 24 20:13:31 2011//Tnetbsd-6-1-5-RELEASE
+/cli-dump.h/1.1.1.1/Sat Sep 24 20:13:31 2011//Tnetbsd-6-1-5-RELEASE
+/cli-interp.c/1.1.1.1/Sat Sep 24 20:13:31 2011//Tnetbsd-6-1-5-RELEASE
+/cli-logging.c/1.1.1.1/Sat Sep 24 20:13:28 2011//Tnetbsd-6-1-5-RELEASE
+/cli-script.c/1.1.1.1/Sat Sep 24 20:13:32 2011//Tnetbsd-6-1-5-RELEASE
+/cli-script.h/1.1.1.1/Sat Sep 24 20:13:32 2011//Tnetbsd-6-1-5-RELEASE
+/cli-setshow.c/1.1.1.1/Sat Sep 24 20:13:31 2011//Tnetbsd-6-1-5-RELEASE
+/cli-setshow.h/1.1.1.1/Sat Sep 24 20:13:32 2011//Tnetbsd-6-1-5-RELEASE
+/cli-utils.c/1.1.1.1/Sat Sep 24 20:13:32 2011//Tnetbsd-6-1-5-RELEASE
+/cli-utils.h/1.1.1.1/Sat Sep 24 20:13:32 2011//Tnetbsd-6-1-5-RELEASE
+D

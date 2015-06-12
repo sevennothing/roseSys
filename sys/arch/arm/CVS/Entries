@@ -1,0 +1,25 @@
+/Makefile/1.8/Wed Jun 25 03:33:39 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.1/Mon Apr  4 19:43:34 2011//Tnetbsd-6-1-5-RELEASE
+D/arm////
+D/arm32////
+D/at91////
+D/broadcom////
+D/conf////
+D/ep93xx////
+D/footbridge////
+D/fpe-arm////
+D/gemini////
+D/imx////
+D/include////
+D/iomd////
+D/ixp12x0////
+D/mainbus////
+D/marvell////
+D/mpcore////
+D/ofw////
+D/omap////
+D/pic////
+D/s3c2xx0////
+D/sa11x0////
+D/vfp////
+D/xscale////

@@ -1,0 +1,14 @@
+/files.nand/1.4/Tue Jun 28 18:14:11 2011//Tnetbsd-6-1-5-RELEASE
+/hamming.c/1.1/Sat Feb 26 18:07:31 2011//Tnetbsd-6-1-5-RELEASE
+/hamming.h/1.1/Sat Feb 26 18:07:31 2011//Tnetbsd-6-1-5-RELEASE
+/nand.c/1.16/Sun Aug 28 20:49:30 2011//Tnetbsd-6-1-5-RELEASE
+/nand.h/1.13/Fri Jul 15 19:19:57 2011//Tnetbsd-6-1-5-RELEASE
+/nand_bbt.c/1.4/Sun May  1 13:20:28 2011//Tnetbsd-6-1-5-RELEASE
+/nand_bbt.h/1.2/Mon Apr  4 14:25:10 2011//Tnetbsd-6-1-5-RELEASE
+/nand_crc.c/1.1/Sat Feb 26 18:07:31 2011//Tnetbsd-6-1-5-RELEASE
+/nand_crc.h/1.1/Sat Feb 26 18:07:31 2011//Tnetbsd-6-1-5-RELEASE
+/nand_micron.c/1.6/Fri Jul 15 19:19:57 2011//Tnetbsd-6-1-5-RELEASE
+/nandemulator.c/1.5/Tue Jun 28 10:32:45 2011//Tnetbsd-6-1-5-RELEASE
+/nandemulator.h/1.1/Sat Feb 26 18:07:31 2011//Tnetbsd-6-1-5-RELEASE
+/onfi.h/1.1/Sat Feb 26 18:07:31 2011//Tnetbsd-6-1-5-RELEASE
+D

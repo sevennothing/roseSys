@@ -1,0 +1,33 @@
+/Makefile/1.19/Thu Jun 11 05:43:15 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.Xserver/1.12/Tue Aug  2 09:11:37 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.common/1.23.4.2/Wed Feb 13 20:52:07 2013//Tnetbsd-6-1-5-RELEASE
+/Makefile.serverlib/1.4/Sun Aug 24 13:43:57 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.servermod/1.2/Sun Aug 10 11:56:06 2008//Tnetbsd-6-1-5-RELEASE
+D/GL////
+D/XTrap////
+D/Xext////
+D/Xi////
+D/afb////
+D/cfb////
+D/cfb32////
+D/composite////
+D/config////
+D/damageext////
+D/dbe////
+D/dix////
+D/doc////
+D/exa////
+D/fb////
+D/glx////
+D/hw////
+D/include////
+D/mfb////
+D/mi////
+D/miext////
+D/os////
+D/randr////
+D/record////
+D/render////
+D/xfixes////
+D/xkb////
+D/xkbstubs////

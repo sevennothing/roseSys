@@ -1,0 +1,18 @@
+/2template_test.in/1.1.1.1/Tue Jun 23 10:08:42 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.1/Tue Jun 23 10:08:42 2009//Tnetbsd-6-1-5-RELEASE
+/annotate.pl/1.1.1.1/Tue Jun 23 10:08:42 2009//Tnetbsd-6-1-5-RELEASE
+/bounce.c/1.1.1.2/Thu Jun 17 18:06:40 2010//Tnetbsd-6-1-5-RELEASE
+/bounce_append_service.c/1.1.1.1/Tue Jun 23 10:08:42 2009//Tnetbsd-6-1-5-RELEASE
+/bounce_cleanup.c/1.1.1.1/Tue Jun 23 10:08:42 2009//Tnetbsd-6-1-5-RELEASE
+/bounce_notify_service.c/1.1.1.1/Tue Jun 23 10:08:42 2009//Tnetbsd-6-1-5-RELEASE
+/bounce_notify_util.c/1.1.1.1/Tue Jun 23 10:08:42 2009//Tnetbsd-6-1-5-RELEASE
+/bounce_notify_verp.c/1.1.1.1/Tue Jun 23 10:08:42 2009//Tnetbsd-6-1-5-RELEASE
+/bounce_one_service.c/1.1.1.1/Tue Jun 23 10:08:42 2009//Tnetbsd-6-1-5-RELEASE
+/bounce_service.h/1.1.1.1/Tue Jun 23 10:08:42 2009//Tnetbsd-6-1-5-RELEASE
+/bounce_template.c/1.1.1.1/Tue Jun 23 10:08:42 2009//Tnetbsd-6-1-5-RELEASE
+/bounce_template.h/1.1.1.1/Tue Jun 23 10:08:42 2009//Tnetbsd-6-1-5-RELEASE
+/bounce_templates.c/1.1.1.1/Tue Jun 23 10:08:42 2009//Tnetbsd-6-1-5-RELEASE
+/bounce_trace_service.c/1.1.1.1.12.1/Sun Feb 19 18:28:54 2012//Tnetbsd-6-1-5-RELEASE
+/bounce_warn_service.c/1.1.1.1/Tue Jun 23 10:08:42 2009//Tnetbsd-6-1-5-RELEASE
+/template_test.ref/1.1.1.1/Tue Jun 23 10:08:42 2009//Tnetbsd-6-1-5-RELEASE
+D

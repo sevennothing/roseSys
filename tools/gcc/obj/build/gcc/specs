@@ -1,0 +1,154 @@
+*asm:
+%{mbig-endian:-EB} %{mlittle-endian:-EL} %{mcpu=*:-mcpu=%*} %{march=*:-march=%*} %{mapcs-*:-mapcs-%*} %(subtarget_asm_float_spec) %{mthumb-interwork:-mthumb-interwork} %{msoft-float:-mfloat-abi=soft} %{mhard-float:-mfloat-abi=hard} %{mfloat-abi=*} %{mfpu=*} %(subtarget_extra_asm_spec)
+
+*asm_debug:
+%{!g0:%{gstabs*:--gstabs}%{!gstabs*:%{g*:--gdwarf2}}} %{fdebug-prefix-map=*:--debug-prefix-map %*}
+
+*asm_final:
+
+
+*asm_options:
+%{--target-help:%:print-asm-header()} %a %Y %{c:%W{o*}%{!o*:-o %w%b%O}}%{!c:-o %d%w%u%O}
+
+*invoke_as:
+%{!fwpa:   %{fcompare-debug=*|fdump-final-insns=*:%:compare-debug-dump-opt()}   %{!S:-o %|.s |
+ as %(asm_options) %m.s %A }  }
+
+*cpp:
+%(subtarget_cpp_spec)					%{msoft-float:%{mhard-float:							%e-msoft-float and -mhard_float may not be used together}}	%{mbig-endian:%{mlittle-endian:							%e-mbig-endian and -mlittle-endian may not be used together}}
+
+*cpp_options:
+%(cpp_unique_options) %1 %{m*} %{std*&ansi&trigraphs} %{W*&pedantic*} %{w} %{f*} %{g*:%{!g0:%{g*} %{!fno-working-directory:-fworking-directory}}} %{O*} %{undef} %{save-temps*:-fpch-preprocess}
+
+*cpp_debug_options:
+%{d*}
+
+*cpp_unique_options:
+%{C|CC:%{!E:%eGCC does not support -C or -CC without -E}} %{!Q:-quiet} %{nostdinc*} %{C} %{CC} %{v} %{I*&F*} %{P} %I %{MD:-MD %{!o:%b.d}%{o*:%.d%*}} %{MMD:-MMD %{!o:%b.d}%{o*:%.d%*}} %{M} %{MM} %{MF*} %{MG} %{MP} %{MQ*} %{MT*} %{!E:%{!M:%{!MM:%{!MT:%{!MQ:%{MD|MMD:%{o*:-MQ %*}}}}}}} %{remap} %{g3|ggdb3|gstabs3|gcoff3|gxcoff3|gvms3:-dD} %{H} %C %{D*&U*&A*} %{i*} %Z %i %{fmudflap:-D_MUDFLAP -include mf-runtime.h} %{fmudflapth:-D_MUDFLAP -D_MUDFLAPTH -include mf-runtime.h} %{E|M|MM:%W{o*}}
+
+*trad_capable_cpp:
+cc1 -E %{traditional|ftraditional|traditional-cpp:-traditional-cpp}
+
+*cc1:
+%{cxx-isystem}
+
+*cc1_options:
+%{pg:%{fomit-frame-pointer:%e-pg and -fomit-frame-pointer are incompatible}} %1 %{!Q:-quiet} %{!dumpbase:-dumpbase %B} %{d*} %{m*} %{a*} %{fcompare-debug-second:%:compare-debug-auxbase-opt(%b)}  %{!fcompare-debug-second:%{c|S:%{o*:-auxbase-strip %*}%{!o*:-auxbase %b}}}%{!c:%{!S:-auxbase %b}}  %{g*} %{O*} %{W*&pedantic*} %{w} %{std*&ansi&trigraphs} %{v:-version} %{pg:-p} %{p} %{f*} %{undef} %{Qn:-fno-ident} %{--help:--help} %{--target-help:--target-help} %{--help=*:--help=%(VALUE)} %{!fsyntax-only:%{S:%W{o*}%{!o*:-o %b.s}}} %{fsyntax-only:-o %j} %{-param*} %{fmudflap|fmudflapth:-fno-builtin -fno-merge-constants} %{coverage:-fprofile-arcs -ftest-coverage}
+
+*cc1plus:
+%{cxx-isystem}
+
+*link_gcc_c_sequence:
+%G %L %G
+
+*link_ssp:
+%{fstack-protector:}
+
+*endfile:
+%{!shared:                       %{!pie:crtend%O%s}              %{pie:crtendS%O%s}}            %{shared:crtendS%O%s}           %:if-exists(crtn%O%s)
+
+*link:
+--eh-frame-hdr -X %{mbig-endian:-EB} %{mlittle-endian:-EL}    %(netbsd_link_spec)
+
+*lib:
+%{pthread:			     %{!p:			       %{!pg:-lpthread}}	     %{p:-lpthread_p}		     %{pg:-lpthread_p}}		   %{posix:			     %{!p:			       %{!pg:-lposix}}		     %{p:-lposix_p}		     %{pg:-lposix_p}}		   %{shared:-lc}		   %{!shared:			     %{!symbolic:		       %{!p:				 %{!pg:-lc}}		       %{p:-lc_p}		       %{pg:-lc_p}}}
+
+*mfwrap:
+ %{static: %{fmudflap|fmudflapth:  --wrap=malloc --wrap=free --wrap=calloc --wrap=realloc --wrap=mmap --wrap=munmap --wrap=alloca} %{fmudflapth: --wrap=pthread_create}} %{fmudflap|fmudflapth: --wrap=main}
+
+*mflib:
+%{fmudflap|fmudflapth: -export-dynamic}
+
+*link_gomp:
+
+
+*libgcc:
+%{static|static-libgcc:-lgcc -lgcc_eh}%{!static:%{!static-libgcc:%{!shared-libgcc:-lgcc --as-needed -lgcc_s --no-as-needed}%{shared-libgcc:--as-needed -lgcc_s --no-as-needed -lgcc}}}
+
+*startfile:
+%{!shared:			     %{pg:gcrt0%O%s}		     %{!pg:			       %{p:gcrt0%O%s}		       %{!p:crt0%O%s}}}		   %:if-exists(crti%O%s)	   %{static:%:if-exists-else(crtbeginT%O%s crtbegin%O%s)}    %{!static:                        %{!shared:                        %{!pie:crtbegin%O%s}            %{pie:crtbeginS%O%s}}         %{shared:crtbeginS%O%s}}
+
+*switches_need_spaces:
+o
+
+*cross_compile:
+1
+
+*version:
+4.5.3
+
+*multilib:
+. ;
+
+*multilib_defaults:
+
+
+*multilib_extra:
+
+
+*multilib_matches:
+
+
+*multilib_exclusions:
+
+
+*multilib_options:
+
+
+*linker:
+collect2
+
+*linker_plugin_file:
+
+
+*lto_wrapper:
+
+
+*lto_gcc:
+
+
+*lto_libgcc:
+
+
+*link_libgcc:
+%D
+
+*md_exec_prefix:
+
+
+*md_startfile_prefix:
+
+
+*md_startfile_prefix_1:
+
+
+*startfile_prefix_spec:
+
+
+*sysroot_spec:
+--sysroot=%R
+
+*sysroot_suffix_spec:
+
+
+*sysroot_hdrs_suffix_spec:
+
+
+*subtarget_cpp_spec:
+%{posix:-D_POSIX_SOURCE}    %{pthread:-D_REENTRANT -D_PTHREADS}
+
+*subtarget_extra_asm_spec:
+-matpcs %{fpic|fpie:-k} %{fPIC|fPIE:-k}
+
+*subtarget_asm_float_spec:
+%{mhard-float:{!mfpu=*:-mfpu=vfp}}      %{mfloat-abi=hard:{!mfpu=*:-mfpu=vfp}}
+
+*netbsd_link_spec:
+%{assert*} %{R*} %{rpath*}    %{shared:-shared}    %{symbolic:-Bsymbolic}    %{!shared:      -dc -dp      %{!nostdlib:        %{!r*: 	 %{!e*:-e %(netbsd_entry_point)}}}      %{!static:        %{rdynamic:-export-dynamic}        %{!dynamic-linker:-dynamic-linker /usr/libexec/ld.elf_so}}      %{static:-static}}
+
+*netbsd_entry_point:
+__start
+
+*link_command:
+%{!fsyntax-only:%{!c:%{!M:%{!MM:%{!E:%{!S:    %(linker)     %{fuse-linker-plugin:     -plugin %(linker_plugin_file)     -plugin-opt=%(lto_wrapper)     -plugin-opt=%(lto_gcc)     %{static|static-libgcc:-plugin-opt=-pass-through=%(lto_libgcc)}	    %{static:-plugin-opt=-pass-through=-lc}	    %{O*:-plugin-opt=-O%*}     %{w:-plugin-opt=-w}     %{f*:-plugin-opt=-f%*}     %{m*:-plugin-opt=-m%*}     %{v:-plugin-opt=-v}     }     %{flto} %{fwhopr} %l %{pie:-pie} %X %{o*} %{A} %{d} %{e*} %{m} %{N} %{n} %{r}    %{s} %{t} %{u*} %{x} %{z} %{Z} %{!A:%{!nostdlib:%{!nostartfiles:%S}}}    %{static:} %{L*} %(mfwrap) %(link_libgcc) %o    %{fopenmp|ftree-parallelize-loops=*:%:include(libgomp.spec)%(link_gomp)} %(mflib)    %{fprofile-arcs|fprofile-generate*|coverage:-lgcov}    %{!nostdlib:%{!nodefaultlibs:%(link_ssp) %(link_gcc_c_sequence)}}    %{!A:%{!nostdlib:%{!nostartfiles:%E}}} %{T*} }}}}}}
+

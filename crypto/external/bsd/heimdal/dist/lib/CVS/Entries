@@ -1,0 +1,21 @@
+/Makefile.am/1.1.1.2/Thu Apr 14 14:08:19 2011//Tnetbsd-6-1-5-RELEASE
+/NTMakefile/1.1.1.1/Wed Apr 13 18:14:39 2011//Tnetbsd-6-1-5-RELEASE
+D/45////
+D/asn1////
+D/com_err////
+D/gssapi////
+D/hcrypto////
+D/hdb////
+D/heimdal////
+D/hx509////
+D/ipc////
+D/kadm5////
+D/kafs////
+D/kdfs////
+D/krb5////
+D/ntlm////
+D/otp////
+D/roken////
+D/sl////
+D/vers////
+D/wind////

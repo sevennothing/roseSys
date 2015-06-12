@@ -1,0 +1,14 @@
+/dz_ibus.c/1.11/Sat Jul  9 17:32:29 2011//Tnetbsd-6-1-5-RELEASE
+/ibus.c/1.20/Sat Jul  9 17:32:29 2011//Tnetbsd-6-1-5-RELEASE
+/ibus_3max.c/1.15/Sat Jul  9 17:32:29 2011//Tnetbsd-6-1-5-RELEASE
+/ibus_pmax.c/1.23/Sat Jul  9 17:32:29 2011//Tnetbsd-6-1-5-RELEASE
+/ibusvar.h/1.20/Sat Jul  9 17:32:29 2011//Tnetbsd-6-1-5-RELEASE
+/if_le_ibus.c/1.13/Fri Apr  4 12:25:06 2008//Tnetbsd-6-1-5-RELEASE
+/mcclock_ibus.c/1.18/Sat Jun  4 01:43:56 2011//Tnetbsd-6-1-5-RELEASE
+/pm.c/1.11/Wed Jan 11 21:17:33 2012//Tnetbsd-6-1-5-RELEASE
+/pmreg.h/1.3/Sun Dec 11 12:18:36 2005//Tnetbsd-6-1-5-RELEASE
+/sii.c/1.10/Sat Jul  9 17:32:30 2011//Tnetbsd-6-1-5-RELEASE
+/sii_ds.c/1.9/Sat Jul  9 17:32:30 2011//Tnetbsd-6-1-5-RELEASE
+/siireg.h/1.2/Sat Jul 29 19:10:57 2006//Tnetbsd-6-1-5-RELEASE
+/siivar.h/1.4/Sat Jun  4 01:31:23 2011//Tnetbsd-6-1-5-RELEASE
+D

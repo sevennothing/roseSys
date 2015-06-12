@@ -1,0 +1,20 @@
+/Makefile/1.16/Sat Dec 10 19:14:29 2011//Tnetbsd-6-1-5-RELEASE
+/advcap.c/1.13/Sat Dec 10 19:14:29 2011//Tnetbsd-6-1-5-RELEASE
+/advcap.h/1.7/Sat Dec 10 19:14:29 2011//Tnetbsd-6-1-5-RELEASE
+/config.c/1.27.2.1/Wed Aug  8 15:37:49 2012//Tnetbsd-6-1-5-RELEASE
+/config.h/1.8/Sun Dec 11 20:44:44 2011//Tnetbsd-6-1-5-RELEASE
+/dump.c/1.9/Sat Dec 10 19:14:29 2011//Tnetbsd-6-1-5-RELEASE
+/dump.h/1.2/Sat Dec 10 19:14:29 2011//Tnetbsd-6-1-5-RELEASE
+/if.c/1.21/Mon Dec 12 01:11:33 2011//Tnetbsd-6-1-5-RELEASE
+/if.h/1.9/Sun Dec 11 20:44:44 2011//Tnetbsd-6-1-5-RELEASE
+/pathnames.h/1.3/Tue May 23 11:37:59 2000//Tnetbsd-6-1-5-RELEASE
+/rrenum.c/1.14/Sat Dec 10 19:14:29 2011//Tnetbsd-6-1-5-RELEASE
+/rrenum.h/1.5/Sat Dec 10 19:14:29 2011//Tnetbsd-6-1-5-RELEASE
+/rtadvd.8/1.22/Thu Apr 28 12:12:47 2011//Tnetbsd-6-1-5-RELEASE
+/rtadvd.c/1.38/Sun Dec 11 20:44:44 2011//Tnetbsd-6-1-5-RELEASE
+/rtadvd.conf/1.4/Sun Nov  1 15:17:59 2009//Tnetbsd-6-1-5-RELEASE
+/rtadvd.conf.5/1.15/Sat Dec 10 19:14:29 2011//Tnetbsd-6-1-5-RELEASE
+/rtadvd.h/1.11/Sat Dec 10 19:14:29 2011//Tnetbsd-6-1-5-RELEASE
+/timer.c/1.10/Sat Dec 10 19:14:29 2011//Tnetbsd-6-1-5-RELEASE
+/timer.h/1.7/Sat Dec 10 19:14:29 2011//Tnetbsd-6-1-5-RELEASE
+D

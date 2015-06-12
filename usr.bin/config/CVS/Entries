@@ -1,0 +1,21 @@
+/Makefile/1.8/Sun May 13 20:22:45 2007//Tnetbsd-6-1-5-RELEASE
+/config.1/1.10/Mon Aug 31 07:45:24 2009//Tnetbsd-6-1-5-RELEASE
+/config.5/1.21/Wed Mar  3 13:53:22 2010//Tnetbsd-6-1-5-RELEASE
+/config.samples.5/1.4/Wed Apr 30 13:11:00 2008//Tnetbsd-6-1-5-RELEASE
+/defs.h/1.35.8.1/Tue Jun 12 19:23:33 2012//Tnetbsd-6-1-5-RELEASE
+/files.c/1.10/Fri Mar 13 18:24:41 2009//Tnetbsd-6-1-5-RELEASE
+/gram.y/1.24/Fri Apr 30 20:47:18 2010//Tnetbsd-6-1-5-RELEASE
+/hash.c/1.6/Sat Apr 11 12:41:10 2009//Tnetbsd-6-1-5-RELEASE
+/lint.c/1.8/Sun Aug 30 21:07:41 2009//Tnetbsd-6-1-5-RELEASE
+/main.c/1.43/Sat Jul  9 08:01:58 2011//Tnetbsd-6-1-5-RELEASE
+/mkdevsw.c/1.10/Fri Jul 30 16:23:49 2010//Tnetbsd-6-1-5-RELEASE
+/mkheaders.c/1.18/Mon Mar 22 14:40:54 2010//Tnetbsd-6-1-5-RELEASE
+/mkioconf.c/1.19/Thu Mar  3 14:53:01 2011//Tnetbsd-6-1-5-RELEASE
+/mkmakefile.c/1.13.8.1/Tue Jun 12 19:23:34 2012//Tnetbsd-6-1-5-RELEASE
+/mkswap.c/1.7/Tue Jan 20 18:20:48 2009//Tnetbsd-6-1-5-RELEASE
+/pack.c/1.8/Mon Mar  8 10:19:14 2010//Tnetbsd-6-1-5-RELEASE
+/scan.l/1.16/Fri Apr 30 20:47:18 2010//Tnetbsd-6-1-5-RELEASE
+/sem.c/1.38/Sun May  2 15:35:00 2010//Tnetbsd-6-1-5-RELEASE
+/sem.h/1.7/Fri Apr 30 20:47:18 2010//Tnetbsd-6-1-5-RELEASE
+/util.c/1.8/Sun Dec 28 01:23:46 2008//Tnetbsd-6-1-5-RELEASE
+D

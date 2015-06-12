@@ -1,0 +1,24 @@
+/Atffile/1.4/Sun Dec 30 09:13:32 2007//Tnetbsd-6-1-5-RELEASE
+/Makefile/1.34/Sat Nov 12 01:19:25 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.2/Fri Sep 16 16:30:18 2011//Tnetbsd-6-1-5-RELEASE
+/README/1.3/Mon Feb 13 08:55:20 2012//Tnetbsd-6-1-5-RELEASE
+/h_macros.h/1.7/Thu Jun 16 15:33:24 2011//Tnetbsd-6-1-5-RELEASE
+D/crypto////
+D/dev////
+D/examples////
+D/fs////
+D/games////
+D/include////
+D/ipf////
+D/kernel////
+D/lib////
+D/libexec////
+D/modules////
+D/net////
+D/rump////
+D/sbin////
+D/sys////
+D/toolchain////
+D/usr.bin////
+D/usr.sbin////
+D/util////

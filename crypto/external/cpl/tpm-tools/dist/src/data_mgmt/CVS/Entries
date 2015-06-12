@@ -1,0 +1,14 @@
+/Makefile.am/1.2/Sat Jan 28 03:05:53 2012//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.2/Sat Jan 28 03:05:53 2012//Tnetbsd-6-1-5-RELEASE
+/data_common.h/1.1.1.1/Sat Jan 28 02:57:24 2012//Tnetbsd-6-1-5-RELEASE
+/data_import.c/1.1.1.1/Sat Jan 28 02:57:25 2012//Tnetbsd-6-1-5-RELEASE
+/data_import.h/1.1.1.1/Sat Jan 28 02:57:25 2012//Tnetbsd-6-1-5-RELEASE
+/data_init.c/1.1.1.1/Sat Jan 28 02:57:24 2012//Tnetbsd-6-1-5-RELEASE
+/data_init.h/1.1.1.1/Sat Jan 28 02:57:24 2012//Tnetbsd-6-1-5-RELEASE
+/data_object.c/1.1.1.1/Sat Jan 28 02:57:24 2012//Tnetbsd-6-1-5-RELEASE
+/data_object.h/1.1.1.1/Sat Jan 28 02:57:25 2012//Tnetbsd-6-1-5-RELEASE
+/data_passwd.c/1.1.1.1/Sat Jan 28 02:57:24 2012//Tnetbsd-6-1-5-RELEASE
+/data_passwd.h/1.1.1.1/Sat Jan 28 02:57:24 2012//Tnetbsd-6-1-5-RELEASE
+/data_protect.c/1.1.1.1/Sat Jan 28 02:57:25 2012//Tnetbsd-6-1-5-RELEASE
+/data_protect.h/1.1.1.1/Sat Jan 28 02:57:27 2012//Tnetbsd-6-1-5-RELEASE
+D

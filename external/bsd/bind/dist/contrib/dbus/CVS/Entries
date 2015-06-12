@@ -1,0 +1,15 @@
+/GetForwarders/1.1.1.1/Sun Mar 22 14:57:05 2009//Tnetbsd-6-1-5-RELEASE
+/INSTALL/1.1.1.1/Sun Mar 22 14:57:05 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.9.3.2b1/1.1.1.1/Sun Mar 22 14:57:05 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.9.3.3rc2/1.1.1.1/Sun Mar 22 14:57:05 2009//Tnetbsd-6-1-5-RELEASE
+/README.DBUS/1.1.1.1/Sun Mar 22 14:57:05 2009//Tnetbsd-6-1-5-RELEASE
+/SetForwarders/1.1.1.1/Sun Mar 22 14:57:05 2009//Tnetbsd-6-1-5-RELEASE
+/bind-9.3.2b1-dbus.patch/1.1.1.1/Sun Mar 22 14:57:05 2009//Tnetbsd-6-1-5-RELEASE
+/bind-9.3.3rc2-dbus.patch/1.1.1.1/Sun Mar 22 14:57:06 2009//Tnetbsd-6-1-5-RELEASE
+/dbus_mgr.c/1.2/Wed Feb 16 03:46:54 2011//Tnetbsd-6-1-5-RELEASE
+/dbus_mgr.h/1.2/Wed Feb 16 03:46:54 2011//Tnetbsd-6-1-5-RELEASE
+/dbus_service.c/1.2/Wed Feb 16 03:46:54 2011//Tnetbsd-6-1-5-RELEASE
+/dbus_service.h/1.2/Wed Feb 16 03:46:54 2011//Tnetbsd-6-1-5-RELEASE
+/named-dbus-system.conf/1.1.1.1/Sun Mar 22 14:57:07 2009//Tnetbsd-6-1-5-RELEASE
+/named-dbus.service/1.1.1.1/Sun Mar 22 14:57:07 2009//Tnetbsd-6-1-5-RELEASE
+D

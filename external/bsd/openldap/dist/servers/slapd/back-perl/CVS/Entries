@@ -1,0 +1,17 @@
+/Makefile.in/1.1.1.3/Sun Dec 12 15:23:21 2010//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.1/Sat Dec  6 18:25:01 2003//Tnetbsd-6-1-5-RELEASE
+/SampleLDAP.pm/1.1.1.3/Sun Dec 12 15:23:21 2010//Tnetbsd-6-1-5-RELEASE
+/add.c/1.1.1.3/Sun Dec 12 15:23:20 2010//Tnetbsd-6-1-5-RELEASE
+/asperl_undefs.h/1.1.1.3/Sun Dec 12 15:23:20 2010//Tnetbsd-6-1-5-RELEASE
+/bind.c/1.1.1.3/Sun Dec 12 15:23:20 2010//Tnetbsd-6-1-5-RELEASE
+/close.c/1.1.1.3/Sun Dec 12 15:23:20 2010//Tnetbsd-6-1-5-RELEASE
+/compare.c/1.1.1.3/Sun Dec 12 15:23:20 2010//Tnetbsd-6-1-5-RELEASE
+/config.c/1.1.1.3/Sun Dec 12 15:23:20 2010//Tnetbsd-6-1-5-RELEASE
+/delete.c/1.1.1.3/Sun Dec 12 15:23:20 2010//Tnetbsd-6-1-5-RELEASE
+/init.c/1.1.1.3/Sun Dec 12 15:23:21 2010//Tnetbsd-6-1-5-RELEASE
+/modify.c/1.1.1.3/Sun Dec 12 15:23:21 2010//Tnetbsd-6-1-5-RELEASE
+/modrdn.c/1.1.1.3/Sun Dec 12 15:23:21 2010//Tnetbsd-6-1-5-RELEASE
+/perl_back.h/1.1.1.3/Sun Dec 12 15:23:21 2010//Tnetbsd-6-1-5-RELEASE
+/proto-perl.h/1.1.1.3/Sun Dec 12 15:23:21 2010//Tnetbsd-6-1-5-RELEASE
+/search.c/1.1.1.3/Sun Dec 12 15:23:21 2010//Tnetbsd-6-1-5-RELEASE
+D

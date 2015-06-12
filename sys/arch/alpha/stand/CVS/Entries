@@ -1,0 +1,15 @@
+/Makefile/1.17/Sun Dec 11 12:16:20 2005//Tnetbsd-6-1-5-RELEASE
+/Makefile.bootprogs/1.32/Sun Jan 23 13:24:05 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.bootxx/1.9/Fri Apr  3 10:38:12 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.23/Sun Jan 23 13:24:05 2011//Tnetbsd-6-1-5-RELEASE
+D/boot////
+D/bootxx_cd9660////
+D/bootxx_ffs////
+D/bootxx_ffsv2////
+D/bootxx_lfs////
+D/common////
+D/mkbootimage////
+D/netboot////
+D/setnetbootinfo////
+D/standtest////
+D/ustarboot////

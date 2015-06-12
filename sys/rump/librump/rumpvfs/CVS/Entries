@@ -1,0 +1,15 @@
+/Makefile/1.1/Wed Nov 19 14:10:49 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.rumpvfs/1.32.2.1/Mon Jul  2 18:01:17 2012//Tnetbsd-6-1-5-RELEASE
+/compat.c/1.9/Mon Jan 17 16:20:20 2011//Tnetbsd-6-1-5-RELEASE
+/devnodes.c/1.6/Thu Feb 10 11:00:45 2011//Tnetbsd-6-1-5-RELEASE
+/devnull.c/1.3/Thu Feb 10 11:01:31 2011//Tnetbsd-6-1-5-RELEASE
+/rump_vfs.c/1.67/Mon Jul  4 11:31:37 2011//Tnetbsd-6-1-5-RELEASE
+/rump_vfs_private.h/1.15/Tue Sep 27 01:25:32 2011//Tnetbsd-6-1-5-RELEASE
+/rumpblk.c/1.47/Sat Nov 19 22:51:31 2011//Tnetbsd-6-1-5-RELEASE
+/rumpfs.c/1.106/Tue Jan 31 19:00:03 2012//Tnetbsd-6-1-5-RELEASE
+/rumpvfs.ifspec/1.7/Tue Nov 30 15:41:35 2010//Tnetbsd-6-1-5-RELEASE
+/rumpvfs_if_priv.h/1.9/Tue Nov 30 16:27:31 2010//Tnetbsd-6-1-5-RELEASE
+/rumpvfs_if_wrappers.c/1.9/Tue Nov 30 16:27:31 2010//Tnetbsd-6-1-5-RELEASE
+/rumpvnode_if.c/1.11/Mon Aug  8 12:17:28 2011//Tnetbsd-6-1-5-RELEASE
+/vm_vfs.c/1.32/Sun Jun 19 18:28:24 2011//Tnetbsd-6-1-5-RELEASE
+D

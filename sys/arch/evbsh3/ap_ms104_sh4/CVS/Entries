@@ -1,0 +1,10 @@
+/ap_ms104_sh4.c/1.2/Sat Jan 21 19:44:29 2012//Tnetbsd-6-1-5-RELEASE
+/ap_ms104_sh4_intr.c/1.2/Sat Jan 21 19:44:29 2012//Tnetbsd-6-1-5-RELEASE
+/ap_ms104_sh4_space.c/1.1/Tue Apr  6 15:54:29 2010//Tnetbsd-6-1-5-RELEASE
+/ap_ms104_sh4reg.h/1.2/Sat Jan 21 19:44:29 2012//Tnetbsd-6-1-5-RELEASE
+/ap_ms104_sh4var.h/1.2/Sat Jan 21 19:44:29 2012//Tnetbsd-6-1-5-RELEASE
+/clock_machdep.c/1.1/Tue Apr  6 15:54:29 2010//Tnetbsd-6-1-5-RELEASE
+/if_sm_mainbus.c/1.3/Sat Jan 21 19:44:29 2012//Tnetbsd-6-1-5-RELEASE
+/rs5c316_mainbus.c/1.2/Sat Jan 21 19:44:29 2012//Tnetbsd-6-1-5-RELEASE
+/shpcmcia.c/1.3/Sat Jan 21 19:44:29 2012//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,14 @@
+/arm.c/1.1.1.1.8.1/Wed Mar  7 22:33:26 2012//Tnetbsd-6-1-5-RELEASE
+/armthumb.c/1.1.1.1.8.1/Wed Mar  7 22:33:26 2012//Tnetbsd-6-1-5-RELEASE
+/ia64.c/1.1.1.1.8.1/Wed Mar  7 22:33:26 2012//Tnetbsd-6-1-5-RELEASE
+/powerpc.c/1.1.1.1.8.1/Wed Mar  7 22:33:26 2012//Tnetbsd-6-1-5-RELEASE
+/simple_coder.c/1.1.1.1.8.1/Wed Mar  7 22:33:26 2012//Tnetbsd-6-1-5-RELEASE
+/simple_coder.h/1.1.1.1/Tue Nov  2 15:20:42 2010//Tnetbsd-6-1-5-RELEASE
+/simple_decoder.c/1.1.1.1/Tue Nov  2 15:20:42 2010//Tnetbsd-6-1-5-RELEASE
+/simple_decoder.h/1.1.1.1/Tue Nov  2 15:20:42 2010//Tnetbsd-6-1-5-RELEASE
+/simple_encoder.c/1.1.1.1/Tue Nov  2 15:20:42 2010//Tnetbsd-6-1-5-RELEASE
+/simple_encoder.h/1.1.1.1/Tue Nov  2 15:20:42 2010//Tnetbsd-6-1-5-RELEASE
+/simple_private.h/1.1.1.1/Tue Nov  2 15:20:42 2010//Tnetbsd-6-1-5-RELEASE
+/sparc.c/1.1.1.1.8.1/Wed Mar  7 22:33:26 2012//Tnetbsd-6-1-5-RELEASE
+/x86.c/1.1.1.1/Tue Nov  2 15:20:42 2010//Tnetbsd-6-1-5-RELEASE
+D

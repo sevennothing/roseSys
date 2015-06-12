@@ -1,0 +1,9 @@
+/eb7500atx_machdep.c/1.21/Tue Jul 19 15:59:52 2011//Tnetbsd-6-1-5-RELEASE
+/if_cs.c/1.8/Thu Feb  2 19:42:57 2012//Tnetbsd-6-1-5-RELEASE
+/rsbus.c/1.9/Tue Jul 19 15:59:52 2011//Tnetbsd-6-1-5-RELEASE
+/rsbus.h/1.3/Tue Jul 19 15:59:52 2011//Tnetbsd-6-1-5-RELEASE
+/rsbus_io.c/1.3/Tue Jul 19 15:59:52 2011//Tnetbsd-6-1-5-RELEASE
+/rsbus_io_asm.S/1.2/Sun Dec 11 12:16:05 2005//Tnetbsd-6-1-5-RELEASE
+/rside.c/1.11/Tue Jul 19 15:59:52 2011//Tnetbsd-6-1-5-RELEASE
+/rsidereg.h/1.2/Sun Dec 11 12:16:05 2005//Tnetbsd-6-1-5-RELEASE
+D

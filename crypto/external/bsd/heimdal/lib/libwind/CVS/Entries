@@ -1,0 +1,13 @@
+/Makefile/1.1/Wed Apr 13 19:16:56 2011//Tnetbsd-6-1-5-RELEASE
+/bidi_table.c/1.1/Wed Apr 13 19:08:57 2011//Tnetbsd-6-1-5-RELEASE
+/bidi_table.h/1.1/Wed Apr 13 19:08:57 2011//Tnetbsd-6-1-5-RELEASE
+/combining_table.c/1.1/Wed Apr 13 19:08:57 2011//Tnetbsd-6-1-5-RELEASE
+/combining_table.h/1.1/Wed Apr 13 19:08:57 2011//Tnetbsd-6-1-5-RELEASE
+/errorlist_table.c/1.1/Wed Apr 13 19:08:57 2011//Tnetbsd-6-1-5-RELEASE
+/errorlist_table.h/1.1/Wed Apr 13 19:08:57 2011//Tnetbsd-6-1-5-RELEASE
+/map_table.c/1.1/Wed Apr 13 19:08:57 2011//Tnetbsd-6-1-5-RELEASE
+/map_table.h/1.1/Wed Apr 13 19:08:57 2011//Tnetbsd-6-1-5-RELEASE
+/normalize_table.c/1.1/Wed Apr 13 19:08:57 2011//Tnetbsd-6-1-5-RELEASE
+/normalize_table.h/1.1/Wed Apr 13 19:08:57 2011//Tnetbsd-6-1-5-RELEASE
+/shlib_version/1.1/Wed Apr 13 19:16:56 2011//Tnetbsd-6-1-5-RELEASE
+D

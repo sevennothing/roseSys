@@ -1,0 +1,19 @@
+/README/1.1.1.1/Sat Sep 24 20:15:40 2011//Tnetbsd-6-1-5-RELEASE
+/cma_attr.h/1.1.1.1/Sat Sep 24 20:15:40 2011//Tnetbsd-6-1-5-RELEASE
+/cma_deb_core.h/1.1.1.1/Sat Sep 24 20:15:40 2011//Tnetbsd-6-1-5-RELEASE
+/cma_debug_client.h/1.1.1.1/Sat Sep 24 20:15:40 2011//Tnetbsd-6-1-5-RELEASE
+/cma_errors.h/1.1.1.1/Sat Sep 24 20:15:40 2011//Tnetbsd-6-1-5-RELEASE
+/cma_handle.h/1.1.1.1/Sat Sep 24 20:15:40 2011//Tnetbsd-6-1-5-RELEASE
+/cma_init.h/1.1.1.1/Sat Sep 24 20:15:40 2011//Tnetbsd-6-1-5-RELEASE
+/cma_list.h/1.1.1.1/Sat Sep 24 20:15:40 2011//Tnetbsd-6-1-5-RELEASE
+/cma_mutex.h/1.1.1.1/Sat Sep 24 20:15:40 2011//Tnetbsd-6-1-5-RELEASE
+/cma_sched.h/1.1.1.1/Sat Sep 24 20:15:40 2011//Tnetbsd-6-1-5-RELEASE
+/cma_semaphore_defs.h/1.1.1.1/Sat Sep 24 20:15:40 2011//Tnetbsd-6-1-5-RELEASE
+/cma_sequence.h/1.1.1.1/Sat Sep 24 20:15:40 2011//Tnetbsd-6-1-5-RELEASE
+/cma_stack.h/1.1.1.1/Sat Sep 24 20:15:40 2011//Tnetbsd-6-1-5-RELEASE
+/cma_stack_int.h/1.1.1.1/Sat Sep 24 20:15:40 2011//Tnetbsd-6-1-5-RELEASE
+/cma_tcb_defs.h/1.1.1.1/Sat Sep 24 20:15:40 2011//Tnetbsd-6-1-5-RELEASE
+/cma_util.h/1.1.1.1/Sat Sep 24 20:15:41 2011//Tnetbsd-6-1-5-RELEASE
+D/AT386////
+D/HP800////
+D/RIOS////

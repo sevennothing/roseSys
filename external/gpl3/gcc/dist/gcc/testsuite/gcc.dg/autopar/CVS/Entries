@@ -1,0 +1,23 @@
+/autopar.exp/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/outer-1.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/outer-2.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/outer-3.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/outer-4.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/outer-5.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/outer-6.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/parallelization-1.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/pr39500-1.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/pr39500-2.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/pr46099.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/reduc-1.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/reduc-1char.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/reduc-1short.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/reduc-2.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/reduc-2char.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/reduc-2short.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/reduc-3.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/reduc-6.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/reduc-7.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/reduc-8.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+/reduc-9.c/1.1.1.1/Tue Jun 21 01:22:46 2011//Tnetbsd-6-1-5-RELEASE
+D

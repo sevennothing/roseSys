@@ -1,0 +1,26 @@
+/Makefile/1.5/Fri Apr 29 15:05:01 2005//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.7/Thu May 26 12:56:28 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc.prog/1.7/Fri Jun  2 22:16:22 2006//Tnetbsd-6-1-5-RELEASE
+D/gettext////
+D/gettextize////
+D/include////
+D/info////
+D/libgrep////
+D/libnlspr////
+D/libnlsut////
+D/locale////
+D/msgattrib////
+D/msgcat////
+D/msgcmp////
+D/msgcomm////
+D/msgconv////
+D/msgen////
+D/msgexec////
+D/msgfilter////
+D/msgfmt////
+D/msggrep////
+D/msginit////
+D/msgmerge////
+D/msgunfmt////
+D/msguniq////
+D/xgettext////

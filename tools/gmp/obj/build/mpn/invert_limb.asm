@@ -1,0 +1,1 @@
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gmp/../../external/lgpl3/gmp/dist/mpn/x86_64/invert_limb.asm

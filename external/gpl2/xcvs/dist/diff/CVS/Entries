@@ -1,0 +1,27 @@
+/ChangeLog/1.1.1.1/Tue Apr  7 22:10:10 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.am/1.1.1.1/Tue Apr  7 22:10:10 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.2/Fri Apr 10 11:20:28 2009//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.1/Tue Apr  7 22:10:10 2009//Tnetbsd-6-1-5-RELEASE
+/analyze.c/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/build_diff.com/1.1.1.1/Tue Apr  7 22:10:10 2009//Tnetbsd-6-1-5-RELEASE
+/cmpbuf.c/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/cmpbuf.h/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/context.c/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/diagmeet.note/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/diff.c/1.1.1.1/Tue Apr  7 22:10:10 2009//Tnetbsd-6-1-5-RELEASE
+/diff.h/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/diff3.c/1.2/Fri Jan  6 15:16:02 2012//Tnetbsd-6-1-5-RELEASE
+/diffrun.h/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/dir.c/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/ed.c/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/ifdef.c/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/io.c/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/libdiff.dep/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/libdiff.dsp/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/libdiff.mak/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/normal.c/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/side.c/1.2/Fri Jan  6 15:16:02 2012//Tnetbsd-6-1-5-RELEASE
+/system.h/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/util.c/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+/version.c/1.1.1.1/Tue Apr  7 22:10:11 2009//Tnetbsd-6-1-5-RELEASE
+D

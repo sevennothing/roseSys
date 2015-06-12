@@ -1,0 +1,81 @@
+/.gdbinit/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/AUTHORS/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/COPYING/1.1.1.1/Mon Jun 20 05:54:31 2011//Tnetbsd-6-1-5-RELEASE
+/COPYING.LIB/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/ChangeLog/1.1.1.1/Mon Jun 20 05:54:35 2011//Tnetbsd-6-1-5-RELEASE
+/INSTALL/1.1.1.1/Mon Jun 20 05:54:33 2011//Tnetbsd-6-1-5-RELEASE
+/INSTALL.autoconf/1.1.1.1/Mon Jun 20 05:54:33 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.am/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.2/Sat Jul  2 13:26:39 2011//Tnetbsd-6-1-5-RELEASE
+/NEWS/1.1.1.1/Mon Jun 20 05:54:31 2011//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.1/Mon Jun 20 05:54:33 2011//Tnetbsd-6-1-5-RELEASE
+/acinclude.m4/1.1.1.1/Mon Jun 20 05:54:29 2011//Tnetbsd-6-1-5-RELEASE
+/aclocal.m4/1.1.1.1/Mon Jun 20 05:54:32 2011//Tnetbsd-6-1-5-RELEASE
+/ansi2knr.1/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/ansi2knr.c/1.1.1.1/Mon Jun 20 05:54:33 2011//Tnetbsd-6-1-5-RELEASE
+/assert.c/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/compat.c/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/config.guess/1.1.1.1.4.1/Thu Jun 28 04:55:15 2012//Tnetbsd-6-1-5-RELEASE
+/config.in/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/config.sub/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/configfsf.guess/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/configfsf.sub/1.1.1.1/Mon Jun 20 05:54:33 2011//Tnetbsd-6-1-5-RELEASE
+/configure/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/configure.in/1.1.1.1/Mon Jun 20 05:54:31 2011//Tnetbsd-6-1-5-RELEASE
+/dumbmp.c/1.1.1.1/Mon Jun 20 05:54:32 2011//Tnetbsd-6-1-5-RELEASE
+/errno.c/1.1.1.1/Mon Jun 20 05:54:33 2011//Tnetbsd-6-1-5-RELEASE
+/extract-dbl.c/1.1.1.1/Mon Jun 20 05:54:32 2011//Tnetbsd-6-1-5-RELEASE
+/gen-bases.c/1.1.1.1/Mon Jun 20 05:54:31 2011//Tnetbsd-6-1-5-RELEASE
+/gen-fac_ui.c/1.1.1.1/Mon Jun 20 05:54:31 2011//Tnetbsd-6-1-5-RELEASE
+/gen-fib.c/1.1.1.1/Mon Jun 20 05:54:31 2011//Tnetbsd-6-1-5-RELEASE
+/gen-psqr.c/1.1.1.1/Mon Jun 20 05:54:35 2011//Tnetbsd-6-1-5-RELEASE
+/gen-trialdivtab.c/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/gmp-h.in/1.2/Sat Jul  2 14:05:03 2011//Tnetbsd-6-1-5-RELEASE
+/gmp-impl.h/1.2/Thu Jun 23 12:07:41 2011//Tnetbsd-6-1-5-RELEASE
+/gmpxx.h/1.1.1.1/Mon Jun 20 05:54:31 2011//Tnetbsd-6-1-5-RELEASE
+/install-sh/1.1.1.1/Mon Jun 20 05:54:31 2011//Tnetbsd-6-1-5-RELEASE
+/invalid.c/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/libmp.sym/1.1.1.1/Mon Jun 20 05:54:33 2011//Tnetbsd-6-1-5-RELEASE
+/longlong.h/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/ltmain.sh/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/memory.c/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/missing/1.1.1.1/Mon Jun 20 05:54:29 2011//Tnetbsd-6-1-5-RELEASE
+/mp-h.in/1.1.1.1/Mon Jun 20 05:54:31 2011//Tnetbsd-6-1-5-RELEASE
+/mp_bpl.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/mp_clz_tab.c/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/mp_dv_tab.c/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/mp_get_fns.c/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/mp_minv_tab.c/1.1.1.1/Mon Jun 20 05:54:33 2011//Tnetbsd-6-1-5-RELEASE
+/mp_set_fns.c/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/nextprime.c/1.1.1.1/Mon Jun 20 05:54:35 2011//Tnetbsd-6-1-5-RELEASE
+/rand.c/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/randbui.c/1.1.1.1/Mon Jun 20 05:54:33 2011//Tnetbsd-6-1-5-RELEASE
+/randclr.c/1.1.1.1/Mon Jun 20 05:54:35 2011//Tnetbsd-6-1-5-RELEASE
+/randdef.c/1.1.1.1/Mon Jun 20 05:54:29 2011//Tnetbsd-6-1-5-RELEASE
+/randiset.c/1.1.1.1/Mon Jun 20 05:54:33 2011//Tnetbsd-6-1-5-RELEASE
+/randlc2s.c/1.1.1.1/Mon Jun 20 05:54:29 2011//Tnetbsd-6-1-5-RELEASE
+/randlc2x.c/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/randmt.c/1.1.1.1/Mon Jun 20 05:54:31 2011//Tnetbsd-6-1-5-RELEASE
+/randmt.h/1.1.1.1/Mon Jun 20 05:54:33 2011//Tnetbsd-6-1-5-RELEASE
+/randmts.c/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/randmui.c/1.1.1.1/Mon Jun 20 05:54:31 2011//Tnetbsd-6-1-5-RELEASE
+/rands.c/1.1.1.1/Mon Jun 20 05:54:33 2011//Tnetbsd-6-1-5-RELEASE
+/randsd.c/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/randsdui.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/tal-debug.c/1.1.1.1/Mon Jun 20 05:54:33 2011//Tnetbsd-6-1-5-RELEASE
+/tal-notreent.c/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+/tal-reent.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/version.c/1.1.1.1/Mon Jun 20 05:54:31 2011//Tnetbsd-6-1-5-RELEASE
+/ylwrap/1.1.1.1/Mon Jun 20 05:54:30 2011//Tnetbsd-6-1-5-RELEASE
+D/cxx////
+D/demos////
+D/doc////
+D/mpbsd////
+D/mpf////
+D/mpn////
+D/mpq////
+D/mpz////
+D/printf////
+D/scanf////
+D/tests////
+D/tune////

@@ -1,0 +1,21 @@
+/common_w32res.rc/1.1.1.1/Tue Nov  2 15:20:52 2010//Tnetbsd-6-1-5-RELEASE
+/mythread.h/1.1.1.1/Tue Nov  2 15:20:52 2010//Tnetbsd-6-1-5-RELEASE
+/sysdefs.h/1.1.1.1.8.1/Wed Mar  7 22:33:25 2012//Tnetbsd-6-1-5-RELEASE
+/tuklib_common.h/1.1.1.1/Tue Nov  2 15:20:52 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_config.h/1.1.1.1/Tue Nov  2 15:20:52 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_cpucores.c/1.1.1.1/Tue Nov  2 15:20:52 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_cpucores.h/1.1.1.1/Tue Nov  2 15:20:52 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_exit.c/1.1.1.1/Tue Nov  2 15:20:52 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_exit.h/1.1.1.1/Tue Nov  2 15:20:52 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_gettext.h/1.1.1.1/Tue Nov  2 15:20:52 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_integer.h/1.1.1.1/Tue Nov  2 15:20:52 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_mbstr.h/1.1.1.1/Tue Nov  2 15:20:52 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_mbstr_fw.c/1.1.1.1/Tue Nov  2 15:20:52 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_mbstr_width.c/1.1.1.1/Tue Nov  2 15:20:53 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_open_stdxxx.c/1.1.1.1/Tue Nov  2 15:20:53 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_open_stdxxx.h/1.1.1.1/Tue Nov  2 15:20:53 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_physmem.c/1.1.1.1/Tue Nov  2 15:20:53 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_physmem.h/1.1.1.1/Tue Nov  2 15:20:53 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_progname.c/1.1.1.1/Tue Nov  2 15:20:53 2010//Tnetbsd-6-1-5-RELEASE
+/tuklib_progname.h/1.1.1.1/Tue Nov  2 15:20:53 2010//Tnetbsd-6-1-5-RELEASE
+D

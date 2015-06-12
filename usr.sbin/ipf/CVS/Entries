@@ -1,0 +1,14 @@
+/Makefile/1.8/Sun Mar 28 09:01:27 2004//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.21/Tue Aug  9 13:06:10 2011//Tnetbsd-6-1-5-RELEASE
+D/ipf////
+D/ipfs////
+D/ipfstat////
+D/ipftest////
+D/ipmon////
+D/ipnat////
+D/ippool////
+D/ipresend////
+D/ipsend////
+D/iptest////
+D/libipf////
+D/rules////

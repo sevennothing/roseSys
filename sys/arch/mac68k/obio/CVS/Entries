@@ -1,0 +1,16 @@
+/asc.c/1.53/Sun Jun 15 10:29:18 2008//Tnetbsd-6-1-5-RELEASE
+/ascvar.h/1.7/Fri Sep  6 13:20:53 2002//Tnetbsd-6-1-5-RELEASE
+/esp.c/1.54/Tue Aug  2 05:17:18 2011//Tnetbsd-6-1-5-RELEASE
+/espvar.h/1.7/Sun Apr 13 04:55:52 2008//Tnetbsd-6-1-5-RELEASE
+/grf_obio.c/1.57/Wed Oct 17 19:55:16 2007//Tnetbsd-6-1-5-RELEASE
+/if_mc_obio.c/1.17/Mon Mar  5 21:23:49 2007//Tnetbsd-6-1-5-RELEASE
+/if_sn_obio.c/1.28/Wed Apr 23 13:29:45 2008//Tnetbsd-6-1-5-RELEASE
+/iwm.s/1.6/Tue Nov 30 16:05:55 2010//Tnetbsd-6-1-5-RELEASE
+/iwm_fd.c/1.46/Tue Jan 13 13:35:52 2009//Tnetbsd-6-1-5-RELEASE
+/iwm_fdvar.h/1.14/Mon May 26 17:58:37 2008//Tnetbsd-6-1-5-RELEASE
+/iwmreg.h/1.8/Sun Mar  4 06:00:09 2007//Tnetbsd-6-1-5-RELEASE
+/obio.c/1.25/Mon Jun  6 16:52:18 2011//Tnetbsd-6-1-5-RELEASE
+/obiovar.h/1.8/Mon Apr 28 20:23:27 2008//Tnetbsd-6-1-5-RELEASE
+/sbc_obio.c/1.25/Mon Nov 23 00:11:44 2009//Tnetbsd-6-1-5-RELEASE
+/wdc_obio.c/1.23/Tue Mar 18 20:46:36 2008//Tnetbsd-6-1-5-RELEASE
+D

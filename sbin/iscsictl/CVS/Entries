@@ -1,0 +1,9 @@
+/Makefile/1.1/Sun Oct 23 21:11:23 2011//Tnetbsd-6-1-5-RELEASE
+/iscsic_daemonif.c/1.2/Sun Oct 30 18:40:06 2011//Tnetbsd-6-1-5-RELEASE
+/iscsic_driverif.c/1.2.4.2/Tue Jul  3 20:48:40 2012//Tnetbsd-6-1-5-RELEASE
+/iscsic_globals.h/1.4/Thu Nov 17 16:20:47 2011//Tnetbsd-6-1-5-RELEASE
+/iscsic_main.c/1.5/Sun Nov 20 01:14:17 2011//Tnetbsd-6-1-5-RELEASE
+/iscsic_parse.c/1.2/Sun Oct 30 18:40:06 2011//Tnetbsd-6-1-5-RELEASE
+/iscsic_test.c/1.1/Sun Oct 23 21:11:23 2011//Tnetbsd-6-1-5-RELEASE
+/iscsictl.8/1.1.4.1/Wed May 30 08:06:26 2012//Tnetbsd-6-1-5-RELEASE
+D

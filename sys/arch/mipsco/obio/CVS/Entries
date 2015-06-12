@@ -1,0 +1,11 @@
+/asc.c/1.22/Mon Apr 28 20:23:28 2008//Tnetbsd-6-1-5-RELEASE
+/clockreg.h/1.4/Tue Feb  8 20:20:20 2011//Tnetbsd-6-1-5-RELEASE
+/i82072.c/1.11/Sat Mar 14 15:36:10 2009//Tnetbsd-6-1-5-RELEASE
+/if_le.c/1.13/Tue Jan 19 22:06:21 2010//Tnetbsd-6-1-5-RELEASE
+/mkclock.c/1.10/Sat Mar 14 21:04:12 2009//Tnetbsd-6-1-5-RELEASE
+/obio.c/1.17/Mon Jun  6 17:13:06 2011//Tnetbsd-6-1-5-RELEASE
+/rambo.c/1.12/Sat Mar 14 21:04:12 2009//Tnetbsd-6-1-5-RELEASE
+/rambo.h/1.7/Mon Jun 29 20:49:25 2009//Tnetbsd-6-1-5-RELEASE
+/zs.c/1.24/Fri Jun 13 12:25:37 2008//Tnetbsd-6-1-5-RELEASE
+/zs_kgdb.c/1.10/Wed Mar 18 10:22:32 2009//Tnetbsd-6-1-5-RELEASE
+D

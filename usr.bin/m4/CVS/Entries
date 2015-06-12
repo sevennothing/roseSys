@@ -1,0 +1,19 @@
+/Makefile/1.17/Sun Aug 14 12:59:25 2011//Tnetbsd-6-1-5-RELEASE
+/NOTES/1.1/Sun Jun 19 03:58:25 1994//Tnetbsd-6-1-5-RELEASE
+/eval.c/1.22/Sun Aug 21 23:38:43 2011//Tnetbsd-6-1-5-RELEASE
+/expr.c/1.19/Mon Oct 26 21:11:28 2009//Tnetbsd-6-1-5-RELEASE
+/extern.h/1.15/Tue Sep  6 18:16:01 2011//Tnetbsd-6-1-5-RELEASE
+/gnum4.c/1.8/Tue Sep  6 18:16:01 2011//Tnetbsd-6-1-5-RELEASE
+/look.c/1.11/Mon Oct 26 21:11:28 2009//Tnetbsd-6-1-5-RELEASE
+/m4.1/1.22/Fri May 14 17:14:28 2010//Tnetbsd-6-1-5-RELEASE
+/main.c/1.41.4.1/Mon May  7 16:26:47 2012//Tnetbsd-6-1-5-RELEASE
+/mdef.h/1.14/Sat Mar  5 16:37:50 2011//Tnetbsd-6-1-5-RELEASE
+/misc.c/1.22/Tue Sep  6 18:16:01 2011//Tnetbsd-6-1-5-RELEASE
+/parser.y/1.2/Mon Oct 26 21:11:28 2009//Tnetbsd-6-1-5-RELEASE
+/pathnames.h/1.15/Tue Mar  8 23:55:19 2011//Tnetbsd-6-1-5-RELEASE
+/stdd.h/1.4/Thu Aug  7 11:14:34 2003//Tnetbsd-6-1-5-RELEASE
+/tokenizer.l/1.5/Tue May 24 12:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/trace.c/1.7/Sat Mar  5 16:37:50 2011//Tnetbsd-6-1-5-RELEASE
+D/PSD.doc////
+D/TEST////
+D/lib////

@@ -1,0 +1,10 @@
+/Makefile.in/1.1.1.2.6.2/Sat Dec 15 05:40:05 2012//Tnetbsd-6-1-5-RELEASE
+/api/1.1.1.3.4.1/Wed Jun  6 18:18:23 2012//Tnetbsd-6-1-5-RELEASE
+/context.c/1.2.6.1/Tue Jun  5 21:15:41 2012//Tnetbsd-6-1-5-RELEASE
+/dnsconf.c/1.2.6.1/Tue Jun  5 21:15:41 2012//Tnetbsd-6-1-5-RELEASE
+/gai_strerror.c/1.2.6.1/Tue Jun  5 21:15:41 2012//Tnetbsd-6-1-5-RELEASE
+/getaddrinfo.c/1.2.6.1/Tue Jun  5 21:15:41 2012//Tnetbsd-6-1-5-RELEASE
+/getnameinfo.c/1.3.4.1/Tue Jun  5 21:15:41 2012//Tnetbsd-6-1-5-RELEASE
+/resconf.c/1.3.4.1/Tue Jun  5 21:15:41 2012//Tnetbsd-6-1-5-RELEASE
+/version.c/1.2.6.1/Tue Jun  5 21:15:41 2012//Tnetbsd-6-1-5-RELEASE
+D/include////

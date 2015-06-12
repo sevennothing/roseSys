@@ -1,0 +1,13 @@
+/Makefile/1.14/Thu Oct 29 14:36:14 2009//Tnetbsd-6-1-5-RELEASE
+/avl.c/1.7/Fri Feb 11 06:21:22 2005//Tnetbsd-6-1-5-RELEASE
+/defs.h/1.8/Mon Oct 27 00:12:43 2003//Tnetbsd-6-1-5-RELEASE
+/main.c/1.10/Sun Jun 20 22:20:16 2004//Tnetbsd-6-1-5-RELEASE
+/mdb.c/1.45/Tue Sep  6 18:16:38 2011//Tnetbsd-6-1-5-RELEASE
+/mdb.h/1.8/Mon Feb 20 21:06:40 2006//Tnetbsd-6-1-5-RELEASE
+/menu_sys.def/1.58/Mon Feb 20 21:06:40 2006//Tnetbsd-6-1-5-RELEASE
+/menuc.1/1.29/Sat Jul 11 18:38:30 2009//Tnetbsd-6-1-5-RELEASE
+/parse.y/1.15/Mon Feb 20 21:06:40 2006//Tnetbsd-6-1-5-RELEASE
+/pathnames.h/1.1/Mon Oct 15 22:20:03 2001//Tnetbsd-6-1-5-RELEASE
+/scan.l/1.15/Thu Oct 29 14:36:14 2009//Tnetbsd-6-1-5-RELEASE
+/util.c/1.4/Sun Jun 20 22:20:16 2004//Tnetbsd-6-1-5-RELEASE
+D/testm////

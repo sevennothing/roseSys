@@ -1,0 +1,10 @@
+/Makefile.inc/1.12/Sat Jul  9 04:12:01 2011//Tnetbsd-6-1-5-RELEASE
+/SYS.h/1.19/Mon Dec 14 01:07:41 2009//Tnetbsd-6-1-5-RELEASE
+/genassym.cf/1.2/Mon Dec 14 01:07:41 2009//Tnetbsd-6-1-5-RELEASE
+D/gdtoa////
+D/gen////
+D/net////
+D/softfloat////
+D/stdlib////
+D/string////
+D/sys////

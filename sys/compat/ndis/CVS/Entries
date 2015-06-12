@@ -1,0 +1,19 @@
+/cfg_var.h/1.2/Fri Mar 31 00:03:57 2006//Tnetbsd-6-1-5-RELEASE
+/files.ndis/1.1/Fri Mar 31 02:43:18 2006//Tnetbsd-6-1-5-RELEASE
+/hal_var.h/1.1/Thu Mar 30 22:56:50 2006//Tnetbsd-6-1-5-RELEASE
+/kern_ndis.c/1.22/Sat May 14 12:44:16 2011//Tnetbsd-6-1-5-RELEASE
+/kern_windrv.c/1.8/Wed Mar 18 17:06:48 2009//Tnetbsd-6-1-5-RELEASE
+/nbcompat.c/1.12/Sun Jul 17 20:54:50 2011//Tnetbsd-6-1-5-RELEASE
+/nbcompat.h/1.15/Sat May 14 12:44:16 2011//Tnetbsd-6-1-5-RELEASE
+/ndis_var.h/1.6/Sat May 14 12:44:16 2011//Tnetbsd-6-1-5-RELEASE
+/ntoskrnl_var.h/1.7/Wed Mar 18 17:06:48 2009//Tnetbsd-6-1-5-RELEASE
+/pe_var.h/1.5/Thu Nov 16 01:32:44 2006//Tnetbsd-6-1-5-RELEASE
+/resource_var.h/1.2/Tue Dec 25 18:33:36 2007//Tnetbsd-6-1-5-RELEASE
+/subr_hal.c/1.7/Wed Mar 18 10:22:39 2009//Tnetbsd-6-1-5-RELEASE
+/subr_ndis.c/1.26/Fri Feb  3 23:38:07 2012//Tnetbsd-6-1-5-RELEASE
+/subr_ntoskrnl.c/1.22/Fri Feb  3 23:39:59 2012//Tnetbsd-6-1-5-RELEASE
+/subr_pe.c/1.7/Fri Feb  3 23:39:59 2012//Tnetbsd-6-1-5-RELEASE
+/subr_usbd.c/1.6/Sat Mar 14 15:36:16 2009//Tnetbsd-6-1-5-RELEASE
+/usbd_var.h/1.1/Thu Mar 30 22:56:50 2006//Tnetbsd-6-1-5-RELEASE
+/winx64_wrap.S/1.1/Thu Mar 30 22:56:50 2006//Tnetbsd-6-1-5-RELEASE
+D

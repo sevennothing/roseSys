@@ -1,0 +1,14 @@
+/Makefile.am/1.2/Wed Jul 23 09:06:51 2008//Tnetbsd-6-1-5-RELEASE
+/extern.h/1.5/Fri Mar  6 11:45:03 2009//Tnetbsd-6-1-5-RELEASE
+/parse.y/1.15/Mon Jan  9 15:25:13 2012//Tnetbsd-6-1-5-RELEASE
+/sample-policy01.cf/1.1.1.1/Sat Feb 12 11:14:00 2005//Tnetbsd-6-1-5-RELEASE
+/sample-policy02.cf/1.1.1.1/Sat Feb 12 11:14:02 2005//Tnetbsd-6-1-5-RELEASE
+/sample.cf/1.1.1.1/Sat Feb 12 11:14:03 2005//Tnetbsd-6-1-5-RELEASE
+/scriptdump.pl/1.1.1.1/Sat Feb 12 11:14:03 2005//Tnetbsd-6-1-5-RELEASE
+/setkey.8/1.32/Thu Jan 26 21:54:26 2012//Tnetbsd-6-1-5-RELEASE
+/setkey.c/1.15/Fri May 27 18:00:21 2011//Tnetbsd-6-1-5-RELEASE
+/setkey.conf/1.1.1.1/Sat Feb 12 11:14:05 2005//Tnetbsd-6-1-5-RELEASE
+/test-pfkey.c/1.7/Fri Oct  6 12:02:27 2006//Tnetbsd-6-1-5-RELEASE
+/token.l/1.17/Mon Jan  9 15:25:13 2012//Tnetbsd-6-1-5-RELEASE
+/vchar.h/1.4/Sat Sep  9 16:22:37 2006//Tnetbsd-6-1-5-RELEASE
+D

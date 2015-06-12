@@ -1,0 +1,16 @@
+/bsearch.c/1.1.1.2/Sun May 18 14:29:38 2008//Tnetbsd-6-1-5-RELEASE
+/env.c/1.1.1.2/Sun May 18 14:29:38 2008//Tnetbsd-6-1-5-RELEASE
+/gethostname.c/1.1.1.2/Sun May 18 14:29:38 2008//Tnetbsd-6-1-5-RELEASE
+/iswblank.c/1.1.1.2/Sun May 18 14:29:38 2008//Tnetbsd-6-1-5-RELEASE
+/memchr.c/1.1.1.2/Sun May 18 14:29:38 2008//Tnetbsd-6-1-5-RELEASE
+/memset.c/1.1.1.2/Sun May 18 14:29:38 2008//Tnetbsd-6-1-5-RELEASE
+/mkstemp.c/1.2/Mon Mar 21 14:53:02 2011//Tnetbsd-6-1-5-RELEASE
+/mmap.c/1.1.1.2/Sun May 18 14:29:38 2008//Tnetbsd-6-1-5-RELEASE
+/snprintf.c/1.1.1.2/Sun May 18 14:29:39 2008//Tnetbsd-6-1-5-RELEASE
+/strdup.c/1.1.1.2/Sun May 18 14:29:39 2008//Tnetbsd-6-1-5-RELEASE
+/strpbrk.c/1.1.1.2/Sun May 18 14:29:39 2008//Tnetbsd-6-1-5-RELEASE
+/strsep.c/1.1.1.2/Sun May 18 14:29:39 2008//Tnetbsd-6-1-5-RELEASE
+/strtol.c/1.1.1.2/Sun May 18 14:29:39 2008//Tnetbsd-6-1-5-RELEASE
+/strtoul.c/1.1.1.2/Sun May 18 14:29:39 2008//Tnetbsd-6-1-5-RELEASE
+/vsnprintf.c/1.1.1.2/Sun May 18 14:29:39 2008//Tnetbsd-6-1-5-RELEASE
+D

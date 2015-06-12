@@ -1,0 +1,24 @@
+/Makefile/1.12/Tue Mar  8 09:49:42 2011//Tnetbsd-6-1-5-RELEASE
+/mod.mk/1.11/Sat Jan 28 21:54:26 2012//Tnetbsd-6-1-5-RELEASE
+D/pam_afslog////
+D/pam_chroot////
+D/pam_deny////
+D/pam_echo////
+D/pam_exec////
+D/pam_ftpusers////
+D/pam_group////
+D/pam_guest////
+D/pam_krb5////
+D/pam_ksu////
+D/pam_lastlog////
+D/pam_login_access////
+D/pam_nologin////
+D/pam_permit////
+D/pam_radius////
+D/pam_rhosts////
+D/pam_rootok////
+D/pam_securetty////
+D/pam_self////
+D/pam_skey////
+D/pam_ssh////
+D/pam_unix////

@@ -1,0 +1,12 @@
+/Makefile/1.5/Wed Sep 18 04:16:00 2002//Tnetbsd-6-1-5-RELEASE
+/csystfloat.c/1.2/Thu Feb 21 07:38:16 2002//Tnetbsd-6-1-5-RELEASE
+/fail.c/1.5/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/systfloat.c/1.8/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/testCases.c/1.5/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/testFunction.c/1.6/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/testLoops.c/1.5/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/testfloat.c/1.7/Mon Jul 21 14:33:31 2008//Tnetbsd-6-1-5-RELEASE
+/writeHex.c/1.5/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+D/arch////
+D/include////
+D/notes////

@@ -1,0 +1,12 @@
+/ceil.c/1.1.1.1/Tue Jun 21 01:23:07 2011//Tnetbsd-6-1-5-RELEASE
+/floor.c/1.1.1.1/Tue Jun 21 01:23:07 2011//Tnetbsd-6-1-5-RELEASE
+/lceil.c/1.1.1.1/Tue Jun 21 01:23:07 2011//Tnetbsd-6-1-5-RELEASE
+/lfloor.c/1.1.1.1/Tue Jun 21 01:23:07 2011//Tnetbsd-6-1-5-RELEASE
+/lrint.c/1.1.1.1/Tue Jun 21 01:23:07 2011//Tnetbsd-6-1-5-RELEASE
+/lround.c/1.1.1.1/Tue Jun 21 01:23:07 2011//Tnetbsd-6-1-5-RELEASE
+/math-torture.exp/1.1.1.1/Tue Jun 21 01:23:07 2011//Tnetbsd-6-1-5-RELEASE
+/nearbyint.c/1.1.1.1/Tue Jun 21 01:23:07 2011//Tnetbsd-6-1-5-RELEASE
+/rint.c/1.1.1.1/Tue Jun 21 01:23:07 2011//Tnetbsd-6-1-5-RELEASE
+/round.c/1.1.1.1/Tue Jun 21 01:23:07 2011//Tnetbsd-6-1-5-RELEASE
+/trunc.c/1.1.1.1/Tue Jun 21 01:23:07 2011//Tnetbsd-6-1-5-RELEASE
+D

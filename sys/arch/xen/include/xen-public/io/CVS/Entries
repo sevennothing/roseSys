@@ -1,0 +1,15 @@
+/blkif.h/1.6/Wed Dec  7 15:04:18 2011//Tnetbsd-6-1-5-RELEASE
+/console.h/1.1.1.2/Wed Dec  7 14:41:16 2011//Tnetbsd-6-1-5-RELEASE
+/fbif.h/1.1.1.2/Wed Dec  7 14:41:17 2011//Tnetbsd-6-1-5-RELEASE
+/fsif.h/1.1.1.2/Wed Dec  7 14:41:17 2011//Tnetbsd-6-1-5-RELEASE
+/kbdif.h/1.1.1.2/Wed Dec  7 14:41:17 2011//Tnetbsd-6-1-5-RELEASE
+/netif.h/1.6/Wed Dec  7 15:04:18 2011//Tnetbsd-6-1-5-RELEASE
+/pciif.h/1.1.1.2/Wed Dec  7 14:41:16 2011//Tnetbsd-6-1-5-RELEASE
+/protocols.h/1.1.1.2/Wed Dec  7 14:41:16 2011//Tnetbsd-6-1-5-RELEASE
+/ring.h/1.2/Wed Dec  7 15:40:15 2011//Tnetbsd-6-1-5-RELEASE
+/tpmif.h/1.1.1.2/Wed Dec  7 14:41:16 2011//Tnetbsd-6-1-5-RELEASE
+/usbif.h/1.1.1.1/Wed Dec  7 14:41:17 2011//Tnetbsd-6-1-5-RELEASE
+/vscsiif.h/1.1.1.1/Wed Dec  7 14:41:17 2011//Tnetbsd-6-1-5-RELEASE
+/xenbus.h/1.1.1.2/Wed Dec  7 14:41:17 2011//Tnetbsd-6-1-5-RELEASE
+/xs_wire.h/1.2/Wed Dec  7 15:04:18 2011//Tnetbsd-6-1-5-RELEASE
+D

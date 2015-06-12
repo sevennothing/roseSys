@@ -1,0 +1,11 @@
+/Makefile.am/1.1.1.2/Thu Apr 14 14:09:51 2011//Tnetbsd-6-1-5-RELEASE
+/NTMakefile/1.1.1.1/Wed Apr 13 18:16:01 2011//Tnetbsd-6-1-5-RELEASE
+/check-basic.in/1.1.1.2/Thu Apr 14 14:09:51 2011//Tnetbsd-6-1-5-RELEASE
+/check-context.in/1.1.1.2/Thu Apr 14 14:09:51 2011//Tnetbsd-6-1-5-RELEASE
+/check-gss.in/1.1.1.2/Thu Apr 14 14:09:51 2011//Tnetbsd-6-1-5-RELEASE
+/check-gssmask.in/1.1.1.2/Thu Apr 14 14:09:51 2011//Tnetbsd-6-1-5-RELEASE
+/check-ntlm.in/1.1.1.2/Thu Apr 14 14:09:51 2011//Tnetbsd-6-1-5-RELEASE
+/check-spnego.in/1.1.1.2/Thu Apr 14 14:09:51 2011//Tnetbsd-6-1-5-RELEASE
+/krb5.conf.in/1.1.1.2/Thu Apr 14 14:09:51 2011//Tnetbsd-6-1-5-RELEASE
+/ntlm-user-file.txt/1.1.1.2/Thu Apr 14 14:09:51 2011//Tnetbsd-6-1-5-RELEASE
+D

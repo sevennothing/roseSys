@@ -1,0 +1,9 @@
+/Makefile/1.8/Thu May 27 06:58:13 2010//Tnetbsd-6-1-5-RELEASE
+/Makefile.boot/1.57/Mon Jan 16 18:46:20 2012//Tnetbsd-6-1-5-RELEASE
+/biosboot.S/1.8/Wed Jan  5 23:13:01 2011//Tnetbsd-6-1-5-RELEASE
+/boot2.c/1.57.2.1/Sun Aug 12 18:56:54 2012//Tnetbsd-6-1-5-RELEASE
+/conf.c/1.6/Mon Jan 16 18:46:20 2012//Tnetbsd-6-1-5-RELEASE
+/devopen.c/1.8/Fri Dec 24 20:40:42 2010//Tnetbsd-6-1-5-RELEASE
+/devopen.h/1.4/Fri Dec 24 20:40:42 2010//Tnetbsd-6-1-5-RELEASE
+/version/1.15/Wed Feb  9 04:37:54 2011//Tnetbsd-6-1-5-RELEASE
+D/biosboot////

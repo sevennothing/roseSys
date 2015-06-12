@@ -1,0 +1,7 @@
+/Makefile/1.3/Thu Sep  1 13:00:14 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.16.2.1/Tue Apr  3 16:36:20 2012//Tnetbsd-6-1-5-RELEASE
+/prepare-import.sh/1.6/Thu Sep  1 13:00:14 2011//Tnetbsd-6-1-5-RELEASE
+D/dist////
+D/include////
+D/libexec////
+D/usr.bin////

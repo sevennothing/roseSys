@@ -1,0 +1,12 @@
+/Makefile/1.21/Sun Dec 25 06:09:09 2011//Tnetbsd-6-1-5-RELEASE
+/boot.c/1.17/Sun Dec 25 06:09:09 2011//Tnetbsd-6-1-5-RELEASE
+/boot.ldscript/1.2.146.1/Sun Nov 18 19:05:20 2012//Tnetbsd-6-1-5-RELEASE
+/conf.c/1.8.118.1/Sun Nov 18 19:05:18 2012//Tnetbsd-6-1-5-RELEASE
+/dp8390.c/1.2.2.3/Sat Nov 24 20:20:25 2012//Tnetbsd-6-1-5-RELEASE
+/dp8390.h/1.2.2.3/Sat Nov 24 20:20:25 2012//Tnetbsd-6-1-5-RELEASE
+/if_ne.c/1.2.2.3/Sat Nov 24 20:20:25 2012//Tnetbsd-6-1-5-RELEASE
+/ne.c/1.2.2.3/Sat Nov 24 20:20:25 2012//Tnetbsd-6-1-5-RELEASE
+/ne.h/1.1.4.2/Sun Nov 18 19:05:19 2012//Tnetbsd-6-1-5-RELEASE
+/srt0.S/1.2/Tue Apr 12 14:07:35 2011//Tnetbsd-6-1-5-RELEASE
+/version/1.4.8.1/Sun Nov 18 19:05:19 2012//Tnetbsd-6-1-5-RELEASE
+D

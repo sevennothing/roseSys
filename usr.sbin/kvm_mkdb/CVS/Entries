@@ -1,0 +1,12 @@
+/Makefile/1.8/Sun Sep 12 16:08:15 1999//Tnetbsd-6-1-5-RELEASE
+/extern.h/1.19/Thu Aug  7 11:25:23 2003//Tnetbsd-6-1-5-RELEASE
+/kvm_mkdb.8/1.14/Thu Aug  7 11:25:23 2003//Tnetbsd-6-1-5-RELEASE
+/kvm_mkdb.c/1.20/Mon Jul 21 13:36:58 2008//Tnetbsd-6-1-5-RELEASE
+/nlist.c/1.19/Thu Aug  7 11:25:23 2003//Tnetbsd-6-1-5-RELEASE
+/nlist_aout.c/1.9/Tue Jan  4 09:36:13 2011//Tnetbsd-6-1-5-RELEASE
+/nlist_coff.c/1.8/Wed Nov 12 13:31:07 2003//Tnetbsd-6-1-5-RELEASE
+/nlist_ecoff.c/1.11/Wed Nov 12 13:31:07 2003//Tnetbsd-6-1-5-RELEASE
+/nlist_elf32.c/1.19/Sat Aug 28 21:30:03 2010//Tnetbsd-6-1-5-RELEASE
+/nlist_elf64.c/1.5/Wed Nov 12 13:31:07 2003//Tnetbsd-6-1-5-RELEASE
+/testdb.c/1.10/Thu Aug  7 11:25:23 2003//Tnetbsd-6-1-5-RELEASE
+D

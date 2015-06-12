@@ -1,0 +1,23 @@
+/Makefile/1.15/Wed Feb  3 15:34:38 2010//Tnetbsd-6-1-5-RELEASE
+/ch.c/1.6/Mon Oct 13 14:34:25 2003//Tnetbsd-6-1-5-RELEASE
+/command.c/1.12/Sat Jan 24 13:58:21 2009//Tnetbsd-6-1-5-RELEASE
+/decode.c/1.5/Mon Oct 13 14:34:25 2003//Tnetbsd-6-1-5-RELEASE
+/extern.h/1.4/Wed Oct 21 01:07:44 2009//Tnetbsd-6-1-5-RELEASE
+/help.c/1.6/Mon Oct 13 14:34:25 2003//Tnetbsd-6-1-5-RELEASE
+/input.c/1.6/Mon Oct 13 14:34:25 2003//Tnetbsd-6-1-5-RELEASE
+/less.h/1.6/Sat Jan 24 13:58:21 2009//Tnetbsd-6-1-5-RELEASE
+/line.c/1.5/Mon Oct 13 14:34:25 2003//Tnetbsd-6-1-5-RELEASE
+/linenum.c/1.5/Mon Oct 13 14:34:25 2003//Tnetbsd-6-1-5-RELEASE
+/main.c/1.10/Sat Jan 24 13:43:21 2009//Tnetbsd-6-1-5-RELEASE
+/more.1/1.8/Thu Aug  7 09:28:00 2003//Tnetbsd-6-1-5-RELEASE
+/more.help/1.2/Mon Aug 20 12:00:47 2001//Tnetbsd-6-1-5-RELEASE
+/option.c/1.7/Mon Oct 13 14:34:25 2003//Tnetbsd-6-1-5-RELEASE
+/os.c/1.8/Sat Jan 24 13:58:21 2009//Tnetbsd-6-1-5-RELEASE
+/output.c/1.8/Sat Jan 24 13:58:21 2009//Tnetbsd-6-1-5-RELEASE
+/pathnames.h/1.3/Thu Aug  7 09:28:00 2003//Tnetbsd-6-1-5-RELEASE
+/position.c/1.5/Mon Oct 13 14:34:25 2003//Tnetbsd-6-1-5-RELEASE
+/prim.c/1.10/Sat Jan 24 13:58:21 2009//Tnetbsd-6-1-5-RELEASE
+/screen.c/1.7/Mon Oct 13 14:34:25 2003//Tnetbsd-6-1-5-RELEASE
+/signal.c/1.6/Wed Sep  1 01:46:56 2004//Tnetbsd-6-1-5-RELEASE
+/ttyin.c/1.5/Mon Oct 13 14:34:25 2003//Tnetbsd-6-1-5-RELEASE
+D

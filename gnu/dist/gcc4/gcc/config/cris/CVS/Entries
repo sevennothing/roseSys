@@ -1,0 +1,19 @@
+/aout.h/1.1.1.1/Thu Apr 20 09:54:11 2006//Tnetbsd-6-1-5-RELEASE
+/aout.opt/1.1.1.1/Thu Apr 20 09:54:16 2006//Tnetbsd-6-1-5-RELEASE
+/arit.c/1.1.1.1/Thu Apr 20 09:54:05 2006//Tnetbsd-6-1-5-RELEASE
+/cris-protos.h/1.1.1.1/Thu Apr 20 09:54:16 2006//Tnetbsd-6-1-5-RELEASE
+/cris.c/1.1.1.1/Thu Apr 20 09:54:08 2006//Tnetbsd-6-1-5-RELEASE
+/cris.h/1.1.1.1/Thu Apr 20 09:54:11 2006//Tnetbsd-6-1-5-RELEASE
+/cris.md/1.1.1.1/Thu Apr 20 09:54:15 2006//Tnetbsd-6-1-5-RELEASE
+/cris.opt/1.1.1.1/Thu Apr 20 09:54:16 2006//Tnetbsd-6-1-5-RELEASE
+/cris_abi_symbol.c/1.1.1.1/Thu Apr 20 09:54:04 2006//Tnetbsd-6-1-5-RELEASE
+/elf.opt/1.1.1.1/Thu Apr 20 09:54:16 2006//Tnetbsd-6-1-5-RELEASE
+/linux.h/1.1.1.1/Thu Apr 20 09:54:08 2006//Tnetbsd-6-1-5-RELEASE
+/linux.opt/1.1.1.1/Thu Apr 20 09:54:15 2006//Tnetbsd-6-1-5-RELEASE
+/mulsi3.asm/1.1.1.1/Thu Apr 20 09:54:11 2006//Tnetbsd-6-1-5-RELEASE
+/predicates.md/1.1.1.1/Thu Apr 20 09:54:08 2006//Tnetbsd-6-1-5-RELEASE
+/t-aout/1.1.1.1/Thu Apr 20 09:54:16 2006//Tnetbsd-6-1-5-RELEASE
+/t-cris/1.1.1.1/Thu Apr 20 09:54:15 2006//Tnetbsd-6-1-5-RELEASE
+/t-elfmulti/1.1.1.1/Thu Apr 20 09:54:04 2006//Tnetbsd-6-1-5-RELEASE
+/t-linux/1.1.1.1/Thu Apr 20 09:54:15 2006//Tnetbsd-6-1-5-RELEASE
+D

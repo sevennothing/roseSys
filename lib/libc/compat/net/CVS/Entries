@@ -1,0 +1,5 @@
+/Makefile.inc/1.2/Fri Jan 20 14:08:05 2012//Tnetbsd-6-1-5-RELEASE
+/__cmsg_alignbytes.c/1.1/Fri Jan 20 14:08:05 2012//Tnetbsd-6-1-5-RELEASE
+/compat_ns_addr.c/1.1/Sat Aug 26 16:07:01 2006//Tnetbsd-6-1-5-RELEASE
+/compat_ns_ntoa.c/1.1/Sat Aug 26 16:07:01 2006//Tnetbsd-6-1-5-RELEASE
+D

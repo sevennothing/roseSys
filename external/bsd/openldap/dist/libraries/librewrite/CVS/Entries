@@ -1,0 +1,19 @@
+/Copyright/1.1.1.1/Fri May 11 22:51:29 2001//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.3/Sun Dec 12 15:22:12 2010//Tnetbsd-6-1-5-RELEASE
+/RATIONALE/1.1.1.1/Mon Apr 29 18:24:29 2002//Tnetbsd-6-1-5-RELEASE
+/config.c/1.1.1.3/Sun Dec 12 15:22:12 2010//Tnetbsd-6-1-5-RELEASE
+/context.c/1.1.1.3/Sun Dec 12 15:22:12 2010//Tnetbsd-6-1-5-RELEASE
+/info.c/1.1.1.3/Sun Dec 12 15:22:12 2010//Tnetbsd-6-1-5-RELEASE
+/ldapmap.c/1.1.1.3/Sun Dec 12 15:22:12 2010//Tnetbsd-6-1-5-RELEASE
+/map.c/1.1.1.3/Sun Dec 12 15:22:12 2010//Tnetbsd-6-1-5-RELEASE
+/params.c/1.1.1.3/Sun Dec 12 15:22:12 2010//Tnetbsd-6-1-5-RELEASE
+/parse.c/1.1.1.3/Sun Dec 12 15:22:12 2010//Tnetbsd-6-1-5-RELEASE
+/rewrite-int.h/1.1.1.3/Sun Dec 12 15:22:13 2010//Tnetbsd-6-1-5-RELEASE
+/rewrite-map.h/1.1.1.3/Sun Dec 12 15:22:13 2010//Tnetbsd-6-1-5-RELEASE
+/rewrite.c/1.1.1.3/Sun Dec 12 15:22:13 2010//Tnetbsd-6-1-5-RELEASE
+/rule.c/1.1.1.3/Sun Dec 12 15:22:13 2010//Tnetbsd-6-1-5-RELEASE
+/session.c/1.1.1.3/Sun Dec 12 15:22:13 2010//Tnetbsd-6-1-5-RELEASE
+/subst.c/1.1.1.3/Sun Dec 12 15:22:13 2010//Tnetbsd-6-1-5-RELEASE
+/var.c/1.1.1.3/Sun Dec 12 15:22:13 2010//Tnetbsd-6-1-5-RELEASE
+/xmap.c/1.1.1.3/Sun Dec 12 15:22:13 2010//Tnetbsd-6-1-5-RELEASE
+D

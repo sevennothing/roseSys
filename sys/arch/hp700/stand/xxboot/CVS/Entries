@@ -1,0 +1,10 @@
+/Makefile/1.15/Mon Jun 20 08:46:28 2011//Tnetbsd-6-1-5-RELEASE
+/README.ipl/1.2/Sun Dec 11 12:17:25 2005//Tnetbsd-6-1-5-RELEASE
+/iplsum.c/1.5.10.1/Mon Feb 27 20:13:30 2012//Tnetbsd-6-1-5-RELEASE
+/main.c/1.9.18.1/Mon Feb 27 20:13:30 2012//Tnetbsd-6-1-5-RELEASE
+/readufs.c/1.10/Mon Feb 21 02:31:57 2011//Tnetbsd-6-1-5-RELEASE
+/readufs.h/1.5.10.1/Mon Feb 27 20:13:30 2012//Tnetbsd-6-1-5-RELEASE
+/readufs_ffs.c/1.6/Mon Feb 21 02:31:57 2011//Tnetbsd-6-1-5-RELEASE
+/readufs_lfs.c/1.7/Mon Feb 21 02:31:57 2011//Tnetbsd-6-1-5-RELEASE
+/start.S/1.2/Sun Dec 11 12:17:25 2005//Tnetbsd-6-1-5-RELEASE
+D

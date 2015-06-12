@@ -1,0 +1,20 @@
+/Makefile/1.18/Mon Nov 22 21:05:30 2010//Tnetbsd-6-1-5-RELEASE
+/dri.mk/1.10.8.2/Sat Mar 10 21:37:55 2012//Tnetbsd-6-1-5-RELEASE
+D/i810////
+D/i915////
+D/i965////
+D/libmesa////
+D/mach64////
+D/mga////
+D/r128////
+D/r200////
+D/r300////
+D/r600////
+D/radeon////
+D/s3v////
+D/savage////
+D/sis////
+D/swrast////
+D/tdfx////
+D/trident////
+D/unichrome////

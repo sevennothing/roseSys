@@ -1,0 +1,12 @@
+/Makefile/1.9/Thu Oct 29 14:40:09 2009//Tnetbsd-6-1-5-RELEASE
+/action.c/1.2/Wed Aug  6 23:58:40 2003//Tnetbsd-6-1-5-RELEASE
+/config.c/1.3/Wed Aug  6 18:07:53 2003//Tnetbsd-6-1-5-RELEASE
+/config_lex.l/1.7/Thu Oct 29 14:40:09 2009//Tnetbsd-6-1-5-RELEASE
+/config_yacc.y/1.4/Thu Jul 17 16:24:56 2008//Tnetbsd-6-1-5-RELEASE
+/pathnames.h/1.5/Wed Aug  6 18:07:53 2003//Tnetbsd-6-1-5-RELEASE
+/selection.c/1.10/Sun May 27 15:05:00 2007//Tnetbsd-6-1-5-RELEASE
+/wsmoused.8/1.18/Mon Jan  2 18:04:34 2012//Tnetbsd-6-1-5-RELEASE
+/wsmoused.c/1.26/Tue May 31 03:37:02 2011//Tnetbsd-6-1-5-RELEASE
+/wsmoused.conf.5/1.8/Wed Mar 31 11:15:36 2004//Tnetbsd-6-1-5-RELEASE
+/wsmoused.h/1.9/Sat Mar 18 02:06:38 2006//Tnetbsd-6-1-5-RELEASE
+D

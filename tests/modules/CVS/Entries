@@ -1,0 +1,9 @@
+/Makefile/1.8.8.1/Thu May 17 19:03:23 2012//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.1/Wed Nov  3 16:10:23 2010//Tnetbsd-6-1-5-RELEASE
+/t_abi_uvm.sh/1.3.2.2/Thu May 17 19:03:23 2012//Tnetbsd-6-1-5-RELEASE
+/t_builtin.c/1.2/Wed Nov  3 16:10:23 2010//Tnetbsd-6-1-5-RELEASE
+/t_modctl.c/1.5/Wed Nov  3 16:10:23 2010//Tnetbsd-6-1-5-RELEASE
+/t_modload.sh/1.9/Thu Mar 24 21:52:51 2011//Tnetbsd-6-1-5-RELEASE
+D/k_helper////
+D/k_helper2////
+D/k_uvm////

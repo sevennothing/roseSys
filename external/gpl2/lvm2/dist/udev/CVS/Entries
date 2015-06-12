@@ -1,0 +1,8 @@
+/10-dm.rules.in/1.1.1.1/Wed Dec  2 00:26:03 2009//Tnetbsd-6-1-5-RELEASE
+/11-dm-lvm.rules/1.1.1.1/Wed Dec  2 00:26:03 2009//Tnetbsd-6-1-5-RELEASE
+/12-dm-permissions.rules/1.1.1.1/Wed Dec  2 00:26:03 2009//Tnetbsd-6-1-5-RELEASE
+/13-dm-disk.rules/1.1.1.1/Wed Dec  2 00:26:03 2009//Tnetbsd-6-1-5-RELEASE
+/95-dm-notify.rules/1.1.1.1/Wed Dec  2 00:26:03 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile/1.1.1.1/Wed Dec  2 00:26:03 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.1/Wed Dec  2 00:26:03 2009//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,19 @@
+/applybug.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+/blebug.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+/blebug2.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+/blebug3.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+/exitbug.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+/fixupbug.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+/funcrelocbug.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+/labelopbug.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+/longcall.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+/picreloc.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+/plabelbug.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+/r_no_reloc.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+/reduce.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+/reduce2.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+/reduce3.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+/reloc.exp/1.1.1.2/Sat Sep 24 22:30:00 2011//Tnetbsd-6-1-5-RELEASE
+/roundmode.s/1.1.1.1/Tue Aug 18 09:39:23 2009//Tnetbsd-6-1-5-RELEASE
+/selectorbug.s/1.1.1.1/Tue Aug 18 09:39:22 2009//Tnetbsd-6-1-5-RELEASE
+D

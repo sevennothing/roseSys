@@ -1,0 +1,10 @@
+/accept_sec_context.c/1.1.1.1/Wed Apr 13 18:14:48 2011//Tnetbsd-6-1-5-RELEASE
+/compat.c/1.1.1.1/Wed Apr 13 18:14:48 2011//Tnetbsd-6-1-5-RELEASE
+/context_stubs.c/1.1.1.1/Wed Apr 13 18:14:48 2011//Tnetbsd-6-1-5-RELEASE
+/cred_stubs.c/1.1.1.1/Wed Apr 13 18:14:48 2011//Tnetbsd-6-1-5-RELEASE
+/external.c/1.1.1.1/Wed Apr 13 18:14:48 2011//Tnetbsd-6-1-5-RELEASE
+/init_sec_context.c/1.1.1.1/Wed Apr 13 18:14:48 2011//Tnetbsd-6-1-5-RELEASE
+/spnego.asn1/1.1.1.2/Thu Apr 14 14:08:30 2011//Tnetbsd-6-1-5-RELEASE
+/spnego.opt/1.1.1.1/Wed Apr 13 18:14:48 2011//Tnetbsd-6-1-5-RELEASE
+/spnego_locl.h/1.1.1.2/Thu Apr 14 14:08:30 2011//Tnetbsd-6-1-5-RELEASE
+D

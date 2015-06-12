@@ -1,0 +1,17 @@
+/Makefile/1.1/Wed Jan 12 02:58:40 2011//Tnetbsd-6-1-5-RELEASE
+/README/1.1/Wed Jan 12 02:58:40 2011//Tnetbsd-6-1-5-RELEASE
+/basics_v4.exp/1.1/Wed Jan 12 02:58:40 2011//Tnetbsd-6-1-5-RELEASE
+/basics_v4v6.exp/1.1/Wed Jan 12 02:58:40 2011//Tnetbsd-6-1-5-RELEASE
+/h_gai.c/1.1/Wed Jan 12 02:58:40 2011//Tnetbsd-6-1-5-RELEASE
+/no_host_v4.exp/1.1/Wed Jan 12 02:58:40 2011//Tnetbsd-6-1-5-RELEASE
+/no_host_v4v6.exp/1.1/Wed Jan 12 02:58:40 2011//Tnetbsd-6-1-5-RELEASE
+/no_serv_v4.exp/1.1/Wed Jan 12 02:58:40 2011//Tnetbsd-6-1-5-RELEASE
+/no_serv_v4v6.exp/1.1/Wed Jan 12 02:58:41 2011//Tnetbsd-6-1-5-RELEASE
+/scoped.exp/1.1/Wed Jan 12 02:58:41 2011//Tnetbsd-6-1-5-RELEASE
+/sock_raw_v4.exp/1.1/Wed Jan 12 02:58:41 2011//Tnetbsd-6-1-5-RELEASE
+/sock_raw_v4v6.exp/1.1/Wed Jan 12 02:58:41 2011//Tnetbsd-6-1-5-RELEASE
+/spec_fam_v4.exp/1.1/Wed Jan 12 02:58:41 2011//Tnetbsd-6-1-5-RELEASE
+/spec_fam_v4v6.exp/1.1/Wed Jan 12 02:58:41 2011//Tnetbsd-6-1-5-RELEASE
+/t_getaddrinfo.sh/1.2/Wed Jun 15 07:54:32 2011//Tnetbsd-6-1-5-RELEASE
+/unsup_fam.exp/1.1/Wed Jan 12 02:58:41 2011//Tnetbsd-6-1-5-RELEASE
+D

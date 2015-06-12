@@ -1,0 +1,22 @@
+/Makefile.am/1.1.1.1/Mon Oct 26 00:28:36 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.1/Mon Oct 26 00:28:37 2009//Tnetbsd-6-1-5-RELEASE
+/codeset.m4/1.1.1.1/Mon Oct 26 00:28:37 2009//Tnetbsd-6-1-5-RELEASE
+/gettext.m4/1.1.1.1/Mon Oct 26 00:28:35 2009//Tnetbsd-6-1-5-RELEASE
+/glibc21.m4/1.1.1.1/Mon Oct 26 00:28:37 2009//Tnetbsd-6-1-5-RELEASE
+/iconv.m4/1.1.1.1/Mon Oct 26 00:28:35 2009//Tnetbsd-6-1-5-RELEASE
+/intdiv0.m4/1.1.1.1/Mon Oct 26 00:28:37 2009//Tnetbsd-6-1-5-RELEASE
+/inttypes-pri.m4/1.1.1.1/Mon Oct 26 00:28:36 2009//Tnetbsd-6-1-5-RELEASE
+/inttypes.m4/1.1.1.1/Mon Oct 26 00:28:37 2009//Tnetbsd-6-1-5-RELEASE
+/inttypes_h.m4/1.1.1.1/Mon Oct 26 00:28:37 2009//Tnetbsd-6-1-5-RELEASE
+/isc-posix.m4/1.1.1.1/Mon Oct 26 00:28:37 2009//Tnetbsd-6-1-5-RELEASE
+/lcmessage.m4/1.1.1.1/Mon Oct 26 00:28:37 2009//Tnetbsd-6-1-5-RELEASE
+/lib-ld.m4/1.1.1.1/Mon Oct 26 00:28:35 2009//Tnetbsd-6-1-5-RELEASE
+/lib-link.m4/1.1.1.1/Mon Oct 26 00:28:36 2009//Tnetbsd-6-1-5-RELEASE
+/lib-prefix.m4/1.1.1.1/Mon Oct 26 00:28:35 2009//Tnetbsd-6-1-5-RELEASE
+/nls.m4/1.1.1.1/Mon Oct 26 00:28:36 2009//Tnetbsd-6-1-5-RELEASE
+/po.m4/1.1.1.1/Mon Oct 26 00:28:36 2009//Tnetbsd-6-1-5-RELEASE
+/progtest.m4/1.1.1.1/Mon Oct 26 00:28:36 2009//Tnetbsd-6-1-5-RELEASE
+/stdint_h.m4/1.1.1.1/Mon Oct 26 00:28:37 2009//Tnetbsd-6-1-5-RELEASE
+/uintmax_t.m4/1.1.1.1/Mon Oct 26 00:28:37 2009//Tnetbsd-6-1-5-RELEASE
+/ulonglong.m4/1.1.1.1/Mon Oct 26 00:28:37 2009//Tnetbsd-6-1-5-RELEASE
+D

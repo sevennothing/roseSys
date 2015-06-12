@@ -1,0 +1,14 @@
+/Makefile/1.9/Mon Feb 13 01:24:03 2012//Tnetbsd-6-1-5-RELEASE
+/libquota.3/1.5/Mon Feb 13 13:23:29 2012//Tnetbsd-6-1-5-RELEASE
+/quota_cursor.c/1.6/Wed Feb  1 05:46:46 2012//Tnetbsd-6-1-5-RELEASE
+/quota_delete.c/1.4/Wed Feb  1 05:34:40 2012//Tnetbsd-6-1-5-RELEASE
+/quota_get.c/1.5/Wed Feb  1 05:34:40 2012//Tnetbsd-6-1-5-RELEASE
+/quota_kernel.c/1.4/Wed Feb  1 06:19:05 2012//Tnetbsd-6-1-5-RELEASE
+/quota_nfs.c/1.2/Mon Jan 30 06:39:26 2012//Tnetbsd-6-1-5-RELEASE
+/quota_oldfiles.c/1.8.2.1/Fri Mar  2 16:45:29 2012//Tnetbsd-6-1-5-RELEASE
+/quota_open.c/1.7/Wed Feb  1 05:34:40 2012//Tnetbsd-6-1-5-RELEASE
+/quota_put.c/1.4/Wed Feb  1 05:34:40 2012//Tnetbsd-6-1-5-RELEASE
+/quota_schema.c/1.7/Wed Feb  1 05:46:46 2012//Tnetbsd-6-1-5-RELEASE
+/quotapvt.h/1.14/Wed Feb  1 05:46:46 2012//Tnetbsd-6-1-5-RELEASE
+/shlib_version/1.4/Wed Feb  1 17:53:23 2012//Tnetbsd-6-1-5-RELEASE
+D

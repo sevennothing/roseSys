@@ -1,0 +1,8 @@
+/Makefile/1.4/Mon Jun 20 07:44:01 2011//Tnetbsd-6-1-5-RELEASE
+/bootptest.8/1.4/Fri Feb  8 01:38:47 2002//Tnetbsd-6-1-5-RELEASE
+/bootptest.c/1.20/Sun Aug 21 08:59:50 2011//Tnetbsd-6-1-5-RELEASE
+/bootptest.h/1.5/Sun May 27 16:31:42 2007//Tnetbsd-6-1-5-RELEASE
+/getether.c/1.9/Wed Apr 15 00:23:29 2009//Tnetbsd-6-1-5-RELEASE
+/print-bootp.c/1.10/Wed Apr 15 00:23:29 2009//Tnetbsd-6-1-5-RELEASE
+/trygetea.c/1.5/Sat Mar 10 00:16:51 2007//Tnetbsd-6-1-5-RELEASE
+D

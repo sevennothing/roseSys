@@ -1,0 +1,15 @@
+/isabrvar.h/1.6/Sat Jul  5 08:46:25 2008//Tnetbsd-6-1-5-RELEASE
+/isabus.c/1.48/Sun Mar  6 14:58:43 2011//Tnetbsd-6-1-5-RELEASE
+/isadma.c/1.12/Sun Mar  6 14:58:43 2011//Tnetbsd-6-1-5-RELEASE
+/isadma_bounce.c/1.13/Fri Jul  1 19:25:41 2011//Tnetbsd-6-1-5-RELEASE
+/isadmareg.h/1.2/Sun Jan 23 21:01:59 2000//Tnetbsd-6-1-5-RELEASE
+/isapnp_machdep.c/1.9/Fri Jul  1 19:25:41 2011//Tnetbsd-6-1-5-RELEASE
+/mcclock_isa.c/1.15/Fri Jul  1 19:25:41 2011//Tnetbsd-6-1-5-RELEASE
+/mcclock_isavar.h/1.2/Mon Apr 28 20:23:13 2008//Tnetbsd-6-1-5-RELEASE
+/opms_isa.c/1.12/Fri Jul  1 19:25:41 2011//Tnetbsd-6-1-5-RELEASE
+/pccons_isa.c/1.12/Fri Jul  1 19:25:41 2011//Tnetbsd-6-1-5-RELEASE
+/pccons_isavar.h/1.4/Sun Mar  6 14:58:43 2011//Tnetbsd-6-1-5-RELEASE
+/spkrreg.h/1.2/Sun Jan 23 21:01:59 2000//Tnetbsd-6-1-5-RELEASE
+/timer_isa.c/1.14/Fri Jul  1 19:25:41 2011//Tnetbsd-6-1-5-RELEASE
+/timer_isavar.h/1.2/Mon Apr 28 20:23:13 2008//Tnetbsd-6-1-5-RELEASE
+D

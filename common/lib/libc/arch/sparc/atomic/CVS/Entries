@@ -1,0 +1,5 @@
+/Makefile.inc/1.14/Fri Mar 13 19:16:46 2009//Tnetbsd-6-1-5-RELEASE
+/atomic_cas.S/1.11/Tue Feb 22 18:45:10 2011//Tnetbsd-6-1-5-RELEASE
+/atomic_op_asm.h/1.6/Mon Jan 17 18:11:09 2011//Tnetbsd-6-1-5-RELEASE
+/membar_ops.S/1.4/Sun May 25 15:56:12 2008//Tnetbsd-6-1-5-RELEASE
+D

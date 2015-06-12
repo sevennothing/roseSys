@@ -1,0 +1,19 @@
+/Makefile/1.1.1.3/Sun Dec 12 15:19:08 2010//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.3/Sun Dec 12 15:19:10 2010//Tnetbsd-6-1-5-RELEASE
+/alias.c/1.1.1.3/Sun Dec 12 15:19:07 2010//Tnetbsd-6-1-5-RELEASE
+/ether.c/1.1.1.3/Sun Dec 12 15:19:07 2010//Tnetbsd-6-1-5-RELEASE
+/group.c/1.1.1.3/Sun Dec 12 15:19:07 2010//Tnetbsd-6-1-5-RELEASE
+/host.c/1.1.1.3/Sun Dec 12 15:19:08 2010//Tnetbsd-6-1-5-RELEASE
+/ldapns.schema/1.1.1.1/Mon Mar  8 02:14:09 2010//Tnetbsd-6-1-5-RELEASE
+/netgroup.c/1.1.1.3/Sun Dec 12 15:19:08 2010//Tnetbsd-6-1-5-RELEASE
+/network.c/1.1.1.3/Sun Dec 12 15:19:08 2010//Tnetbsd-6-1-5-RELEASE
+/nssov.c/1.1.1.3/Sun Dec 12 15:19:09 2010//Tnetbsd-6-1-5-RELEASE
+/nssov.h/1.1.1.3/Sun Dec 12 15:19:09 2010//Tnetbsd-6-1-5-RELEASE
+/pam.c/1.1.1.2/Sun Dec 12 15:19:10 2010//Tnetbsd-6-1-5-RELEASE
+/passwd.c/1.1.1.3/Sun Dec 12 15:19:10 2010//Tnetbsd-6-1-5-RELEASE
+/protocol.c/1.1.1.3/Sun Dec 12 15:19:10 2010//Tnetbsd-6-1-5-RELEASE
+/rpc.c/1.1.1.3/Sun Dec 12 15:19:10 2010//Tnetbsd-6-1-5-RELEASE
+/service.c/1.1.1.3/Sun Dec 12 15:19:11 2010//Tnetbsd-6-1-5-RELEASE
+/shadow.c/1.1.1.3/Sun Dec 12 15:19:11 2010//Tnetbsd-6-1-5-RELEASE
+/slapo-nssov.5/1.1.1.2/Sun Dec 12 15:19:11 2010//Tnetbsd-6-1-5-RELEASE
+D/nss-pam-ldapd////

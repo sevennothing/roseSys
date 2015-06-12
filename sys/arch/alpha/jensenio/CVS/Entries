@@ -1,0 +1,13 @@
+/com_jensenio.c/1.13/Fri Jul  1 19:22:35 2011//Tnetbsd-6-1-5-RELEASE
+/jensenio.c/1.19/Wed Aug 19 15:00:24 2009//Tnetbsd-6-1-5-RELEASE
+/jensenio_bus_intio.c/1.5/Mon Feb  6 02:14:14 2012//Tnetbsd-6-1-5-RELEASE
+/jensenio_bus_io.c/1.3/Fri Jul  1 19:22:35 2011//Tnetbsd-6-1-5-RELEASE
+/jensenio_bus_mem.c/1.3/Fri Jul  1 19:22:35 2011//Tnetbsd-6-1-5-RELEASE
+/jensenio_dma.c/1.5/Mon Feb  6 02:14:14 2012//Tnetbsd-6-1-5-RELEASE
+/jensenio_intr.c/1.10/Mon Feb  6 02:14:14 2012//Tnetbsd-6-1-5-RELEASE
+/jensenioreg.h/1.4/Mon Feb  6 02:14:14 2012//Tnetbsd-6-1-5-RELEASE
+/jenseniovar.h/1.4/Mon Apr 28 20:23:11 2008//Tnetbsd-6-1-5-RELEASE
+/lpt_jensenio.c/1.11/Fri Jul  1 19:22:35 2011//Tnetbsd-6-1-5-RELEASE
+/mcclock_jensenio.c/1.10/Fri Jul  1 19:22:35 2011//Tnetbsd-6-1-5-RELEASE
+/pckbc_jensenio.c/1.11/Mon Feb  6 02:14:14 2012//Tnetbsd-6-1-5-RELEASE
+D

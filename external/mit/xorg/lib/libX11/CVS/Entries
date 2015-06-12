@@ -1,0 +1,17 @@
+/Makefile/1.11/Wed Feb 23 07:53:29 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.libx11/1.8.12.1/Wed Jun 12 04:28:30 2013//Tnetbsd-6-1-5-RELEASE
+/Makefile.ximcp/1.2/Mon Oct  6 16:24:33 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.xlcDef/1.1/Sun Sep  7 13:15:11 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.xlcUTF8Load/1.1/Sun Sep  7 13:15:11 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.xlibi18n/1.1/Sun Sep  7 13:15:11 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.xlocale/1.1/Sun Sep  7 13:15:11 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.xomGeneric/1.1/Sun Sep  7 13:15:11 2008//Tnetbsd-6-1-5-RELEASE
+D/dynamic////
+D/libX11-xcb////
+D/static////
+D/ximcp////
+D/xlcDef////
+D/xlcUTF8Load////
+D/xlibi18n////
+D/xlocale////
+D/xomGeneric////

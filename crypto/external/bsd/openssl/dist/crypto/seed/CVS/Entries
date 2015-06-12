@@ -1,0 +1,9 @@
+/Makefile/1.1.1.1/Sun Jul 19 23:04:46 2009//Tnetbsd-6-1-5-RELEASE
+/seed.c/1.1.1.2.4.1/Tue Aug 14 07:56:46 2012//Tnetbsd-6-1-5-RELEASE
+/seed.h/1.1.1.2/Sun Jun  5 14:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/seed_cbc.c/1.1.1.1/Sun Jul 19 23:04:46 2009//Tnetbsd-6-1-5-RELEASE
+/seed_cfb.c/1.1.1.1/Sun Jul 19 23:04:47 2009//Tnetbsd-6-1-5-RELEASE
+/seed_ecb.c/1.1.1.1/Sun Jul 19 23:04:47 2009//Tnetbsd-6-1-5-RELEASE
+/seed_locl.h/1.1.1.1/Sun Jul 19 23:04:47 2009//Tnetbsd-6-1-5-RELEASE
+/seed_ofb.c/1.1.1.1/Sun Jul 19 23:04:47 2009//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,16 @@
+/Makefile.in/1.1.1.4.6.2/Sat Dec 15 05:39:22 2012//Tnetbsd-6-1-5-RELEASE
+/dig.1/1.3.4.1/Tue Jun  5 21:15:40 2012//Tnetbsd-6-1-5-RELEASE
+/dig.c/1.3.4.1/Tue Jun  5 21:15:40 2012//Tnetbsd-6-1-5-RELEASE
+/dig.docbook/1.1.1.4.4.1/Wed Jun  6 18:17:10 2012//Tnetbsd-6-1-5-RELEASE
+/dig.html/1.1.1.4.4.1/Wed Jun  6 18:17:10 2012//Tnetbsd-6-1-5-RELEASE
+/dighost.c/1.8.4.1/Tue Jun  5 21:15:40 2012//Tnetbsd-6-1-5-RELEASE
+/host.1/1.2.6.1/Tue Jun  5 21:15:40 2012//Tnetbsd-6-1-5-RELEASE
+/host.c/1.3.4.1/Tue Jun  5 21:15:40 2012//Tnetbsd-6-1-5-RELEASE
+/host.docbook/1.1.1.3.6.1/Wed Jun  6 18:17:10 2012//Tnetbsd-6-1-5-RELEASE
+/host.html/1.1.1.3.6.1/Wed Jun  6 18:17:10 2012//Tnetbsd-6-1-5-RELEASE
+/nslookup.1/1.2.6.1/Tue Jun  5 21:15:40 2012//Tnetbsd-6-1-5-RELEASE
+/nslookup.c/1.3.4.2/Sat Dec 15 05:39:22 2012//Tnetbsd-6-1-5-RELEASE
+/nslookup.docbook/1.1.1.3.6.1/Wed Jun  6 18:17:10 2012//Tnetbsd-6-1-5-RELEASE
+/nslookup.html/1.1.1.4.6.1/Wed Jun  6 18:17:10 2012//Tnetbsd-6-1-5-RELEASE
+D/include////
+D/win32////

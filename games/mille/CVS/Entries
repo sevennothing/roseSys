@@ -1,0 +1,17 @@
+/Makefile/1.10/Sat Feb  6 23:45:25 2010//Tnetbsd-6-1-5-RELEASE
+/comp.c/1.13/Mon May 25 23:44:04 2009//Tnetbsd-6-1-5-RELEASE
+/end.c/1.9/Mon May 25 23:34:50 2009//Tnetbsd-6-1-5-RELEASE
+/extern.c/1.11/Tue Aug 16 11:14:04 2011//Tnetbsd-6-1-5-RELEASE
+/init.c/1.11/Mon May 25 23:34:50 2009//Tnetbsd-6-1-5-RELEASE
+/mille.6/1.12/Sun Apr 12 18:31:47 2009//Tnetbsd-6-1-5-RELEASE
+/mille.c/1.20/Wed Aug 31 16:24:56 2011//Tnetbsd-6-1-5-RELEASE
+/mille.h/1.19/Fri Aug 26 06:18:17 2011//Tnetbsd-6-1-5-RELEASE
+/misc.c/1.12/Mon May 25 23:24:54 2009//Tnetbsd-6-1-5-RELEASE
+/move.c/1.18/Wed Aug 31 16:24:56 2011//Tnetbsd-6-1-5-RELEASE
+/print.c/1.18/Sun Aug 21 08:50:08 2011//Tnetbsd-6-1-5-RELEASE
+/roll.c/1.9/Mon May 25 23:34:50 2009//Tnetbsd-6-1-5-RELEASE
+/save.c/1.16/Fri Aug 26 09:01:07 2011//Tnetbsd-6-1-5-RELEASE
+/table.c/1.10/Mon May 25 23:34:50 2009//Tnetbsd-6-1-5-RELEASE
+/types.c/1.10/Mon May 25 23:34:50 2009//Tnetbsd-6-1-5-RELEASE
+/varpush.c/1.12/Wed Aug 31 16:24:56 2011//Tnetbsd-6-1-5-RELEASE
+D

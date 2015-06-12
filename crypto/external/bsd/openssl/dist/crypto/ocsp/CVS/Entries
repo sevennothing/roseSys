@@ -1,0 +1,12 @@
+/Makefile/1.1.1.1/Sun Jul 19 23:04:24 2009//Tnetbsd-6-1-5-RELEASE
+/ocsp.h/1.1.1.2/Sat Dec 26 23:32:58 2009//Tnetbsd-6-1-5-RELEASE
+/ocsp_asn.c/1.1.1.1/Sun Jul 19 23:04:24 2009//Tnetbsd-6-1-5-RELEASE
+/ocsp_cl.c/1.1.1.1/Sun Jul 19 23:04:25 2009//Tnetbsd-6-1-5-RELEASE
+/ocsp_err.c/1.1.1.1/Sun Jul 19 23:04:25 2009//Tnetbsd-6-1-5-RELEASE
+/ocsp_ext.c/1.1.1.1/Sun Jul 19 23:04:25 2009//Tnetbsd-6-1-5-RELEASE
+/ocsp_ht.c/1.1.1.3.18.1/Fri Aug 15 08:25:07 2014//Tnetbsd-6-1-5-RELEASE
+/ocsp_lib.c/1.1.1.3.18.1/Fri Aug 15 08:25:07 2014//Tnetbsd-6-1-5-RELEASE
+/ocsp_prn.c/1.1.1.3/Sun Jun  5 14:59:15 2011//Tnetbsd-6-1-5-RELEASE
+/ocsp_srv.c/1.1.1.1/Sun Jul 19 23:04:26 2009//Tnetbsd-6-1-5-RELEASE
+/ocsp_vfy.c/1.1.1.1.16.1/Tue Apr  8 11:44:24 2014//Tnetbsd-6-1-5-RELEASE
+D

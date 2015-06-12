@@ -1,0 +1,10 @@
+/liblzma.pc.in/1.1.1.1/Tue Nov  2 15:20:39 2010//Tnetbsd-6-1-5-RELEASE
+/liblzma_w32res.rc/1.1.1.1/Tue Nov  2 15:20:39 2010//Tnetbsd-6-1-5-RELEASE
+D/api////
+D/check////
+D/common////
+D/delta////
+D/lz////
+D/lzma////
+D/rangecoder////
+D/simple////

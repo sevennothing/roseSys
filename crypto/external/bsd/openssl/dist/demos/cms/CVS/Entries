@@ -1,0 +1,17 @@
+/cacert.pem/1.1.1.1/Sun Jul 19 23:05:16 2009//Tnetbsd-6-1-5-RELEASE
+/cakey.pem/1.1.1.1/Sun Jul 19 23:05:16 2009//Tnetbsd-6-1-5-RELEASE
+/cms_comp.c/1.1.1.1.22.1/Tue Apr  8 11:44:25 2014//Tnetbsd-6-1-5-RELEASE
+/cms_ddec.c/1.1.1.1/Sun Jul 19 23:05:16 2009//Tnetbsd-6-1-5-RELEASE
+/cms_dec.c/1.1.1.1.22.1/Tue Apr  8 11:44:25 2014//Tnetbsd-6-1-5-RELEASE
+/cms_denc.c/1.1.1.1/Sun Jul 19 23:05:16 2009//Tnetbsd-6-1-5-RELEASE
+/cms_enc.c/1.1.1.2/Sun Jun  5 15:00:08 2011//Tnetbsd-6-1-5-RELEASE
+/cms_sign.c/1.1.1.1.22.1/Tue Apr  8 11:44:25 2014//Tnetbsd-6-1-5-RELEASE
+/cms_sign2.c/1.1.1.1/Sun Jul 19 23:05:16 2009//Tnetbsd-6-1-5-RELEASE
+/cms_uncomp.c/1.1.1.1/Sun Jul 19 23:05:16 2009//Tnetbsd-6-1-5-RELEASE
+/cms_ver.c/1.1.1.2/Sun Jun  5 15:00:08 2011//Tnetbsd-6-1-5-RELEASE
+/comp.txt/1.1.1.1/Sun Jul 19 23:05:16 2009//Tnetbsd-6-1-5-RELEASE
+/encr.txt/1.1.1.1/Sun Jul 19 23:05:16 2009//Tnetbsd-6-1-5-RELEASE
+/sign.txt/1.1.1.1/Sun Jul 19 23:05:16 2009//Tnetbsd-6-1-5-RELEASE
+/signer.pem/1.1.1.1/Sun Jul 19 23:05:17 2009//Tnetbsd-6-1-5-RELEASE
+/signer2.pem/1.1.1.1/Sun Jul 19 23:05:17 2009//Tnetbsd-6-1-5-RELEASE
+D

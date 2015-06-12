@@ -1,0 +1,16 @@
+/autoconf.c/1.24.10.1/Wed Aug  8 15:51:10 2012//Tnetbsd-6-1-5-RELEASE
+/bus_dma.c/1.37/Sat Feb 26 12:07:45 2011//Tnetbsd-6-1-5-RELEASE
+/bus_space.c/1.31/Fri Jan 27 18:52:56 2012//Tnetbsd-6-1-5-RELEASE
+/bus_space_notimpl.c/1.8/Sat Dec 15 00:39:18 2007//Tnetbsd-6-1-5-RELEASE
+/bus_space_through.c/1.4/Sun Dec 11 12:17:33 2005//Tnetbsd-6-1-5-RELEASE
+/clock.c/1.22/Wed Mar 16 14:43:36 2011//Tnetbsd-6-1-5-RELEASE
+/cpu.c/1.18/Sat Feb 26 12:08:30 2011//Tnetbsd-6-1-5-RELEASE
+/hpcapm_machdep.c/1.5/Wed Mar 16 13:23:41 2011//Tnetbsd-6-1-5-RELEASE
+/interrupt.c/1.18/Sun Feb 20 07:58:14 2011//Tnetbsd-6-1-5-RELEASE
+/kloader_machdep.c/1.7/Wed Mar 18 10:22:29 2009//Tnetbsd-6-1-5-RELEASE
+/kloader_tx39.S/1.4/Mon Apr 28 20:23:21 2008//Tnetbsd-6-1-5-RELEASE
+/kloader_vr41.S/1.4/Mon Apr 28 20:23:21 2008//Tnetbsd-6-1-5-RELEASE
+/locore_machdep.S/1.8/Sun Dec 11 12:17:33 2005//Tnetbsd-6-1-5-RELEASE
+/machdep.c/1.114/Sun Feb 20 07:58:14 2011//Tnetbsd-6-1-5-RELEASE
+/mainbus.c/1.31/Sun Feb 20 07:58:14 2011//Tnetbsd-6-1-5-RELEASE
+D

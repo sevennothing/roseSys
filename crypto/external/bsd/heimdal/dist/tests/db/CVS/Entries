@@ -1,0 +1,14 @@
+/Makefile.am/1.1.1.2/Thu Apr 14 14:09:51 2011//Tnetbsd-6-1-5-RELEASE
+/NTMakefile/1.1.1.1/Wed Apr 13 18:16:01 2011//Tnetbsd-6-1-5-RELEASE
+/add-modify-delete.in/1.1.1.2/Thu Apr 14 14:09:51 2011//Tnetbsd-6-1-5-RELEASE
+/check-aliases.in/1.1.1.1/Wed Apr 13 18:16:01 2011//Tnetbsd-6-1-5-RELEASE
+/check-dbinfo.in/1.1.1.2/Thu Apr 14 14:09:51 2011//Tnetbsd-6-1-5-RELEASE
+/have-db.in/1.1.1.2/Thu Apr 14 14:09:51 2011//Tnetbsd-6-1-5-RELEASE
+/krb5-mit.conf.in/1.1.1.1/Wed Apr 13 18:16:01 2011//Tnetbsd-6-1-5-RELEASE
+/krb5.conf.in/1.1.1.1/Wed Apr 13 18:16:01 2011//Tnetbsd-6-1-5-RELEASE
+/loaddump-db.in/1.1.1.2/Thu Apr 14 14:09:51 2011//Tnetbsd-6-1-5-RELEASE
+/text-dump-0.7/1.1.1.1/Wed Apr 13 18:16:01 2011//Tnetbsd-6-1-5-RELEASE
+/text-dump-known-ext/1.1.1.1/Wed Apr 13 18:16:01 2011//Tnetbsd-6-1-5-RELEASE
+/text-dump-no-ext/1.1.1.1/Wed Apr 13 18:16:01 2011//Tnetbsd-6-1-5-RELEASE
+/text-dump-unknown-ext/1.1.1.1/Wed Apr 13 18:16:01 2011//Tnetbsd-6-1-5-RELEASE
+D

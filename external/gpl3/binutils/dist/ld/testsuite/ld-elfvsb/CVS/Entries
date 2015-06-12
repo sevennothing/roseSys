@@ -1,0 +1,21 @@
+/common.c/1.1.1.1/Tue Aug 18 10:06:15 2009//Tnetbsd-6-1-5-RELEASE
+/define.s/1.1.1.1/Tue Aug 18 10:06:15 2009//Tnetbsd-6-1-5-RELEASE
+/elf-offset.ld/1.1.1.1/Tue Aug 18 10:06:15 2009//Tnetbsd-6-1-5-RELEASE
+/elfvsb.dat/1.1.1.1/Tue Aug 18 10:06:15 2009//Tnetbsd-6-1-5-RELEASE
+/elfvsb.exp/1.1.1.2/Sat Sep 24 22:21:18 2011//Tnetbsd-6-1-5-RELEASE
+/hidden0.d/1.1.1.2/Sat Sep 24 22:21:17 2011//Tnetbsd-6-1-5-RELEASE
+/hidden1.d/1.1.1.2/Sat Sep 24 22:21:17 2011//Tnetbsd-6-1-5-RELEASE
+/hidden2.d/1.1.1.2/Sat Sep 24 22:21:17 2011//Tnetbsd-6-1-5-RELEASE
+/hidden2.ld/1.1.1.1/Tue Aug 18 10:06:15 2009//Tnetbsd-6-1-5-RELEASE
+/hidden2.s/1.1.1.1/Tue Aug 18 10:06:15 2009//Tnetbsd-6-1-5-RELEASE
+/internal0.d/1.1.1.2/Sat Sep 24 22:21:17 2011//Tnetbsd-6-1-5-RELEASE
+/internal1.d/1.1.1.2/Sat Sep 24 22:21:17 2011//Tnetbsd-6-1-5-RELEASE
+/main.c/1.1.1.1/Tue Aug 18 10:06:15 2009//Tnetbsd-6-1-5-RELEASE
+/protected0.d/1.1.1.2/Sat Sep 24 22:21:17 2011//Tnetbsd-6-1-5-RELEASE
+/protected1.d/1.1.1.2/Sat Sep 24 22:21:17 2011//Tnetbsd-6-1-5-RELEASE
+/sh1.c/1.1.1.1/Tue Aug 18 10:06:16 2009//Tnetbsd-6-1-5-RELEASE
+/sh2.c/1.1.1.1/Tue Aug 18 10:06:16 2009//Tnetbsd-6-1-5-RELEASE
+/sh3.c/1.1.1.1/Tue Aug 18 10:06:16 2009//Tnetbsd-6-1-5-RELEASE
+/test.c/1.1.1.1/Tue Aug 18 10:06:16 2009//Tnetbsd-6-1-5-RELEASE
+/undef.s/1.1.1.1/Tue Aug 18 10:06:16 2009//Tnetbsd-6-1-5-RELEASE
+D

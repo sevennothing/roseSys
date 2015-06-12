@@ -1,0 +1,13 @@
+/Makefile.inc/1.8/Sun Jan  4 17:54:29 2009//Tnetbsd-6-1-5-RELEASE
+/atomic_add_32.S/1.2/Sat Aug 16 07:12:39 2008//Tnetbsd-6-1-5-RELEASE
+/atomic_and_32.S/1.2/Sat Aug 16 07:12:39 2008//Tnetbsd-6-1-5-RELEASE
+/atomic_cas_32.S/1.2/Sat Aug 16 07:12:39 2008//Tnetbsd-6-1-5-RELEASE
+/atomic_cas_8.S/1.1/Tue Nov 18 15:22:56 2008//Tnetbsd-6-1-5-RELEASE
+/atomic_cas_up.S/1.2/Sun May 25 15:56:11 2008//Tnetbsd-6-1-5-RELEASE
+/atomic_dec_32.S/1.2/Sat Aug 16 07:12:39 2008//Tnetbsd-6-1-5-RELEASE
+/atomic_inc_32.S/1.2/Sat Aug 16 07:12:39 2008//Tnetbsd-6-1-5-RELEASE
+/atomic_op_asm.h/1.2/Sat Aug 16 07:12:39 2008//Tnetbsd-6-1-5-RELEASE
+/atomic_or_32.S/1.2/Sat Aug 16 07:12:39 2008//Tnetbsd-6-1-5-RELEASE
+/atomic_swap.S/1.2/Sat Aug 16 07:12:40 2008//Tnetbsd-6-1-5-RELEASE
+/membar_ops.S/1.2/Sat Aug 16 07:12:40 2008//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,9 @@
+/fdc_pnpbus.c/1.4/Thu Feb  2 19:43:00 2012//Tnetbsd-6-1-5-RELEASE
+/if_we_pnpbus.c/1.8/Fri Jul  1 16:55:42 2011//Tnetbsd-6-1-5-RELEASE
+/mcclock_pnpbus.c/1.10/Fri Jul  1 16:55:42 2011//Tnetbsd-6-1-5-RELEASE
+/mkclock_pnpbus.c/1.6/Fri Jul  1 16:55:42 2011//Tnetbsd-6-1-5-RELEASE
+/nvram_pnpbus.c/1.15/Sat Jun 18 08:08:29 2011//Tnetbsd-6-1-5-RELEASE
+/pnpbus.c/1.11/Fri Jul  1 16:55:42 2011//Tnetbsd-6-1-5-RELEASE
+/pnpbusvar.h/1.8/Fri Jul  1 16:55:42 2011//Tnetbsd-6-1-5-RELEASE
+/wdc_pnpbus.c/1.10/Fri Jul  1 16:55:42 2011//Tnetbsd-6-1-5-RELEASE
+D

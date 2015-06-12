@@ -1,0 +1,44 @@
+lex.o: \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/lex.c \
+ config.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/system.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/filenames.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/libiberty.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/ansidecl.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/safe-ctype.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/include/cpplib.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/include/symtab.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/obstack.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/include/line-map.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/internal.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/include/symtab.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/include/cpp-id-data.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/include/cpplib.h
+
+config.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/system.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/filenames.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/libiberty.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/ansidecl.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/safe-ctype.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/include/cpplib.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/include/symtab.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/obstack.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/include/line-map.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/internal.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/include/symtab.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/include/cpp-id-data.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/include/cpplib.h:

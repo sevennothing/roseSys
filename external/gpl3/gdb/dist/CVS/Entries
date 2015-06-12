@@ -1,0 +1,50 @@
+/COPYING/1.1.1.1/Sat Sep 24 19:41:47 2011//Tnetbsd-6-1-5-RELEASE
+/COPYING.LIB/1.1.1.1/Sat Sep 24 19:41:47 2011//Tnetbsd-6-1-5-RELEASE
+/COPYING3/1.1.1.1/Sat Sep 24 19:42:08 2011//Tnetbsd-6-1-5-RELEASE
+/COPYING3.LIB/1.1.1.1/Sat Sep 24 19:42:07 2011//Tnetbsd-6-1-5-RELEASE
+/ChangeLog/1.1.1.1/Sat Sep 24 19:42:07 2011//Tnetbsd-6-1-5-RELEASE
+/MAINTAINERS/1.1.1.1/Sat Sep 24 19:42:07 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.def/1.1.1.1/Sat Sep 24 19:41:58 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.1/Sat Sep 24 19:41:36 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.tpl/1.1.1.1/Sat Sep 24 19:41:59 2011//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.1/Sat Sep 24 19:41:36 2011//Tnetbsd-6-1-5-RELEASE
+/README-maintainer-mode/1.1.1.1/Sat Sep 24 19:42:07 2011//Tnetbsd-6-1-5-RELEASE
+/compile/1.1.1.1/Sat Sep 24 19:42:07 2011//Tnetbsd-6-1-5-RELEASE
+/config-ml.in/1.1.1.1/Sat Sep 24 19:41:48 2011//Tnetbsd-6-1-5-RELEASE
+/config.guess/1.1.1.1/Sat Sep 24 19:41:46 2011//Tnetbsd-6-1-5-RELEASE
+/config.rpath/1.1.1.1/Sat Sep 24 19:41:59 2011//Tnetbsd-6-1-5-RELEASE
+/config.sub/1.1.1.1/Sat Sep 24 19:41:46 2011//Tnetbsd-6-1-5-RELEASE
+/configure/1.1.1.1/Sat Sep 24 19:41:43 2011//Tnetbsd-6-1-5-RELEASE
+/configure.ac/1.1.1.1/Sat Sep 24 19:41:45 2011//Tnetbsd-6-1-5-RELEASE
+/depcomp/1.1.1.1/Sat Sep 24 19:42:07 2011//Tnetbsd-6-1-5-RELEASE
+/djunpack.bat/1.1.1.1/Sat Sep 24 19:42:08 2011//Tnetbsd-6-1-5-RELEASE
+/install-sh/1.1.1.1/Sat Sep 24 19:41:47 2011//Tnetbsd-6-1-5-RELEASE
+/libtool.m4/1.1.1.1/Sat Sep 24 19:41:57 2011//Tnetbsd-6-1-5-RELEASE
+/ltgcc.m4/1.1.1.1/Sat Sep 24 19:42:07 2011//Tnetbsd-6-1-5-RELEASE
+/ltmain.sh/1.1.1.1/Sat Sep 24 19:41:52 2011//Tnetbsd-6-1-5-RELEASE
+/ltoptions.m4/1.1.1.1/Sat Sep 24 19:41:57 2011//Tnetbsd-6-1-5-RELEASE
+/ltsugar.m4/1.1.1.1/Sat Sep 24 19:41:57 2011//Tnetbsd-6-1-5-RELEASE
+/ltversion.m4/1.1.1.1/Sat Sep 24 19:41:57 2011//Tnetbsd-6-1-5-RELEASE
+/lt~obsolete.m4/1.1.1.1/Sat Sep 24 19:41:46 2011//Tnetbsd-6-1-5-RELEASE
+/md5.sum/1.1.1.1/Sat Sep 24 19:42:16 2011//Tnetbsd-6-1-5-RELEASE
+/missing/1.1.1.1/Sat Sep 24 19:41:52 2011//Tnetbsd-6-1-5-RELEASE
+/mkdep/1.1.1.1/Sat Sep 24 19:42:07 2011//Tnetbsd-6-1-5-RELEASE
+/mkinstalldirs/1.1.1.1/Sat Sep 24 19:41:48 2011//Tnetbsd-6-1-5-RELEASE
+/move-if-change/1.1.1.1/Sat Sep 24 19:41:46 2011//Tnetbsd-6-1-5-RELEASE
+/src-release/1.1.1.1/Sat Sep 24 19:41:59 2011//Tnetbsd-6-1-5-RELEASE
+/symlink-tree/1.1.1.1/Sat Sep 24 19:41:48 2011//Tnetbsd-6-1-5-RELEASE
+/ylwrap/1.1.1.1/Sat Sep 24 19:41:52 2011//Tnetbsd-6-1-5-RELEASE
+D/bfd////
+D/cgen////
+D/config////
+D/cpu////
+D/etc////
+D/gdb////
+D/include////
+D/intl////
+D/libdecnumber////
+D/libiberty////
+D/opcodes////
+D/readline////
+D/sim////
+D/texinfo////

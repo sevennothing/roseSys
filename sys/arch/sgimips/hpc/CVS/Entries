@@ -1,0 +1,18 @@
+/files.hpc/1.14/Thu May 14 01:10:19 2009//Tnetbsd-6-1-5-RELEASE
+/haltwo.c/1.22/Thu Nov 24 03:35:57 2011//Tnetbsd-6-1-5-RELEASE
+/haltworeg.h/1.2/Sun Dec 11 12:18:53 2005//Tnetbsd-6-1-5-RELEASE
+/haltwovar.h/1.8/Wed Nov 23 23:07:30 2011//Tnetbsd-6-1-5-RELEASE
+/hpc.c/1.66/Fri Jul  1 18:53:46 2011//Tnetbsd-6-1-5-RELEASE
+/hpcdma.c/1.21/Fri Jul  1 18:53:46 2011//Tnetbsd-6-1-5-RELEASE
+/hpcdma.h/1.11/Fri Jul  1 18:53:46 2011//Tnetbsd-6-1-5-RELEASE
+/hpcreg.h/1.20/Tue Jan 25 12:21:04 2011//Tnetbsd-6-1-5-RELEASE
+/hpcvar.h/1.12/Tue Jan 25 12:21:04 2011//Tnetbsd-6-1-5-RELEASE
+/if_sq.c/1.43/Thu Feb  2 19:43:00 2012//Tnetbsd-6-1-5-RELEASE
+/panel.c/1.2/Wed Feb 16 23:44:19 2011//Tnetbsd-6-1-5-RELEASE
+/pckbc_hpc.c/1.9/Sat Mar 15 13:23:24 2008//Tnetbsd-6-1-5-RELEASE
+/pi1ppc.c/1.11/Fri Jul  1 18:53:47 2011//Tnetbsd-6-1-5-RELEASE
+/pi1ppcreg.h/1.2/Thu Mar  5 01:38:12 2009//Tnetbsd-6-1-5-RELEASE
+/pi1ppcvar.h/1.6/Fri Jul  1 18:53:47 2011//Tnetbsd-6-1-5-RELEASE
+/sqvar.h/1.14/Thu Feb  2 19:43:00 2012//Tnetbsd-6-1-5-RELEASE
+/wdsc.c/1.32/Fri Jul  1 18:53:47 2011//Tnetbsd-6-1-5-RELEASE
+D

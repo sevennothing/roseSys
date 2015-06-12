@@ -1,0 +1,15 @@
+/clean.sh/1.1.1.1.2.2/Sat Dec 15 05:39:32 2012//Tnetbsd-6-1-5-RELEASE
+/dig.sh/1.1.1.1.2.2/Sat Dec 15 05:39:32 2012//Tnetbsd-6-1-5-RELEASE
+/missing.example.dlv.example.dlv.db/1.2.2.2/Sat Dec 15 05:39:32 2012//Tnetbsd-6-1-5-RELEASE
+/missing.example.dnskey.db/1.1.1.1.2.2/Sat Dec 15 05:39:32 2012//Tnetbsd-6-1-5-RELEASE
+/missing.example.ds.db/1.1.1.1.2.2/Sat Dec 15 05:39:32 2012//Tnetbsd-6-1-5-RELEASE
+/none.example.dnskey.db/1.1.1.1.2.2/Sat Dec 15 05:39:32 2012//Tnetbsd-6-1-5-RELEASE
+/ok.example.dlv.example.dlv.db/1.1.1.1.2.2/Sat Dec 15 05:39:32 2012//Tnetbsd-6-1-5-RELEASE
+/ok.example.dnskey.db/1.1.1.1.2.2/Sat Dec 15 05:39:32 2012//Tnetbsd-6-1-5-RELEASE
+/ok.example.ds.db/1.1.1.1.2.2/Sat Dec 15 05:39:33 2012//Tnetbsd-6-1-5-RELEASE
+/setup.sh/1.1.1.1.2.2/Sat Dec 15 05:39:33 2012//Tnetbsd-6-1-5-RELEASE
+/tests.sh/1.1.1.1.2.2/Sat Dec 15 05:39:33 2012//Tnetbsd-6-1-5-RELEASE
+/wrong.example.dlv.example.dlv.db/1.1.1.1.2.2/Sat Dec 15 05:39:33 2012//Tnetbsd-6-1-5-RELEASE
+/wrong.example.dnskey.db/1.1.1.1.2.2/Sat Dec 15 05:39:33 2012//Tnetbsd-6-1-5-RELEASE
+/wrong.example.ds.db/1.1.1.1.2.2/Sat Dec 15 05:39:33 2012//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,24 @@
+/Makefile.am/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/asprintf.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/asprntffuns.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/doprnt.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/doprntf.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/doprnti.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/fprintf.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/obprintf.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/obprntffuns.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/obvprintf.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/printf.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/printffuns.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/repl-vsnprintf.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/snprintf.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/snprntffuns.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/sprintf.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/sprintffuns.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/vasprintf.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/vfprintf.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/vprintf.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/vsnprintf.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+/vsprintf.c/1.1.1.1/Mon Jun 20 05:54:37 2011//Tnetbsd-6-1-5-RELEASE
+D

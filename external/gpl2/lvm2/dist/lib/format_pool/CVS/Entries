@@ -1,0 +1,12 @@
+/.exported_symbols/1.1.1.1/Mon Dec 22 00:17:51 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile/1.1.1.1/Wed Dec  2 00:26:51 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.2/Wed Dec  2 00:26:49 2009//Tnetbsd-6-1-5-RELEASE
+/disk_rep.c/1.1.1.2/Wed Dec  2 00:26:50 2009//Tnetbsd-6-1-5-RELEASE
+/disk_rep.h/1.1.1.1/Mon Dec 22 00:17:50 2008//Tnetbsd-6-1-5-RELEASE
+/format_pool.c/1.1.1.2/Wed Dec  2 00:26:50 2009//Tnetbsd-6-1-5-RELEASE
+/format_pool.h/1.1.1.1/Mon Dec 22 00:17:50 2008//Tnetbsd-6-1-5-RELEASE
+/import_export.c/1.1.1.2/Wed Dec  2 00:26:50 2009//Tnetbsd-6-1-5-RELEASE
+/pool_label.c/1.1.1.1/Mon Dec 22 00:17:51 2008//Tnetbsd-6-1-5-RELEASE
+/pool_label.h/1.1.1.1/Mon Dec 22 00:17:51 2008//Tnetbsd-6-1-5-RELEASE
+/sptype_names.h/1.1.1.1/Mon Dec 22 00:17:50 2008//Tnetbsd-6-1-5-RELEASE
+D

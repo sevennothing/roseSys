@@ -1,0 +1,20 @@
+/Makefile/1.4/Sun Jun 12 21:12:46 2011//Tnetbsd-6-1-5-RELEASE
+/h_fgets.c/1.1/Mon Dec 27 02:04:19 2010//Tnetbsd-6-1-5-RELEASE
+/h_getcwd.c/1.1/Mon Dec 27 02:04:19 2010//Tnetbsd-6-1-5-RELEASE
+/h_gets.c/1.1/Mon Dec 27 02:04:19 2010//Tnetbsd-6-1-5-RELEASE
+/h_memcpy.c/1.1/Mon Dec 27 02:04:19 2010//Tnetbsd-6-1-5-RELEASE
+/h_memmove.c/1.1/Mon Dec 27 02:04:19 2010//Tnetbsd-6-1-5-RELEASE
+/h_memset.c/1.1/Mon Dec 27 02:04:19 2010//Tnetbsd-6-1-5-RELEASE
+/h_raw.c/1.6/Sun Jul 24 14:00:36 2011//Tnetbsd-6-1-5-RELEASE
+/h_read.c/1.1/Mon Dec 27 02:04:19 2010//Tnetbsd-6-1-5-RELEASE
+/h_readlink.c/1.1/Mon Dec 27 02:04:19 2010//Tnetbsd-6-1-5-RELEASE
+/h_snprintf.c/1.1/Mon Dec 27 02:04:19 2010//Tnetbsd-6-1-5-RELEASE
+/h_sprintf.c/1.1/Mon Dec 27 02:04:19 2010//Tnetbsd-6-1-5-RELEASE
+/h_strcat.c/1.1/Mon Dec 27 02:04:19 2010//Tnetbsd-6-1-5-RELEASE
+/h_strcpy.c/1.1/Mon Dec 27 02:04:19 2010//Tnetbsd-6-1-5-RELEASE
+/h_strncat.c/1.1/Mon Dec 27 02:04:19 2010//Tnetbsd-6-1-5-RELEASE
+/h_strncpy.c/1.1/Mon Dec 27 02:04:19 2010//Tnetbsd-6-1-5-RELEASE
+/h_vsnprintf.c/1.2/Tue Dec 28 16:18:46 2010//Tnetbsd-6-1-5-RELEASE
+/h_vsprintf.c/1.2/Tue Dec 28 16:18:46 2010//Tnetbsd-6-1-5-RELEASE
+/t_ssp.sh/1.5/Sun Jun 12 21:12:46 2011//Tnetbsd-6-1-5-RELEASE
+D

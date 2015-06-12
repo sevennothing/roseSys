@@ -1,0 +1,20 @@
+/Makefile.am/1.1.1.2/Fri Jun 19 03:22:25 2009//Tnetbsd-6-1-5-RELEASE
+/auth.c/1.1.1.1/Sat Jul 19 05:30:51 2008//Tnetbsd-6-1-5-RELEASE
+/dristat.c/1.1.1.2/Fri Jun 19 03:22:25 2009//Tnetbsd-6-1-5-RELEASE
+/drmstat.c/1.1.1.1/Sat Jul 19 05:30:51 2008//Tnetbsd-6-1-5-RELEASE
+/drmtest.c/1.1.1.2/Fri Jun 19 03:22:25 2009//Tnetbsd-6-1-5-RELEASE
+/drmtest.h/1.1.1.2/Fri Jun 19 03:22:25 2009//Tnetbsd-6-1-5-RELEASE
+/gem_basic.c/1.1.1.1/Fri Jun 19 03:22:25 2009//Tnetbsd-6-1-5-RELEASE
+/gem_flink.c/1.1.1.1/Fri Jun 19 03:22:25 2009//Tnetbsd-6-1-5-RELEASE
+/gem_mmap.c/1.1.1.1/Fri Jun 19 03:22:25 2009//Tnetbsd-6-1-5-RELEASE
+/gem_readwrite.c/1.1.1.1/Fri Jun 19 03:22:25 2009//Tnetbsd-6-1-5-RELEASE
+/getclient.c/1.1.1.1/Sat Jul 19 05:30:51 2008//Tnetbsd-6-1-5-RELEASE
+/getstats.c/1.1.1.1/Sat Jul 19 05:30:51 2008//Tnetbsd-6-1-5-RELEASE
+/getversion.c/1.1.1.2/Fri Jun 19 03:22:25 2009//Tnetbsd-6-1-5-RELEASE
+/lock.c/1.1.1.1/Sat Jul 19 05:30:51 2008//Tnetbsd-6-1-5-RELEASE
+/openclose.c/1.1.1.1/Sat Jul 19 05:30:51 2008//Tnetbsd-6-1-5-RELEASE
+/setversion.c/1.1.1.2/Fri Jun 19 03:22:25 2009//Tnetbsd-6-1-5-RELEASE
+/updatedraw.c/1.1.1.2/Fri Jun 19 03:22:25 2009//Tnetbsd-6-1-5-RELEASE
+D/modeprint////
+D/modetest////
+D/ttmtest////

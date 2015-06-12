@@ -1,0 +1,24 @@
+/Makefile/1.2/Sat Mar  5 01:58:01 2011//Tnetbsd-6-1-5-RELEASE
+/boot.c/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/boot.h/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/bootinfo.c/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/bootinfo.h/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/clock.c/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/com.c/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/common.h/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/conf.c/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/cons.c/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/cons.h/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/deflate.sh/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/devopen.c/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/entry.S/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/ns16550.h/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/prf.c/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/scif.c/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/scif.h/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/tgets.c/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/version/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/wd.c/1.3/Sun Jul 17 20:54:44 2011//Tnetbsd-6-1-5-RELEASE
+/wdc.c/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+/wdvar.h/1.1/Thu Mar  3 05:59:37 2011//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,8 @@
+/bus_dma.c/1.68/Fri Jul  1 19:22:35 2011//Tnetbsd-6-1-5-RELEASE
+/comlogout.c/1.5/Fri Jul  1 19:22:35 2011//Tnetbsd-6-1-5-RELEASE
+/sgmap_common.c/1.26/Fri Jan 27 18:52:48 2012//Tnetbsd-6-1-5-RELEASE
+/sgmap_typedep.c/1.37/Wed Dec 15 01:28:24 2010//Tnetbsd-6-1-5-RELEASE
+/sgmap_typedep.h/1.6/Mon Apr 28 20:23:11 2008//Tnetbsd-6-1-5-RELEASE
+/sgmapvar.h/1.16/Fri Jul  1 19:22:35 2011//Tnetbsd-6-1-5-RELEASE
+/shared_intr.c/1.21/Mon Feb  6 02:14:12 2012//Tnetbsd-6-1-5-RELEASE
+D

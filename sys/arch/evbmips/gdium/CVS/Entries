@@ -1,0 +1,12 @@
+/autoconf.c/1.4.8.1/Wed Aug  8 15:51:07 2012//Tnetbsd-6-1-5-RELEASE
+/bonito_mainbus.c/1.3/Fri Jul  1 18:45:36 2011//Tnetbsd-6-1-5-RELEASE
+/gdium_bus_io.c/1.2/Sun Jul 10 00:03:53 2011//Tnetbsd-6-1-5-RELEASE
+/gdium_bus_mem.c/1.2/Sun Jul 10 00:03:53 2011//Tnetbsd-6-1-5-RELEASE
+/gdium_dma.c/1.5/Sun Jul 10 00:03:53 2011//Tnetbsd-6-1-5-RELEASE
+/gdium_genfb.c/1.6/Sun Jul 10 00:03:53 2011//Tnetbsd-6-1-5-RELEASE
+/gdium_intr.c/1.5/Sun Jul 10 00:03:53 2011//Tnetbsd-6-1-5-RELEASE
+/gdiumreg.h/1.2/Fri Jul 22 20:41:37 2011//Tnetbsd-6-1-5-RELEASE
+/gdiumvar.h/1.2/Fri Jul  1 18:45:36 2011//Tnetbsd-6-1-5-RELEASE
+/machdep.c/1.16/Wed Aug 24 19:03:02 2011//Tnetbsd-6-1-5-RELEASE
+/mainbus.c/1.4/Fri Jan 27 18:52:54 2012//Tnetbsd-6-1-5-RELEASE
+D

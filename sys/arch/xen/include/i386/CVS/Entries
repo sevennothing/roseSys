@@ -1,0 +1,8 @@
+/bus_private.h/1.2/Fri Jan 11 20:00:45 2008//Tnetbsd-6-1-5-RELEASE
+/hypercalls.h/1.14/Wed Dec  7 16:01:39 2011//Tnetbsd-6-1-5-RELEASE
+/i82093var.h/1.2/Fri Jan 11 20:00:46 2008//Tnetbsd-6-1-5-RELEASE
+/i82489var.h/1.2/Fri Jan 11 20:00:47 2008//Tnetbsd-6-1-5-RELEASE
+/intr.h/1.2/Fri Jan 11 20:00:47 2008//Tnetbsd-6-1-5-RELEASE
+/pci_machdep.h/1.2/Fri Jan 11 20:00:48 2008//Tnetbsd-6-1-5-RELEASE
+/pic.h/1.2/Fri Jan 11 20:00:49 2008//Tnetbsd-6-1-5-RELEASE
+D

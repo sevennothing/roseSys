@@ -1,0 +1,112 @@
+/LPdir_nyi.c/1.1.1.1/Sun Jul 19 23:02:31 2009//Tnetbsd-6-1-5-RELEASE
+/LPdir_unix.c/1.1.1.1/Sun Jul 19 23:02:31 2009//Tnetbsd-6-1-5-RELEASE
+/LPdir_vms.c/1.1.1.2/Sun Jun  5 14:57:17 2011//Tnetbsd-6-1-5-RELEASE
+/LPdir_win.c/1.1.1.1/Sun Jul 19 23:02:31 2009//Tnetbsd-6-1-5-RELEASE
+/LPdir_win32.c/1.1.1.1/Sun Jul 19 23:02:31 2009//Tnetbsd-6-1-5-RELEASE
+/LPdir_wince.c/1.1.1.1/Sun Jul 19 23:02:31 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile/1.1.1.2.4.1.6.1/Tue Apr  8 11:44:22 2014//Tnetbsd-6-1-5-RELEASE
+/alphacpuid.pl/1.1.1.1.6.1/Tue Aug 14 07:56:00 2012//Tnetbsd-6-1-5-RELEASE
+/alphacpuid.s/1.1.1.1.8.1/Tue Aug 14 07:56:00 2012//Tnetbsd-6-1-5-RELEASE
+/arm_arch.h/1.1.1.1.2.2/Tue Aug 14 07:56:00 2012//Tnetbsd-6-1-5-RELEASE
+/armcap.c/1.1.1.1.2.2.6.1/Tue Apr  8 11:44:22 2014//Tnetbsd-6-1-5-RELEASE
+/armv4cpuid.S/1.1.1.1.2.2/Tue Aug 14 07:56:00 2012//Tnetbsd-6-1-5-RELEASE
+/cpt_err.c/1.1.1.2/Sun Jun  5 14:57:19 2011//Tnetbsd-6-1-5-RELEASE
+/cryptlib.c/1.1.1.4.4.1.6.1/Tue Apr  8 11:44:22 2014//Tnetbsd-6-1-5-RELEASE
+/cryptlib.h/1.1.1.2.4.1.6.2/Fri Jun  6 05:20:05 2014//Tnetbsd-6-1-5-RELEASE
+/crypto-lib.com/1.1.1.3.4.1.6.1/Tue Apr  8 11:44:22 2014//Tnetbsd-6-1-5-RELEASE
+/crypto.h/1.3.12.1/Tue Apr  8 11:44:22 2014//Tnetbsd-6-1-5-RELEASE
+/cversion.c/1.1.1.1/Sun Jul 19 23:02:32 2009//Tnetbsd-6-1-5-RELEASE
+/ebcdic.c/1.1.1.1/Sun Jul 19 23:02:33 2009//Tnetbsd-6-1-5-RELEASE
+/ebcdic.h/1.1.1.1/Sun Jul 19 23:02:33 2009//Tnetbsd-6-1-5-RELEASE
+/ex_data.c/1.1.1.1/Sun Jul 19 23:02:33 2009//Tnetbsd-6-1-5-RELEASE
+/fips_err.h/1.1.1.1.2.2/Tue Aug 14 07:56:01 2012//Tnetbsd-6-1-5-RELEASE
+/fips_ers.c/1.1.1.1.2.2/Tue Aug 14 07:56:01 2012//Tnetbsd-6-1-5-RELEASE
+/ia64cpuid.S/1.1.1.2.4.1/Tue Aug 14 07:56:01 2012//Tnetbsd-6-1-5-RELEASE
+/install-crypto.com/1.1.1.1/Sun Jun  5 14:57:20 2011//Tnetbsd-6-1-5-RELEASE
+/install.com/1.1.1.1.8.1/Tue Aug 14 07:56:01 2012//Tnetbsd-6-1-5-RELEASE
+/md32_common.h/1.3/Sun Jun  5 23:09:44 2011//Tnetbsd-6-1-5-RELEASE
+/mem.c/1.1.1.2.4.2.6.1/Tue Apr  8 11:44:22 2014//Tnetbsd-6-1-5-RELEASE
+/mem_clr.c/1.2/Sun Jul 19 23:30:38 2009//Tnetbsd-6-1-5-RELEASE
+/mem_dbg.c/1.1.1.1/Sun Jul 19 23:02:34 2009//Tnetbsd-6-1-5-RELEASE
+/o_dir.c/1.1.1.1/Sun Jul 19 23:02:34 2009//Tnetbsd-6-1-5-RELEASE
+/o_dir.h/1.1.1.1/Sun Jul 19 23:02:34 2009//Tnetbsd-6-1-5-RELEASE
+/o_dir_test.c/1.1.1.1/Sun Jul 19 23:02:34 2009//Tnetbsd-6-1-5-RELEASE
+/o_fips.c/1.1.1.1.6.1/Tue Aug 14 07:56:01 2012//Tnetbsd-6-1-5-RELEASE
+/o_init.c/1.1.1.1/Sun Jun  5 14:57:21 2011//Tnetbsd-6-1-5-RELEASE
+/o_str.c/1.1.1.1/Sun Jul 19 23:02:34 2009//Tnetbsd-6-1-5-RELEASE
+/o_str.h/1.1.1.1/Sun Jul 19 23:02:34 2009//Tnetbsd-6-1-5-RELEASE
+/o_time.c/1.1.1.2/Sun Jun  5 14:57:21 2011//Tnetbsd-6-1-5-RELEASE
+/o_time.h/1.1.1.1/Sun Jul 19 23:02:35 2009//Tnetbsd-6-1-5-RELEASE
+/opensslconf.h/1.2.4.1.6.1/Fri Aug 15 08:25:06 2014//Tnetbsd-6-1-5-RELEASE
+/opensslconf.h.in/1.1.1.1/Sun Jul 19 23:02:35 2009//Tnetbsd-6-1-5-RELEASE
+/opensslv.h/1.3.4.1.6.3/Fri Aug 15 08:25:06 2014//Tnetbsd-6-1-5-RELEASE
+/ossl_typ.h/1.1.1.1.8.1/Tue Aug 14 07:56:01 2012//Tnetbsd-6-1-5-RELEASE
+/pariscid.pl/1.1.1.1.2.2.6.1/Tue Apr  8 11:44:22 2014//Tnetbsd-6-1-5-RELEASE
+/ppccap.c/1.2.2.2.6.2/Fri Aug 15 08:25:06 2014//Tnetbsd-6-1-5-RELEASE
+/ppccpuid.pl/1.1.1.2.4.1/Tue Aug 14 07:56:02 2012//Tnetbsd-6-1-5-RELEASE
+/s390xcap.c/1.1.1.1.6.1/Tue Aug 14 07:56:02 2012//Tnetbsd-6-1-5-RELEASE
+/s390xcpuid.S/1.1.1.2.4.1/Tue Aug 14 07:56:02 2012//Tnetbsd-6-1-5-RELEASE
+/sparccpuid.S/1.1.1.2.4.1.6.1/Tue Apr  8 11:44:22 2014//Tnetbsd-6-1-5-RELEASE
+/sparcv9cap.c/1.1.1.2.4.1/Tue Aug 14 07:56:02 2012//Tnetbsd-6-1-5-RELEASE
+/symhacks.h/1.1.1.3.4.1.6.1/Tue Apr  8 11:44:22 2014//Tnetbsd-6-1-5-RELEASE
+/uid.c/1.2/Sun Jul 19 23:30:38 2009//Tnetbsd-6-1-5-RELEASE
+/vms_rms.h/1.1.1.1/Sun Jun  5 14:57:22 2011//Tnetbsd-6-1-5-RELEASE
+/x86_64cpuid.pl/1.1.1.2.4.1.6.1/Tue Apr  8 11:44:22 2014//Tnetbsd-6-1-5-RELEASE
+/x86cpuid.pl/1.1.1.2.4.1.6.1/Tue Apr  8 11:44:22 2014//Tnetbsd-6-1-5-RELEASE
+D/aes////
+D/asn1////
+D/bf////
+D/bio////
+D/bn////
+D/buffer////
+D/camellia////
+D/cast////
+D/cmac////
+D/cms////
+D/comp////
+D/conf////
+D/des////
+D/dh////
+D/dsa////
+D/dso////
+D/ec////
+D/ecdh////
+D/ecdsa////
+D/engine////
+D/err////
+D/evp////
+D/hmac////
+D/idea////
+D/jpake////
+D/krb5////
+D/lhash////
+D/md2////
+D/md4////
+D/md5////
+D/mdc2////
+D/modes////
+D/objects////
+D/ocsp////
+D/pem////
+D/perlasm////
+D/pkcs12////
+D/pkcs7////
+D/pqueue////
+D/rand////
+D/rc2////
+D/rc4////
+D/rc5////
+D/ripemd////
+D/rsa////
+D/seed////
+D/sha////
+D/srp////
+D/stack////
+D/store////
+D/threads////
+D/ts////
+D/txt_db////
+D/ui////
+D/whrlpool////
+D/x509////
+D/x509v3////

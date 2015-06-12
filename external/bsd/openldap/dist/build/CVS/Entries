@@ -1,0 +1,27 @@
+/LICENSE-2.0.1/1.1.1.1/Tue Oct 15 21:22:20 2002//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.1/Sat Dec 21 02:27:31 2002//Tnetbsd-6-1-5-RELEASE
+/config.guess/1.1.1.3/Sun Dec 12 15:18:03 2010//Tnetbsd-6-1-5-RELEASE
+/config.sub/1.1.1.3/Sun Dec 12 15:18:03 2010//Tnetbsd-6-1-5-RELEASE
+/dir.mk/1.1.1.3/Sun Dec 12 15:18:03 2010//Tnetbsd-6-1-5-RELEASE
+/info.mk/1.1.1.3/Sun Dec 12 15:18:03 2010//Tnetbsd-6-1-5-RELEASE
+/lib-shared.mk/1.1.1.3/Sun Dec 12 15:18:04 2010//Tnetbsd-6-1-5-RELEASE
+/lib-static.mk/1.1.1.3/Sun Dec 12 15:18:04 2010//Tnetbsd-6-1-5-RELEASE
+/lib.mk/1.1.1.3/Sun Dec 12 15:18:04 2010//Tnetbsd-6-1-5-RELEASE
+/ltmain.sh/1.1.1.3/Sun Dec 12 15:18:07 2010//Tnetbsd-6-1-5-RELEASE
+/man.mk/1.1.1.3/Sun Dec 12 15:18:07 2010//Tnetbsd-6-1-5-RELEASE
+/missing/1.1.1.3/Sun Dec 12 15:18:07 2010//Tnetbsd-6-1-5-RELEASE
+/mkdep/1.1.1.3/Sun Dec 12 15:18:07 2010//Tnetbsd-6-1-5-RELEASE
+/mkdep.aix/1.1.1.3/Sun Dec 12 15:18:07 2010//Tnetbsd-6-1-5-RELEASE
+/mkrelease/1.1.1.3/Sun Dec 12 15:18:07 2010//Tnetbsd-6-1-5-RELEASE
+/mkvers.bat/1.1.1.3/Sun Dec 12 15:18:07 2010//Tnetbsd-6-1-5-RELEASE
+/mkversion/1.4/Sun Dec 12 15:46:27 2010//Tnetbsd-6-1-5-RELEASE
+/mod.mk/1.1.1.3/Sun Dec 12 15:18:08 2010//Tnetbsd-6-1-5-RELEASE
+/openldap.m4/1.1.1.3/Sun Dec 12 15:18:08 2010//Tnetbsd-6-1-5-RELEASE
+/rules.mk/1.1.1.3/Sun Dec 12 15:18:08 2010//Tnetbsd-6-1-5-RELEASE
+/shtool/1.1.1.1/Mon Apr  3 20:21:16 2006//Tnetbsd-6-1-5-RELEASE
+/srv.mk/1.1.1.3/Sun Dec 12 15:18:09 2010//Tnetbsd-6-1-5-RELEASE
+/top.mk/1.1.1.3/Sun Dec 12 15:18:09 2010//Tnetbsd-6-1-5-RELEASE
+/version.h/1.1.1.3/Sun Dec 12 15:18:09 2010//Tnetbsd-6-1-5-RELEASE
+/version.sh/1.1.1.3/Sun Dec 12 15:18:09 2010//Tnetbsd-6-1-5-RELEASE
+/version.var/1.1.1.4/Sun Dec 12 15:18:09 2010//Tnetbsd-6-1-5-RELEASE
+D

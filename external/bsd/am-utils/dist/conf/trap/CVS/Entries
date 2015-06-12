@@ -1,0 +1,17 @@
+/trap_aix3.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/trap_aux.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/trap_default.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/trap_dgux.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/trap_hcx.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/trap_hpux.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/trap_irix.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/trap_isc3.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/trap_linux.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/trap_mach3.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/trap_netbsd.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/trap_news4.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/trap_rtu6.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/trap_stellix.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/trap_svr4.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+/trap_ultrix.h/1.1.1.1/Fri Sep 19 20:07:19 2008//Tnetbsd-6-1-5-RELEASE
+D

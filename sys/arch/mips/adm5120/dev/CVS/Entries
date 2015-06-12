@@ -1,0 +1,13 @@
+/admgpio.c/1.4/Fri Jul  1 18:38:49 2011//Tnetbsd-6-1-5-RELEASE
+/admpci.c/1.9/Sun Feb 12 16:34:09 2012//Tnetbsd-6-1-5-RELEASE
+/admwdog.c/1.3/Fri Jul  1 18:38:49 2011//Tnetbsd-6-1-5-RELEASE
+/ahci.c/1.7/Fri Jul  1 18:38:49 2011//Tnetbsd-6-1-5-RELEASE
+/ahcireg.h/1.1/Tue Mar 20 08:52:01 2007//Tnetbsd-6-1-5-RELEASE
+/ahcivar.h/1.3/Mon Apr  4 19:58:56 2011//Tnetbsd-6-1-5-RELEASE
+/if_admsw.c/1.10/Sun Jul 10 23:13:23 2011//Tnetbsd-6-1-5-RELEASE
+/if_admswreg.h/1.1/Tue Mar 20 08:52:02 2007//Tnetbsd-6-1-5-RELEASE
+/if_admswvar.h/1.4/Sun Jul 10 23:13:23 2011//Tnetbsd-6-1-5-RELEASE
+/uart.c/1.9/Sun Jul 10 23:13:23 2011//Tnetbsd-6-1-5-RELEASE
+/uart.h/1.1/Tue Mar 20 08:52:02 2007//Tnetbsd-6-1-5-RELEASE
+/wdc_extio.c/1.5/Sun Jul 10 23:13:23 2011//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,21 @@
+/alpha.mk/1.4/Sat May  8 03:00:10 2010//Tnetbsd-6-1-5-RELEASE
+/arm.mk/1.4/Sat May  8 03:00:10 2010//Tnetbsd-6-1-5-RELEASE
+/armeb.mk/1.5/Sat May  8 03:00:10 2010//Tnetbsd-6-1-5-RELEASE
+/hppa.mk/1.4/Sat May  8 03:00:10 2010//Tnetbsd-6-1-5-RELEASE
+/i386.mk/1.6/Thu May  6 10:08:11 2010//Tnetbsd-6-1-5-RELEASE
+/ia64.mk/1.1/Thu Sep 14 23:49:14 2006//Tnetbsd-6-1-5-RELEASE
+/m68000.mk/1.4/Sat May  8 03:00:10 2010//Tnetbsd-6-1-5-RELEASE
+/m68k.mk/1.5/Sat May  8 03:00:10 2010//Tnetbsd-6-1-5-RELEASE
+/mips64eb.mk/1.3/Mon Dec 14 04:43:59 2009//Tnetbsd-6-1-5-RELEASE
+/mips64el.mk/1.3/Mon Dec 14 03:44:27 2009//Tnetbsd-6-1-5-RELEASE
+/mipseb.mk/1.4/Sat May  8 03:00:10 2010//Tnetbsd-6-1-5-RELEASE
+/mipsel.mk/1.4/Sat May  8 03:00:10 2010//Tnetbsd-6-1-5-RELEASE
+/powerpc.mk/1.6/Sat May  8 03:00:10 2010//Tnetbsd-6-1-5-RELEASE
+/powerpc64.mk/1.3/Fri Mar 19 14:01:57 2010//Tnetbsd-6-1-5-RELEASE
+/sh3eb.mk/1.4/Sat May  8 03:00:10 2010//Tnetbsd-6-1-5-RELEASE
+/sh3el.mk/1.4/Sat May  8 03:00:10 2010//Tnetbsd-6-1-5-RELEASE
+/sparc.mk/1.4/Sat May  8 03:00:10 2010//Tnetbsd-6-1-5-RELEASE
+/sparc64.mk/1.5/Sat May  8 03:00:10 2010//Tnetbsd-6-1-5-RELEASE
+/vax.mk/1.3/Sat May  8 03:00:10 2010//Tnetbsd-6-1-5-RELEASE
+/x86_64.mk/1.4/Sat May  8 03:00:10 2010//Tnetbsd-6-1-5-RELEASE
+D/mips64eb////

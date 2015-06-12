@@ -1,0 +1,20 @@
+/Ipipe-fr400.cgs/1.1.1.1/Sat Sep 24 20:05:01 2011//Tnetbsd-6-1-5-RELEASE
+/Ipipe-fr500.cgs/1.1.1.1/Sat Sep 24 20:05:01 2011//Tnetbsd-6-1-5-RELEASE
+/badalign-fr550.cgs/1.1.1.1/Sat Sep 24 20:05:01 2011//Tnetbsd-6-1-5-RELEASE
+/badalign.cgs/1.1.1.1/Sat Sep 24 20:05:01 2011//Tnetbsd-6-1-5-RELEASE
+/compound-fr550.cgs/1.1.1.1/Sat Sep 24 20:05:01 2011//Tnetbsd-6-1-5-RELEASE
+/compound.cgs/1.1.1.1/Sat Sep 24 20:05:01 2011//Tnetbsd-6-1-5-RELEASE
+/data_store_error-fr550.cgs/1.1.1.1/Sat Sep 24 20:05:02 2011//Tnetbsd-6-1-5-RELEASE
+/data_store_error.cgs/1.1.1.1/Sat Sep 24 20:05:02 2011//Tnetbsd-6-1-5-RELEASE
+/fp_exception-fr550.cgs/1.1.1.1/Sat Sep 24 20:05:02 2011//Tnetbsd-6-1-5-RELEASE
+/fp_exception.cgs/1.1.1.1/Sat Sep 24 20:05:01 2011//Tnetbsd-6-1-5-RELEASE
+/illinsn.cgs/1.1.1.1/Sat Sep 24 20:05:02 2011//Tnetbsd-6-1-5-RELEASE
+/insn_access_error-fr550.cgs/1.1.1.1/Sat Sep 24 20:05:02 2011//Tnetbsd-6-1-5-RELEASE
+/insn_access_error.cgs/1.1.1.1/Sat Sep 24 20:05:02 2011//Tnetbsd-6-1-5-RELEASE
+/mp_exception.cgs/1.1.1.1/Sat Sep 24 20:05:02 2011//Tnetbsd-6-1-5-RELEASE
+/privileged_instruction.cgs/1.1.1.1/Sat Sep 24 20:05:02 2011//Tnetbsd-6-1-5-RELEASE
+/regalign.cgs/1.1.1.1/Sat Sep 24 20:05:02 2011//Tnetbsd-6-1-5-RELEASE
+/reset.cgs/1.1.1.1/Sat Sep 24 20:05:02 2011//Tnetbsd-6-1-5-RELEASE
+/shadow_regs.cgs/1.1.1.1/Sat Sep 24 20:05:02 2011//Tnetbsd-6-1-5-RELEASE
+/timer.cgs/1.1.1.1/Sat Sep 24 20:05:02 2011//Tnetbsd-6-1-5-RELEASE
+D

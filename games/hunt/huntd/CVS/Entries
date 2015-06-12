@@ -1,0 +1,20 @@
+/Makefile/1.1/Sat Oct  4 09:11:21 1997//Tnetbsd-6-1-5-RELEASE
+/answer.c/1.16/Thu Aug 27 00:36:32 2009//Tnetbsd-6-1-5-RELEASE
+/bsd.h/1.7/Sat Jul  4 07:51:35 2009//Tnetbsd-6-1-5-RELEASE
+/ctl.c/1.5/Sat Jul  4 04:29:54 2009//Tnetbsd-6-1-5-RELEASE
+/ctl_transact.c/1.9/Sat Jul  4 04:29:54 2009//Tnetbsd-6-1-5-RELEASE
+/draw.c/1.8/Wed Aug 12 07:42:11 2009//Tnetbsd-6-1-5-RELEASE
+/driver.c/1.21/Wed Aug 31 16:24:56 2011//Tnetbsd-6-1-5-RELEASE
+/execute.c/1.10/Wed Aug 31 16:24:56 2011//Tnetbsd-6-1-5-RELEASE
+/expl.c/1.7/Sat Jul  4 04:29:54 2009//Tnetbsd-6-1-5-RELEASE
+/extern.c/1.6/Wed Aug 12 07:42:11 2009//Tnetbsd-6-1-5-RELEASE
+/faketalk.c/1.18/Thu Aug 27 00:36:33 2009//Tnetbsd-6-1-5-RELEASE
+/get_names.c/1.10/Sat Jul  4 04:29:55 2009//Tnetbsd-6-1-5-RELEASE
+/hunt.h/1.19/Wed Aug 12 07:42:11 2009//Tnetbsd-6-1-5-RELEASE
+/huntd.6/1.9/Wed Mar 11 13:01:49 2009//Tnetbsd-6-1-5-RELEASE
+/makemaze.c/1.8/Mon May 23 22:58:44 2011//Tnetbsd-6-1-5-RELEASE
+/pathname.c/1.5/Sat Jul  4 04:29:55 2009//Tnetbsd-6-1-5-RELEASE
+/shots.c/1.12/Wed Aug 31 16:24:56 2011//Tnetbsd-6-1-5-RELEASE
+/talk_ctl.h/1.7/Sat Jul  4 04:29:54 2009//Tnetbsd-6-1-5-RELEASE
+/terminal.c/1.7/Sat Jul  4 04:29:55 2009//Tnetbsd-6-1-5-RELEASE
+D

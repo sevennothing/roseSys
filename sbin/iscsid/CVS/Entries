@@ -1,0 +1,10 @@
+/Makefile/1.1.4.1/Wed May 30 08:06:26 2012//Tnetbsd-6-1-5-RELEASE
+/iscsid.8/1.2.2.2/Sun Nov 25 00:19:51 2012//Tnetbsd-6-1-5-RELEASE
+/iscsid.h/1.2.4.1/Wed May 30 08:06:26 2012//Tnetbsd-6-1-5-RELEASE
+/iscsid_discover.c/1.3.2.1/Tue Jul  3 20:48:40 2012//Tnetbsd-6-1-5-RELEASE
+/iscsid_driverif.c/1.3.2.1/Wed May 30 08:06:26 2012//Tnetbsd-6-1-5-RELEASE
+/iscsid_globals.h/1.4.2.1/Wed May 30 08:06:26 2012//Tnetbsd-6-1-5-RELEASE
+/iscsid_lists.c/1.3.2.1/Wed May 30 08:06:26 2012//Tnetbsd-6-1-5-RELEASE
+/iscsid_main.c/1.3.2.1/Wed May 30 08:06:26 2012//Tnetbsd-6-1-5-RELEASE
+/iscsid_targets.c/1.3.2.1/Wed May 30 08:06:26 2012//Tnetbsd-6-1-5-RELEASE
+D

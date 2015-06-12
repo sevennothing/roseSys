@@ -1,0 +1,17 @@
+#	$NetBSD: files.rpi,v 1.1.2.3 2013/02/13 01:36:14 riz Exp $
+#
+# Raspberry Pi 
+#
+
+file	arch/evbarm/rpi/rpi_machdep.c
+
+# Kernel boot arguments
+defparam opt_machdep.h				BOOT_ARGS
+
+# CPU support and integrated peripherals
+include "arch/arm/broadcom/files.bcm2835"
+
+# Raspberry Pi Mailbox interface
+device	vcmbox: sysmon_envsys
+attach	vcmbox at bcmmboxbus
+file	arch/evbarm/rpi/rpi_vcmbox.c		vcmbox

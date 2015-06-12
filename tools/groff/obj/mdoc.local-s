@@ -1,0 +1,95 @@
+.\" $NetBSD: mdoc.local,v 1.66.2.2.2.5 2014/04/16 03:39:47 snj Exp $
+.\"
+.\" Copyright (c) 2003, 2004 The NetBSD Foundation, Inc.
+.\" All rights reserved.
+.\"
+.\" This code is derived from software contributed to The NetBSD Foundation
+.\" by Thomas Klausner.
+.\"
+.\" Redistribution and use in source and binary forms, with or without
+.\" modification, are permitted provided that the following conditions
+.\" are met:
+.\" 1. Redistributions of source code must retain the above copyright
+.\"    notice, this list of conditions and the following disclaimer.
+.\" 2. Redistributions in binary form must reproduce the above copyright
+.\"    notice, this list of conditions and the following disclaimer in the
+.\"    documentation and/or other materials provided with the distribution.
+.\"
+.\" THIS SOFTWARE IS PROVIDED BY THE NETBSD FOUNDATION, INC. AND CONTRIBUTORS
+.\" ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
+.\" TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+.\" PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE FOUNDATION OR CONTRIBUTORS
+.\" BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+.\" CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+.\" SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+.\" INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+.\" CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+.\" ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+.\" POSSIBILITY OF SUCH DAMAGE.
+.\"
+.ds volume-operating-system NetBSD
+.ds str-St--isoC-amd1       \*[Tn-font-size]ISO/IEC\*[str-St] 9899/AMD1:1995
+.as str-St--isoC-amd1       " (\*[Lq]\*[Tn-font-size]ISO\~C\^90\*[str-St], Amendment 1\*[Rq])
+.ds str-St--isoC-tcor1      \*[Tn-font-size]ISO/IEC\*[str-St] 9899/TCOR1:1994
+.as str-St--isoC-tcor1      " (\*[Lq]\*[Tn-font-size]ISO\~C\^90\*[str-St], Technical Corrigendum 1\*[Rq])
+.ds str-St--isoC-tcor2      \*[Tn-font-size]ISO/IEC\*[str-St] 9899/TCOR2:1995
+.as str-St--isoC-tcor2      " (\*[Lq]\*[Tn-font-size]ISO\~C\^90\*[str-St], Technical Corrigendum 2\*[Rq])
+.ds str-St--xns5.2d2.0      \*[Tn-font-size]X/Open\*[str-St] Networking Services Issue\~5.2 Draft\~2.0
+.as str-St--xns5.2d2.0      " (\*[Lq]\*[Tn-font-size]XNS\*[str-St]\^5.2D2.0\*[Rq])
+.ds str-St--ieee1275-94     \*[Tn-font-size]\%IEEE\*[str-St] Std 1275-1994
+.as str-St--ieee1275-94     " (\*[Lq]\*[Tn-font-size]Open Firmware\*[str-St]\*[Rq])
+.ds operating-system NetBSD\~6.1.5
+.ds default-operating-system NetBSD\~6.1.5
+.ds operating-system-NetBSD-1.3.3  1.3.3
+.ds operating-system-NetBSD-1.6.3  1.6.3
+.ds operating-system-NetBSD-2.0.1  2.0.1
+.ds operating-system-NetBSD-2.0.2  2.0.2
+.ds operating-system-NetBSD-3.0    3.0
+.ds operating-system-NetBSD-3.0.1  3.0.1
+.ds operating-system-NetBSD-3.1    3.1
+.ds operating-system-NetBSD-4.0    4.0
+.ds operating-system-NetBSD-5.0    5.0
+.ds operating-system-NetBSD-5.1    5.1
+.ds operating-system-NetBSD-6.0    6.0
+.ds operating-system-NetBSD-6.1    6.1
+.ds operating-system-NetBSD-6.1.1  6.1.1
+.ds operating-system-NetBSD-6.1.2  6.1.2
+.ds operating-system-NetBSD-6.1.3  6.1.3
+.ds operating-system-NetBSD-6.1.4  6.1.4
+.ds operating-system-NetBSD-6.1.5  6.1.5
+.ds operating-system-FreeBSD-4.11  4.11
+.ds operating-system-FreeBSD-5.4   5.4
+.ds operating-system-FreeBSD-5.5   5.5
+.ds operating-system-FreeBSD-6.1   6.1
+.ds operating-system-FreeBSD-6.2   6.2
+.ds operating-system-FreeBSD-6.3   6.3
+.ds operating-system-FreeBSD-6.4   6.4
+.ds operating-system-FreeBSD-7.0   7.0
+.ds operating-system-FreeBSD-7.1   7.1
+.ds operating-system-FreeBSD-7.2   7.2
+.ds operating-system-FreeBSD-8.0   8.0
+.ds operating-system-FreeBSD-9.0   9.0
+.ds volume-as-amigappc              amigappc
+.ds volume-as-evbsh5                evbsh5
+.ds volume-as-ews4800mips           ews4800mips
+.ds volume-as-ibmnws                ibmnws
+.ds volume-as-iyonix                iyonix
+.ds volume-as-landisk               landisk
+.ds volume-as-x86                   x86
+.ds volume-as-xen                   xen
+.ds str-Lb-libarchive       Reading and Writing Streaming Archives Library (libarchive, \-larchive)
+.ds str-Lb-libbluetooth     Bluetooth Library (libbluetooth, \-lbluetooth)
+.ds str-Lb-libdm            Device-mapper Library (libdm, \-ldm)
+.ds str-Lb-libfetch         File Transfer Library for URLs (libfetch, \-lfetch)
+.ds str-Lb-libiscsi         iSCSI protocol library (libiscsi, \-liscsi)
+.ds str-Lb-libisns          Internet Storage Name Service Library (libisns, \-lisns)
+.ds str-Lb-libnetpgp        Netpgp signing, verification, encryption and decryption (libnetpgp, \-lnetpgp)
+.ds str-Lb-libperfuse       PUFFS enabled relay to FUSE Library (libperfuse, \-lperfuse)
+.ds str-Lb-libppath         Property-List Paths Library (libppath, \-lppath)
+.ds str-Lb-libprop          Property Container Object Library (libprop, \-lprop)
+.ds str-Lb-libpuffs         puffs Convenience Library (libpuffs, \-lpuffs)
+.ds str-Lb-libquota		Disk Quota Access and Control Library (libquota, \-lquota)
+.ds str-Lb-librefuse        File System in Userspace Convenience Library (librefuse, \-lrefuse)
+.ds str-Lb-libsaslc         Simple Authentication and Security Layer client library (libsaslc, \-lsaslc)
+.ds str-Lb-libssp           Buffer Overflow Protection Library (libssp, \-lssp)
+.ds str-Lb-libterminfo      Terminal Information Library (libterminfo, \-lterminfo)

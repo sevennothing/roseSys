@@ -1,0 +1,7 @@
+/Makefile/1.5/Sun Dec 11 12:18:58 2005//Tnetbsd-6-1-5-RELEASE
+/Makefile.booters/1.21/Sat Feb 26 16:26:58 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.1/Wed Nov 21 22:14:51 2001//Tnetbsd-6-1-5-RELEASE
+D/boot////
+D/boot64////
+D/common////
+D/sgivol////

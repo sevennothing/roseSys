@@ -1,0 +1,9 @@
+/Makefile/1.24/Sun Apr 10 16:47:05 2011//Tnetbsd-6-1-5-RELEASE
+/getnfsargs.c/1.14/Fri Jul 23 19:25:23 2010//Tnetbsd-6-1-5-RELEASE
+/getnfsargs_small.c/1.9/Wed Jul  6 09:02:54 2011//Tnetbsd-6-1-5-RELEASE
+/iodesc.h/1.3/Tue Jan 13 11:47:32 2009//Tnetbsd-6-1-5-RELEASE
+/mount_nfs.8/1.40/Mon Aug 29 11:47:46 2011//Tnetbsd-6-1-5-RELEASE
+/mount_nfs.c/1.69/Mon Aug 29 14:35:02 2011//Tnetbsd-6-1-5-RELEASE
+/mount_nfs.h/1.2/Thu Oct 16 09:12:54 2008//Tnetbsd-6-1-5-RELEASE
+/udp_xfer.c/1.2/Tue Apr 29 06:53:01 2008//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,33 @@
+/Makefile.am/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/amd64call.asm/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/amd64check.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/memory.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/misc.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/refmpf.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/refmpn.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/refmpq.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/refmpz.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/spinner.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/t-bswap.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/t-constants.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/t-count_zeros.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/t-gmpmax.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/t-hightomask.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/t-modlinv.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/t-parity.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/t-popc.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/t-sub.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/tests.h/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/trace.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/x86call.asm/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+/x86check.c/1.1.1.1/Mon Jun 20 05:54:45 2011//Tnetbsd-6-1-5-RELEASE
+D/cxx////
+D/devel////
+D/misc////
+D/mpbsd////
+D/mpf////
+D/mpn////
+D/mpq////
+D/mpz////
+D/rand////

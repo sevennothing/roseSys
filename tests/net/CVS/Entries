@@ -1,0 +1,11 @@
+/Makefile/1.9/Tue Feb  8 10:11:28 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.1/Wed Nov  3 16:10:24 2010//Tnetbsd-6-1-5-RELEASE
+D/bpf////
+D/carp////
+D/config////
+D/icmp////
+D/if////
+D/if_loop////
+D/net////
+D/route////
+D/sys////

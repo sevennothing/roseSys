@@ -1,0 +1,12 @@
+/Makefile/1.9/Fri May  7 17:41:58 2010//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.8/Thu May 26 12:56:34 2011//Tnetbsd-6-1-5-RELEASE
+/compat_openbsd.h/1.5/Wed Jun 18 09:06:28 2008//Tnetbsd-6-1-5-RELEASE
+D/authpf////
+D/etc////
+D/examples////
+D/ftp-proxy////
+D/man////
+D/pfctl////
+D/pflogd////
+D/pfs////
+D/tftp-proxy////

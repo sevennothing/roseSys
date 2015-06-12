@@ -1,0 +1,9 @@
+/Makefile/1.4/Sun Dec 11 12:19:29 2005//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.18/Sun May 29 10:19:09 2011//Tnetbsd-6-1-5-RELEASE
+/README/1.1/Thu Jun 14 12:57:12 2001//Tnetbsd-6-1-5-RELEASE
+D/bootxx////
+D/bootyy////
+D/libsa////
+D/netboot////
+D/tapeboot////
+D/ufsboot////

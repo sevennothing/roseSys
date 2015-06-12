@@ -1,0 +1,27 @@
+/10-resolv.conf/1.1/Tue Apr  7 11:49:17 2009//Tnetbsd-6-1-5-RELEASE
+/99-print-sysinst/1.1/Tue Apr  7 11:49:17 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.bootcd/1.19.2.1/Fri Aug 17 20:50:51 2012//Tnetbsd-6-1-5-RELEASE
+/Makefile.crunch/1.24/Sun Oct 19 22:05:19 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.dhcpcd/1.1/Tue Apr  7 11:49:17 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.distrib/1.8.8.1/Fri Feb 17 00:42:27 2012//Tnetbsd-6-1-5-RELEASE
+/Makefile.image/1.31/Fri Apr  3 22:36:35 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.makedev/1.15/Sat Oct 25 22:27:34 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.mdset/1.35/Sat Jan  1 16:56:18 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.parselist/1.6/Sun Oct 19 22:05:20 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.tarfloppy/1.16/Fri Apr  3 22:36:35 2009//Tnetbsd-6-1-5-RELEASE
+/buildfloppies.sh/1.17/Wed Nov 12 14:22:16 2008//Tnetbsd-6-1-5-RELEASE
+/list.dhcpcd/1.2/Tue May 31 06:19:11 2011//Tnetbsd-6-1-5-RELEASE
+/list.inet6/1.1/Sun Sep 20 22:50:50 2009//Tnetbsd-6-1-5-RELEASE
+/list.makedev/1.7/Sat Mar  3 06:40:06 2007//Tnetbsd-6-1-5-RELEASE
+/list.sysinst/1.12/Sat Aug 27 15:42:56 2005//Tnetbsd-6-1-5-RELEASE
+/list.sysinst.en/1.1/Sun Apr 18 20:04:26 2004//Tnetbsd-6-1-5-RELEASE
+/list2sh.awk/1.1/Fri Sep 18 09:24:59 2009//Tnetbsd-6-1-5-RELEASE
+/mkprotocols/1.1/Thu May  1 22:01:16 2008//Tnetbsd-6-1-5-RELEASE
+/mtree.common/1.9/Tue Apr  7 11:49:17 2009//Tnetbsd-6-1-5-RELEASE
+/mtree.dot/1.1/Fri May  3 14:20:54 2002//Tnetbsd-6-1-5-RELEASE
+/parselist.awk/1.16/Fri Apr 10 16:16:12 2009//Tnetbsd-6-1-5-RELEASE
+/protocols/1.1/Thu May  1 22:02:54 2008//Tnetbsd-6-1-5-RELEASE
+/runlist.sh/1.1/Fri Sep 18 09:24:59 2009//Tnetbsd-6-1-5-RELEASE
+/services/1.4/Sun Sep 20 19:41:35 2009//Tnetbsd-6-1-5-RELEASE
+/sunbootcd.sh/1.5/Wed Apr 30 13:10:48 2008//Tnetbsd-6-1-5-RELEASE
+D/bootimage////

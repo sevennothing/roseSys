@@ -1,0 +1,13 @@
+/Makefile/1.5/Tue Nov 30 14:23:24 2010//Tnetbsd-6-1-5-RELEASE
+/rumpuser.3/1.2/Mon Mar  1 17:20:44 2010//Tnetbsd-6-1-5-RELEASE
+/rumpuser.c/1.16/Mon Nov 28 08:05:05 2011//Tnetbsd-6-1-5-RELEASE
+/rumpuser_daemonize.c/1.2/Sat Jan 22 14:18:55 2011//Tnetbsd-6-1-5-RELEASE
+/rumpuser_dl.c/1.7/Tue Mar 22 22:27:33 2011//Tnetbsd-6-1-5-RELEASE
+/rumpuser_int.h/1.4/Mon Nov 15 15:23:32 2010//Tnetbsd-6-1-5-RELEASE
+/rumpuser_net.c/1.2/Mon Nov 15 15:23:32 2010//Tnetbsd-6-1-5-RELEASE
+/rumpuser_pth.c/1.7/Sat Feb  5 13:51:56 2011//Tnetbsd-6-1-5-RELEASE
+/rumpuser_pth_dummy.c/1.2/Mon May 23 20:49:08 2011//Tnetbsd-6-1-5-RELEASE
+/rumpuser_sp.c/1.45/Tue Mar  8 15:34:37 2011//Tnetbsd-6-1-5-RELEASE
+/shlib_version/1.1/Fri Feb 26 18:54:20 2010//Tnetbsd-6-1-5-RELEASE
+/sp_common.c/1.31/Tue Mar  8 15:34:37 2011//Tnetbsd-6-1-5-RELEASE
+D

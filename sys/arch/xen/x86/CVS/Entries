@@ -1,0 +1,14 @@
+/autoconf.c/1.13.18.2/Wed Aug  8 15:51:13 2012//Tnetbsd-6-1-5-RELEASE
+/consinit.c/1.15/Fri Jul  1 18:37:08 2011//Tnetbsd-6-1-5-RELEASE
+/cpu.c/1.80.2.5/Tue Jun 12 19:00:24 2012//Tnetbsd-6-1-5-RELEASE
+/hypervisor_machdep.c/1.21/Tue Dec 27 07:47:00 2011//Tnetbsd-6-1-5-RELEASE
+/intr.c/1.29/Sat Aug 13 16:22:15 2011//Tnetbsd-6-1-5-RELEASE
+/mainbus.c/1.15/Tue Sep 20 00:12:24 2011//Tnetbsd-6-1-5-RELEASE
+/x86_xpmap.c/1.38.2.5/Tue Jun 12 19:00:25 2012//Tnetbsd-6-1-5-RELEASE
+/xen_bus_dma.c/1.23/Fri Jul  1 18:37:08 2011//Tnetbsd-6-1-5-RELEASE
+/xen_intr.c/1.9/Fri Jan 16 20:16:47 2009//Tnetbsd-6-1-5-RELEASE
+/xen_ipi.c/1.9.2.1/Wed Feb 22 18:56:45 2012//Tnetbsd-6-1-5-RELEASE
+/xen_pmap.c/1.16.2.3/Mon Jul  2 21:01:48 2012//Tnetbsd-6-1-5-RELEASE
+/xen_shm_machdep.c/1.10/Fri Sep  2 22:25:08 2011//Tnetbsd-6-1-5-RELEASE
+/xenfunc.c/1.13/Sun Nov  6 11:40:47 2011//Tnetbsd-6-1-5-RELEASE
+D

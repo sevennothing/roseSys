@@ -1,0 +1,14 @@
+/check-secure-delegation.pl.in/1.1.1.1.8.2/Sat Dec 15 05:39:51 2012//Tnetbsd-6-1-5-RELEASE
+/zone-edit.sh.in/1.1.1.1.8.2/Sat Dec 15 05:39:51 2012//Tnetbsd-6-1-5-RELEASE
+D/dbus////
+D/dlz////
+D/idn////
+D/linux////
+D/named-bootconf////
+D/nanny////
+D/nslint-2.1a3////
+D/pkcs11-keygen////
+D/query-loc-0.4.0////
+D/queryperf////
+D/sdb////
+D/zkt////

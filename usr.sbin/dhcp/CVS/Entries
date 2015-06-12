@@ -1,0 +1,13 @@
+/Makefile/1.13/Sat Feb  9 21:13:31 2002//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.26/Tue Aug  9 13:04:28 2011//Tnetbsd-6-1-5-RELEASE
+D/client////
+D/clientscript////
+D/common////
+D/dhcpctl////
+D/dst////
+D/minires////
+D/omapip////
+D/omshell////
+D/relay////
+D/server////
+D/share////

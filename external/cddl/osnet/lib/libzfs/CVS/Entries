@@ -1,0 +1,12 @@
+/Makefile/1.6/Thu Jan 13 23:18:24 2011//Tnetbsd-6-1-5-RELEASE
+/deviceid.c/1.1/Fri Aug  7 20:57:56 2009//Tnetbsd-6-1-5-RELEASE
+/efi.c/1.1/Fri Aug  7 20:57:56 2009//Tnetbsd-6-1-5-RELEASE
+/fsshare.c/1.2/Mon Aug 10 22:44:41 2009//Tnetbsd-6-1-5-RELEASE
+/mkdirp.c/1.1/Fri Aug  7 20:57:56 2009//Tnetbsd-6-1-5-RELEASE
+/mnttab.c/1.2/Sun Feb 28 17:36:51 2010//Tnetbsd-6-1-5-RELEASE
+/shlib_version/1.1/Fri Aug  7 20:57:56 2009//Tnetbsd-6-1-5-RELEASE
+/stubs.c/1.1/Sun Feb 28 17:36:51 2010//Tnetbsd-6-1-5-RELEASE
+/ucred.c/1.1/Fri Aug  7 20:57:56 2009//Tnetbsd-6-1-5-RELEASE
+/zmount.c/1.1/Fri Aug  7 20:57:56 2009//Tnetbsd-6-1-5-RELEASE
+/zone.c/1.1/Fri Aug  7 20:57:56 2009//Tnetbsd-6-1-5-RELEASE
+D

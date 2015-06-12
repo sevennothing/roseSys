@@ -1,0 +1,10 @@
+/.cvsignore/1.1.1.1/Fri Sep 19 20:07:17 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.am/1.1.1.1/Fri Sep 19 20:07:17 2008//Tnetbsd-6-1-5-RELEASE
+/amq.8/1.3/Fri Mar 20 20:30:52 2009//Tnetbsd-6-1-5-RELEASE
+/amq.c/1.1.1.2/Fri Mar 20 20:26:50 2009//Tnetbsd-6-1-5-RELEASE
+/amq.h/1.1.1.2/Fri Mar 20 20:26:50 2009//Tnetbsd-6-1-5-RELEASE
+/amq_clnt.c/1.1.1.2/Fri Mar 20 20:26:50 2009//Tnetbsd-6-1-5-RELEASE
+/amq_xdr.c/1.1.1.2/Fri Mar 20 20:26:50 2009//Tnetbsd-6-1-5-RELEASE
+/pawd.1/1.1.1.2/Fri Mar 20 20:26:50 2009//Tnetbsd-6-1-5-RELEASE
+/pawd.c/1.1.1.2/Fri Mar 20 20:26:50 2009//Tnetbsd-6-1-5-RELEASE
+D

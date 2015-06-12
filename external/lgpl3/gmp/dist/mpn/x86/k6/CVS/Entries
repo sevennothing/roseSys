@@ -1,0 +1,15 @@
+/README/1.1.1.1/Mon Jun 20 05:54:43 2011//Tnetbsd-6-1-5-RELEASE
+/aors_n.asm/1.1.1.1/Mon Jun 20 05:54:43 2011//Tnetbsd-6-1-5-RELEASE
+/aorsmul_1.asm/1.1.1.1/Mon Jun 20 05:54:43 2011//Tnetbsd-6-1-5-RELEASE
+/cross.pl/1.1.1.1/Mon Jun 20 05:54:43 2011//Tnetbsd-6-1-5-RELEASE
+/divrem_1.asm/1.1.1.1/Mon Jun 20 05:54:43 2011//Tnetbsd-6-1-5-RELEASE
+/gcd_1.asm/1.1.1.1/Mon Jun 20 05:54:43 2011//Tnetbsd-6-1-5-RELEASE
+/gmp-mparam.h/1.1.1.1/Mon Jun 20 05:54:43 2011//Tnetbsd-6-1-5-RELEASE
+/mod_34lsub1.asm/1.1.1.1/Mon Jun 20 05:54:43 2011//Tnetbsd-6-1-5-RELEASE
+/mode1o.asm/1.1.1.1/Mon Jun 20 05:54:43 2011//Tnetbsd-6-1-5-RELEASE
+/mul_1.asm/1.1.1.1/Mon Jun 20 05:54:43 2011//Tnetbsd-6-1-5-RELEASE
+/mul_basecase.asm/1.1.1.1/Mon Jun 20 05:54:43 2011//Tnetbsd-6-1-5-RELEASE
+/pre_mod_1.asm/1.1.1.1/Mon Jun 20 05:54:43 2011//Tnetbsd-6-1-5-RELEASE
+/sqr_basecase.asm/1.1.1.1/Mon Jun 20 05:54:43 2011//Tnetbsd-6-1-5-RELEASE
+D/k62mmx////
+D/mmx////

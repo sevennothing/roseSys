@@ -1,0 +1,23 @@
+/arch.exp/1.1.1.2/Sat Sep 24 22:20:22 2011//Tnetbsd-6-1-5-RELEASE
+/arch_expected.txt/1.1.1.1/Tue Aug 18 10:07:24 2009//Tnetbsd-6-1-5-RELEASE
+/sh-dsp.s/1.1.1.1/Tue Aug 18 10:07:27 2009//Tnetbsd-6-1-5-RELEASE
+/sh.s/1.1.1.1/Tue Aug 18 10:07:28 2009//Tnetbsd-6-1-5-RELEASE
+/sh2.s/1.1.1.1/Tue Aug 18 10:07:28 2009//Tnetbsd-6-1-5-RELEASE
+/sh2a-nofpu-or-sh3-nommu.s/1.1.1.1/Tue Aug 18 10:07:29 2009//Tnetbsd-6-1-5-RELEASE
+/sh2a-nofpu-or-sh4-nommu-nofpu.s/1.1.1.1/Tue Aug 18 10:07:28 2009//Tnetbsd-6-1-5-RELEASE
+/sh2a-nofpu.s/1.1.1.1/Tue Aug 18 10:07:26 2009//Tnetbsd-6-1-5-RELEASE
+/sh2a-or-sh3e.s/1.1.1.1/Tue Aug 18 10:07:30 2009//Tnetbsd-6-1-5-RELEASE
+/sh2a-or-sh4.s/1.1.1.1/Tue Aug 18 10:07:30 2009//Tnetbsd-6-1-5-RELEASE
+/sh2a.s/1.1.1.1/Tue Aug 18 10:07:31 2009//Tnetbsd-6-1-5-RELEASE
+/sh2e.s/1.1.1.1/Tue Aug 18 10:07:32 2009//Tnetbsd-6-1-5-RELEASE
+/sh3-dsp.s/1.1.1.1/Tue Aug 18 10:07:33 2009//Tnetbsd-6-1-5-RELEASE
+/sh3-nommu.s/1.1.1.1/Tue Aug 18 10:07:34 2009//Tnetbsd-6-1-5-RELEASE
+/sh3.s/1.1.1.1/Tue Aug 18 10:07:34 2009//Tnetbsd-6-1-5-RELEASE
+/sh3e.s/1.1.1.1/Tue Aug 18 10:07:35 2009//Tnetbsd-6-1-5-RELEASE
+/sh4-nofpu.s/1.1.1.1/Tue Aug 18 10:07:35 2009//Tnetbsd-6-1-5-RELEASE
+/sh4-nommu-nofpu.s/1.1.1.1/Tue Aug 18 10:07:29 2009//Tnetbsd-6-1-5-RELEASE
+/sh4.s/1.1.1.1/Tue Aug 18 10:07:36 2009//Tnetbsd-6-1-5-RELEASE
+/sh4a-nofpu.s/1.1.1.1/Tue Aug 18 10:07:36 2009//Tnetbsd-6-1-5-RELEASE
+/sh4a.s/1.1.1.1/Tue Aug 18 10:07:37 2009//Tnetbsd-6-1-5-RELEASE
+/sh4al-dsp.s/1.1.1.1/Tue Aug 18 10:07:25 2009//Tnetbsd-6-1-5-RELEASE
+D

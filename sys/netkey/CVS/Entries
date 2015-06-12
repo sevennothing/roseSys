@@ -1,0 +1,12 @@
+/Makefile/1.5/Fri Jan  6 14:17:11 2012//Tnetbsd-6-1-5-RELEASE
+/key.c/1.181/Sat Dec 31 20:42:00 2011//Tnetbsd-6-1-5-RELEASE
+/key.h/1.23/Sat Mar 14 14:46:11 2009//Tnetbsd-6-1-5-RELEASE
+/key_debug.c/1.35/Sat Mar 14 15:36:24 2009//Tnetbsd-6-1-5-RELEASE
+/key_debug.h/1.12/Sat Mar 14 14:46:11 2009//Tnetbsd-6-1-5-RELEASE
+/key_private.h/1.2/Mon Apr 28 20:24:10 2008//Tnetbsd-6-1-5-RELEASE
+/key_var.h/1.16/Sun Dec 11 00:02:28 2005//Tnetbsd-6-1-5-RELEASE
+/keydb.c/1.19/Wed Mar 18 10:22:44 2009//Tnetbsd-6-1-5-RELEASE
+/keydb.h/1.29/Sat Mar 14 14:46:11 2009//Tnetbsd-6-1-5-RELEASE
+/keysock.c/1.54/Sun Jul 17 20:54:54 2011//Tnetbsd-6-1-5-RELEASE
+/keysock.h/1.16/Fri Jan  6 14:17:11 2012//Tnetbsd-6-1-5-RELEASE
+D

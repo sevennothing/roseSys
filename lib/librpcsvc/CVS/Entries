@@ -1,0 +1,18 @@
+/Makefile/1.39/Mon May 28 12:06:21 2007//Tnetbsd-6-1-5-RELEASE
+/bootparam_prot.x/1.7/Thu Jul  1 22:52:34 2004//Tnetbsd-6-1-5-RELEASE
+/klm_prot.x/1.6/Thu Jul  1 22:52:34 2004//Tnetbsd-6-1-5-RELEASE
+/mount.x/1.6/Thu Jul  1 22:52:34 2004//Tnetbsd-6-1-5-RELEASE
+/nfs_prot.x/1.7/Thu Jul  1 22:52:34 2004//Tnetbsd-6-1-5-RELEASE
+/nlm_prot.x/1.7/Thu Jul  1 22:52:34 2004//Tnetbsd-6-1-5-RELEASE
+/rex.x/1.6/Thu Jul  1 22:52:34 2004//Tnetbsd-6-1-5-RELEASE
+/rnusers.x/1.14/Tue Aug 30 17:06:20 2011//Tnetbsd-6-1-5-RELEASE
+/rquota.x/1.6/Thu Jul  1 22:52:34 2004//Tnetbsd-6-1-5-RELEASE
+/rstat.x/1.5/Thu Jul  1 22:52:34 2004//Tnetbsd-6-1-5-RELEASE
+/rusers.x/1.5/Thu Jul  1 22:52:34 2004//Tnetbsd-6-1-5-RELEASE
+/rwall.x/1.7/Thu Jul  1 22:52:34 2004//Tnetbsd-6-1-5-RELEASE
+/shlib_version/1.2/Sun Jan 11 03:07:49 2009//Tnetbsd-6-1-5-RELEASE
+/sm_inter.x/1.6/Thu Jul  1 22:52:34 2004//Tnetbsd-6-1-5-RELEASE
+/spray.x/1.5/Thu Jul  1 22:52:34 2004//Tnetbsd-6-1-5-RELEASE
+/yp.x/1.5/Thu Jul  1 22:52:34 2004//Tnetbsd-6-1-5-RELEASE
+/yppasswd.x/1.6/Thu Jul  1 22:52:34 2004//Tnetbsd-6-1-5-RELEASE
+D

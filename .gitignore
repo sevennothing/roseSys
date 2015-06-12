@@ -1,0 +1,9 @@
+
+*.o
+*~
+
+sys/arch/evbarm/compile/*
+obj/tooldir.Linux-2.6.32-358.el6.x86_64-x86_64
+obj/*
+sys/arch/evbarm/compile/
+sys/arch/evbarm/compile/*

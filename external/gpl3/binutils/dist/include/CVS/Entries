@@ -1,0 +1,56 @@
+/COPYING/1.1.1.1/Tue Aug 18 09:48:46 2009//Tnetbsd-6-1-5-RELEASE
+/COPYING3/1.1.1.1/Tue Aug 18 09:48:47 2009//Tnetbsd-6-1-5-RELEASE
+/ChangeLog/1.1.1.2/Sat Sep 24 22:22:30 2011//Tnetbsd-6-1-5-RELEASE
+/ChangeLog-9103/1.1.1.2/Sat Sep 24 22:22:31 2011//Tnetbsd-6-1-5-RELEASE
+/MAINTAINERS/1.1.1.1/Tue Aug 18 09:48:49 2009//Tnetbsd-6-1-5-RELEASE
+/alloca-conf.h/1.1.1.2/Sat Sep 24 22:22:32 2011//Tnetbsd-6-1-5-RELEASE
+/ansidecl.h/1.1.1.2/Sat Sep 24 22:22:32 2011//Tnetbsd-6-1-5-RELEASE
+/bfdlink.h/1.3/Sun Sep 25 04:32:42 2011//Tnetbsd-6-1-5-RELEASE
+/binary-io.h/1.1.1.1/Tue Aug 18 09:48:50 2009//Tnetbsd-6-1-5-RELEASE
+/bout.h/1.1.1.2/Sat Sep 24 22:22:31 2011//Tnetbsd-6-1-5-RELEASE
+/demangle.h/1.1.1.2/Sat Sep 24 22:22:28 2011//Tnetbsd-6-1-5-RELEASE
+/dis-asm.h/1.1.1.2/Sat Sep 24 22:22:28 2011//Tnetbsd-6-1-5-RELEASE
+/dwarf2.h/1.1.1.1/Sat Sep 24 22:22:28 2011//Tnetbsd-6-1-5-RELEASE
+/dyn-string.h/1.1.1.2/Sat Sep 24 22:22:27 2011//Tnetbsd-6-1-5-RELEASE
+/fibheap.h/1.1.1.2/Sat Sep 24 22:22:27 2011//Tnetbsd-6-1-5-RELEASE
+/filenames.h/1.1.1.2/Sat Sep 24 22:22:27 2011//Tnetbsd-6-1-5-RELEASE
+/floatformat.h/1.1.1.2/Sat Sep 24 22:22:27 2011//Tnetbsd-6-1-5-RELEASE
+/fnmatch.h/1.1.1.1/Tue Aug 18 09:48:51 2009//Tnetbsd-6-1-5-RELEASE
+/fopen-bin.h/1.1.1.1/Tue Aug 18 09:48:51 2009//Tnetbsd-6-1-5-RELEASE
+/fopen-same.h/1.1.1.1/Tue Aug 18 09:48:51 2009//Tnetbsd-6-1-5-RELEASE
+/fopen-vms.h/1.1.1.2/Sat Sep 24 22:22:25 2011//Tnetbsd-6-1-5-RELEASE
+/gdbm.h/1.1.1.1/Tue Aug 18 09:48:51 2009//Tnetbsd-6-1-5-RELEASE
+/getopt.h/1.1.1.1/Tue Aug 18 09:48:51 2009//Tnetbsd-6-1-5-RELEASE
+/hashtab.h/1.1.1.2/Sat Sep 24 22:22:27 2011//Tnetbsd-6-1-5-RELEASE
+/hp-symtab.h/1.1.1.2/Sat Sep 24 22:22:27 2011//Tnetbsd-6-1-5-RELEASE
+/ieee.h/1.1.1.1/Tue Aug 18 09:48:53 2009//Tnetbsd-6-1-5-RELEASE
+/libiberty.h/1.1.1.2/Sat Sep 24 22:22:26 2011//Tnetbsd-6-1-5-RELEASE
+/lto-symtab.h/1.1.1.1/Sat Sep 24 22:22:25 2011//Tnetbsd-6-1-5-RELEASE
+/md5.h/1.1.1.1/Tue Aug 18 09:48:53 2009//Tnetbsd-6-1-5-RELEASE
+/oasys.h/1.1.1.2/Sat Sep 24 22:22:24 2011//Tnetbsd-6-1-5-RELEASE
+/objalloc.h/1.1.1.1/Tue Aug 18 09:48:54 2009//Tnetbsd-6-1-5-RELEASE
+/obstack.h/1.1.1.2/Sat Sep 24 22:22:25 2011//Tnetbsd-6-1-5-RELEASE
+/os9k.h/1.1.1.1/Tue Aug 18 09:48:54 2009//Tnetbsd-6-1-5-RELEASE
+/partition.h/1.1.1.1/Tue Aug 18 09:48:54 2009//Tnetbsd-6-1-5-RELEASE
+/plugin-api.h/1.1.1.1/Sat Sep 24 22:22:24 2011//Tnetbsd-6-1-5-RELEASE
+/progress.h/1.1.1.2/Sat Sep 24 22:22:24 2011//Tnetbsd-6-1-5-RELEASE
+/safe-ctype.h/1.1.1.1/Tue Aug 18 09:48:54 2009//Tnetbsd-6-1-5-RELEASE
+/sha1.h/1.1.1.2/Sat Sep 24 22:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/simple-object.h/1.1.1.1/Sat Sep 24 22:22:24 2011//Tnetbsd-6-1-5-RELEASE
+/sort.h/1.1.1.1/Tue Aug 18 09:48:54 2009//Tnetbsd-6-1-5-RELEASE
+/splay-tree.h/1.1.1.2/Sat Sep 24 22:22:24 2011//Tnetbsd-6-1-5-RELEASE
+/symcat.h/1.1.1.2/Sat Sep 24 22:22:24 2011//Tnetbsd-6-1-5-RELEASE
+/xregex.h/1.1.1.1/Tue Aug 18 09:48:55 2009//Tnetbsd-6-1-5-RELEASE
+/xregex2.h/1.1.1.1/Tue Aug 18 09:48:55 2009//Tnetbsd-6-1-5-RELEASE
+/xtensa-config.h/1.1.1.2/Sat Sep 24 22:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/xtensa-isa-internal.h/1.1.1.2/Sat Sep 24 22:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/xtensa-isa.h/1.1.1.2/Sat Sep 24 22:22:23 2011//Tnetbsd-6-1-5-RELEASE
+D/aout////
+D/cgen////
+D/coff////
+D/elf////
+D/gdb////
+D/nlm////
+D/opcode////
+D/som////
+D/vms////

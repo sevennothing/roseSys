@@ -1,0 +1,11 @@
+/ffs.c/1.1.1.1/Sun Dec  5 01:20:54 2010//Tnetbsd-6-1-5-RELEASE
+/gai_strerror.c/1.1.1.1/Sun Dec  5 01:20:54 2010//Tnetbsd-6-1-5-RELEASE
+/getaddrinfo.c/1.1.1.2/Sun Dec  5 01:27:25 2010//Tnetbsd-6-1-5-RELEASE
+/getnetbynm.c/1.1.1.1/Sun Dec  5 01:20:54 2010//Tnetbsd-6-1-5-RELEASE
+/getnetent.c/1.1.1.1/Sun Dec  5 01:20:54 2010//Tnetbsd-6-1-5-RELEASE
+/getopt.c/1.1.1.1/Sun Dec  5 01:20:54 2010//Tnetbsd-6-1-5-RELEASE
+/getservent.c/1.1.1.1/Sun Dec  5 01:20:54 2010//Tnetbsd-6-1-5-RELEASE
+/inet_aton.c/1.1.1.2/Sun Dec  5 01:27:25 2010//Tnetbsd-6-1-5-RELEASE
+/inet_net.c/1.1.1.1/Sun Dec  5 01:20:54 2010//Tnetbsd-6-1-5-RELEASE
+/inet_pton.c/1.1.1.2/Sun Dec  5 01:27:25 2010//Tnetbsd-6-1-5-RELEASE
+D

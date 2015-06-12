@@ -1,0 +1,13 @@
+/Makefile/1.13/Mon Jun 20 07:44:03 2011//Tnetbsd-6-1-5-RELEASE
+/bpf.c/1.20/Tue Feb  8 20:20:28 2011//Tnetbsd-6-1-5-RELEASE
+/conf.c/1.10/Tue Feb  8 20:20:28 2011//Tnetbsd-6-1-5-RELEASE
+/defs.h/1.11/Wed Aug 31 13:32:40 2011//Tnetbsd-6-1-5-RELEASE
+/parseconf.c/1.11/Tue Feb  8 20:20:28 2011//Tnetbsd-6-1-5-RELEASE
+/pathnames.h/1.6/Tue Feb  8 20:20:28 2011//Tnetbsd-6-1-5-RELEASE
+/rbootd.8/1.12/Thu Dec 15 16:45:21 2011//Tnetbsd-6-1-5-RELEASE
+/rbootd.c/1.23/Tue May 24 13:19:55 2011//Tnetbsd-6-1-5-RELEASE
+/rmp.h/1.6/Tue Feb  8 20:20:28 2011//Tnetbsd-6-1-5-RELEASE
+/rmp_var.h/1.11/Tue Feb  8 20:20:28 2011//Tnetbsd-6-1-5-RELEASE
+/rmpproto.c/1.15/Tue Feb  8 20:20:28 2011//Tnetbsd-6-1-5-RELEASE
+/utils.c/1.17/Tue Feb  8 20:20:28 2011//Tnetbsd-6-1-5-RELEASE
+D

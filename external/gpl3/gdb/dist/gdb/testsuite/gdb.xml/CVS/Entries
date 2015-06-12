@@ -1,0 +1,17 @@
+/Makefile.in/1.1.1.1/Sat Sep 24 20:18:34 2011//Tnetbsd-6-1-5-RELEASE
+/bad-include.xml/1.1.1.1/Sat Sep 24 20:18:34 2011//Tnetbsd-6-1-5-RELEASE
+/core-only.xml/1.1.1.1/Sat Sep 24 20:18:34 2011//Tnetbsd-6-1-5-RELEASE
+/extra-regs.xml/1.1.1.1/Sat Sep 24 20:18:34 2011//Tnetbsd-6-1-5-RELEASE
+/inc-2.xml/1.1.1.1/Sat Sep 24 20:18:34 2011//Tnetbsd-6-1-5-RELEASE
+/inc-body.xml/1.1.1.1/Sat Sep 24 20:18:34 2011//Tnetbsd-6-1-5-RELEASE
+/includes.xml/1.1.1.1/Sat Sep 24 20:18:34 2011//Tnetbsd-6-1-5-RELEASE
+/loop.xml/1.1.1.1/Sat Sep 24 20:18:34 2011//Tnetbsd-6-1-5-RELEASE
+/single-reg.xml/1.1.1.1/Sat Sep 24 20:18:35 2011//Tnetbsd-6-1-5-RELEASE
+/tdesc-arch.exp/1.1.1.1/Sat Sep 24 20:18:35 2011//Tnetbsd-6-1-5-RELEASE
+/tdesc-bogus.xml/1.1.1.1/Sat Sep 24 20:18:35 2011//Tnetbsd-6-1-5-RELEASE
+/tdesc-errors.exp/1.1.1.1/Sat Sep 24 20:18:35 2011//Tnetbsd-6-1-5-RELEASE
+/tdesc-regs.exp/1.1.1.1/Sat Sep 24 20:18:35 2011//Tnetbsd-6-1-5-RELEASE
+/tdesc-unknown.xml/1.1.1.1/Sat Sep 24 20:18:34 2011//Tnetbsd-6-1-5-RELEASE
+/tdesc-xinclude.exp/1.1.1.1/Sat Sep 24 20:18:35 2011//Tnetbsd-6-1-5-RELEASE
+/trivial.xml/1.1.1.1/Sat Sep 24 20:18:35 2011//Tnetbsd-6-1-5-RELEASE
+D

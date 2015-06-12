@@ -1,0 +1,11 @@
+/Makefile/1.1/Wed Apr 13 19:16:58 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.2/Wed May 25 19:21:18 2011//Tnetbsd-6-1-5-RELEASE
+D/hprop////
+D/iprop-log////
+D/kadmin////
+D/kcm////
+D/kdc////
+D/kdigest////
+D/kimpersonate////
+D/kstash////
+D/ktutil////

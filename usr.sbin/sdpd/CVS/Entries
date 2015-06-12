@@ -1,0 +1,11 @@
+/Makefile/1.5/Tue May 12 10:05:06 2009//Tnetbsd-6-1-5-RELEASE
+/compat.c/1.2/Sun Mar  7 10:58:40 2010//Tnetbsd-6-1-5-RELEASE
+/db.c/1.1/Tue May 12 10:05:06 2009//Tnetbsd-6-1-5-RELEASE
+/log.c/1.2/Tue May 12 10:05:06 2009//Tnetbsd-6-1-5-RELEASE
+/main.c/1.9/Wed Aug 31 13:32:41 2011//Tnetbsd-6-1-5-RELEASE
+/record.c/1.2/Sun Mar  7 10:58:40 2010//Tnetbsd-6-1-5-RELEASE
+/sdpd.8/1.8/Thu Aug 20 15:59:57 2009//Tnetbsd-6-1-5-RELEASE
+/sdpd.h/1.1.10.1/Mon Mar  5 19:01:49 2012//Tnetbsd-6-1-5-RELEASE
+/server.c/1.10.4.1/Mon Mar  5 19:01:49 2012//Tnetbsd-6-1-5-RELEASE
+/service.c/1.2/Sun Mar  7 10:58:40 2010//Tnetbsd-6-1-5-RELEASE
+D

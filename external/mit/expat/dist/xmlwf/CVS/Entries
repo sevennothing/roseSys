@@ -1,0 +1,17 @@
+/codepage.c/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-6-1-5-RELEASE
+/codepage.h/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-6-1-5-RELEASE
+/ct.c/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-6-1-5-RELEASE
+/filemap.h/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-6-1-5-RELEASE
+/readfilemap.c/1.1.1.1.2.1/Sat Nov 24 21:08:47 2012//Tnetbsd-6-1-5-RELEASE
+/unixfilemap.c/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-6-1-5-RELEASE
+/win32filemap.c/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-6-1-5-RELEASE
+/xmlfile.c/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-6-1-5-RELEASE
+/xmlfile.h/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-6-1-5-RELEASE
+/xmlmime.c/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-6-1-5-RELEASE
+/xmlmime.h/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-6-1-5-RELEASE
+/xmltchar.h/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-6-1-5-RELEASE
+/xmlurl.h/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-6-1-5-RELEASE
+/xmlwf.c/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-6-1-5-RELEASE
+/xmlwf.dsp/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-6-1-5-RELEASE
+/xmlwin32url.cxx/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-6-1-5-RELEASE
+D

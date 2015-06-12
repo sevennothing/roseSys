@@ -1,0 +1,23 @@
+mkdeps.o: \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/mkdeps.c \
+ config.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/system.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/filenames.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/libiberty.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/ansidecl.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/safe-ctype.h \
+ /home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/include/mkdeps.h
+
+config.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/system.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/filenames.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/libiberty.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/ansidecl.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/../include/safe-ctype.h:
+
+/home/licj/software/netBSD/source/netBSD/usr/src/tools/gcc/../../external/gpl3/gcc/dist/libcpp/include/mkdeps.h:

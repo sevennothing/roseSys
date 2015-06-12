@@ -1,0 +1,15 @@
+/Makefile/1.1/Sun Mar 24 15:47:26 2002//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.2/Sun May  5 10:02:17 2002//Tnetbsd-6-1-5-RELEASE
+/devopen.c/1.1/Sun Mar 24 15:47:26 2002//Tnetbsd-6-1-5-RELEASE
+/newvers_rm.sh/1.4/Wed Apr 30 13:10:59 2008//Tnetbsd-6-1-5-RELEASE
+/riscoscalls.S/1.4/Thu Jul 20 23:35:20 2006//Tnetbsd-6-1-5-RELEASE
+/riscoscalls.h/1.4/Sun Mar  4 05:59:05 2007//Tnetbsd-6-1-5-RELEASE
+/riscoscons.c/1.1/Sun Mar 24 15:47:27 2002//Tnetbsd-6-1-5-RELEASE
+/riscosdisk.c/1.1/Sun Mar 24 15:47:27 2002//Tnetbsd-6-1-5-RELEASE
+/riscosdisk.h/1.1/Sun Mar 24 15:47:28 2002//Tnetbsd-6-1-5-RELEASE
+/riscoserrors.c/1.1/Sun Mar 24 15:47:28 2002//Tnetbsd-6-1-5-RELEASE
+/riscosfile.c/1.5/Wed Jan 25 18:28:25 2006//Tnetbsd-6-1-5-RELEASE
+/riscosfile.h/1.3/Sun Dec 11 12:16:05 2005//Tnetbsd-6-1-5-RELEASE
+/srt0.S/1.1/Sun Mar 24 15:47:28 2002//Tnetbsd-6-1-5-RELEASE
+/srt1.c/1.5/Wed Jan 14 23:14:48 2009//Tnetbsd-6-1-5-RELEASE
+D

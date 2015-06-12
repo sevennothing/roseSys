@@ -1,0 +1,40 @@
+/Makefile/1.55/Sun Aug 14 13:06:09 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.boot/1.20/Sat Mar 26 21:42:12 2011//Tnetbsd-6-1-5-RELEASE
+/arch.c/1.62/Sat Nov 27 16:00:09 2010//Tnetbsd-6-1-5-RELEASE
+/buf.c/1.24/Sat Jan 17 13:29:37 2009//Tnetbsd-6-1-5-RELEASE
+/buf.h/1.16/Sat Jan 17 13:55:42 2009//Tnetbsd-6-1-5-RELEASE
+/compat.c/1.84/Fri Sep 16 15:38:03 2011//Tnetbsd-6-1-5-RELEASE
+/cond.c/1.62/Tue Mar 29 17:19:22 2011//Tnetbsd-6-1-5-RELEASE
+/config.h/1.20/Sun Oct 14 20:22:53 2007//Tnetbsd-6-1-5-RELEASE
+/dir.c/1.63/Sat Mar  5 23:57:05 2011//Tnetbsd-6-1-5-RELEASE
+/dir.h/1.14/Fri Jan 23 21:26:30 2009//Tnetbsd-6-1-5-RELEASE
+/for.c/1.48/Sat Dec 25 04:57:07 2010//Tnetbsd-6-1-5-RELEASE
+/hash.c/1.19/Sat Jan 24 10:59:09 2009//Tnetbsd-6-1-5-RELEASE
+/hash.h/1.10/Sat Jan 24 10:59:09 2009//Tnetbsd-6-1-5-RELEASE
+/job.c/1.160/Fri Sep 16 15:38:03 2011//Tnetbsd-6-1-5-RELEASE
+/job.h/1.40/Mon Sep 13 15:36:57 2010//Tnetbsd-6-1-5-RELEASE
+/lst.h/1.18/Fri Jan 23 21:58:27 2009//Tnetbsd-6-1-5-RELEASE
+/main.c/1.198/Fri Sep 16 15:38:04 2011//Tnetbsd-6-1-5-RELEASE
+/make.1/1.200/Fri Feb  3 21:39:25 2012//Tnetbsd-6-1-5-RELEASE
+/make.c/1.84/Fri Sep 16 15:38:04 2011//Tnetbsd-6-1-5-RELEASE
+/make.h/1.87/Fri Sep 16 15:38:04 2011//Tnetbsd-6-1-5-RELEASE
+/make_malloc.c/1.6/Sat Dec 25 20:35:25 2010//Tnetbsd-6-1-5-RELEASE
+/make_malloc.h/1.4/Sat Jan 24 14:43:29 2009//Tnetbsd-6-1-5-RELEASE
+/meta.c/1.24/Wed Sep 21 14:30:47 2011//Tnetbsd-6-1-5-RELEASE
+/meta.h/1.2/Wed Mar 30 22:03:49 2011//Tnetbsd-6-1-5-RELEASE
+/nonints.h/1.63/Fri Sep 16 15:38:04 2011//Tnetbsd-6-1-5-RELEASE
+/parse.c/1.180/Sun Nov  6 19:46:56 2011//Tnetbsd-6-1-5-RELEASE
+/pathnames.h/1.17/Sat Apr 11 09:41:18 2009//Tnetbsd-6-1-5-RELEASE
+/sprite.h/1.11/Fri Jan 23 21:26:30 2009//Tnetbsd-6-1-5-RELEASE
+/str.c/1.33/Wed Feb 25 21:17:21 2009//Tnetbsd-6-1-5-RELEASE
+/strlist.c/1.4/Sat Jan 24 11:59:39 2009//Tnetbsd-6-1-5-RELEASE
+/strlist.h/1.3/Fri Jan 16 21:15:34 2009//Tnetbsd-6-1-5-RELEASE
+/suff.c/1.69/Thu Sep 29 23:38:04 2011//Tnetbsd-6-1-5-RELEASE
+/targ.c/1.56/Thu Nov 25 21:31:09 2010//Tnetbsd-6-1-5-RELEASE
+/trace.c/1.11/Sun Dec 28 18:31:51 2008//Tnetbsd-6-1-5-RELEASE
+/trace.h/1.3/Mon Apr 28 20:24:14 2008//Tnetbsd-6-1-5-RELEASE
+/util.c/1.51/Sat Apr  2 07:58:30 2011//Tnetbsd-6-1-5-RELEASE
+/var.c/1.167/Fri Jun  3 21:10:42 2011//Tnetbsd-6-1-5-RELEASE
+D/PSD.doc////
+D/lst.lib////
+D/unit-tests////

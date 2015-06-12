@@ -1,0 +1,17 @@
+/Makefile.in/1.1.1.1/Sun Apr 12 15:33:35 2009//Tnetbsd-6-1-5-RELEASE
+/inet_addr.c/1.1.1.1/Sun Apr 12 15:33:34 2009//Tnetbsd-6-1-5-RELEASE
+/inet_cidr_ntop.c/1.1.1.1/Sun Apr 12 15:33:34 2009//Tnetbsd-6-1-5-RELEASE
+/inet_cidr_pton.c/1.1.1.1/Sun Apr 12 15:33:34 2009//Tnetbsd-6-1-5-RELEASE
+/inet_data.c/1.1.1.1/Sun Apr 12 15:33:34 2009//Tnetbsd-6-1-5-RELEASE
+/inet_lnaof.c/1.1.1.1/Sun Apr 12 15:33:35 2009//Tnetbsd-6-1-5-RELEASE
+/inet_makeaddr.c/1.1.1.1/Sun Apr 12 15:33:35 2009//Tnetbsd-6-1-5-RELEASE
+/inet_net_ntop.c/1.1.1.1/Sun Apr 12 15:33:35 2009//Tnetbsd-6-1-5-RELEASE
+/inet_net_pton.c/1.1.1.1/Sun Apr 12 15:33:35 2009//Tnetbsd-6-1-5-RELEASE
+/inet_neta.c/1.1.1.1/Sun Apr 12 15:33:35 2009//Tnetbsd-6-1-5-RELEASE
+/inet_netof.c/1.1.1.1/Sun Apr 12 15:33:35 2009//Tnetbsd-6-1-5-RELEASE
+/inet_network.c/1.1.1.1/Sun Apr 12 15:33:34 2009//Tnetbsd-6-1-5-RELEASE
+/inet_ntoa.c/1.1.1.1/Sun Apr 12 15:33:34 2009//Tnetbsd-6-1-5-RELEASE
+/inet_ntop.c/1.1.1.1/Sun Apr 12 15:33:35 2009//Tnetbsd-6-1-5-RELEASE
+/inet_pton.c/1.1.1.1/Sun Apr 12 15:33:35 2009//Tnetbsd-6-1-5-RELEASE
+/nsap_addr.c/1.1.1.1/Sun Apr 12 15:33:35 2009//Tnetbsd-6-1-5-RELEASE
+D

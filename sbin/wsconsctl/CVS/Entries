@@ -1,0 +1,13 @@
+/Makefile/1.14/Sun Oct 26 14:55:17 2008//Tnetbsd-6-1-5-RELEASE
+/display.c/1.15/Mon Apr 28 20:23:09 2008//Tnetbsd-6-1-5-RELEASE
+/keyboard.c/1.9/Mon Apr 28 20:23:09 2008//Tnetbsd-6-1-5-RELEASE
+/keysym.c/1.10/Fri Jan 29 09:49:34 2010//Tnetbsd-6-1-5-RELEASE
+/map_parse.y/1.10/Sat Aug 27 19:01:34 2011//Tnetbsd-6-1-5-RELEASE
+/map_scan.l/1.7/Tue May 24 12:07:14 2011//Tnetbsd-6-1-5-RELEASE
+/mkkeysym.sh/1.2/Sun Jun 26 22:45:50 2005//Tnetbsd-6-1-5-RELEASE
+/mouse.c/1.8.22.1/Mon Feb 11 21:36:30 2013//Tnetbsd-6-1-5-RELEASE
+/util.c/1.30.2.1/Mon Feb 11 21:36:30 2013//Tnetbsd-6-1-5-RELEASE
+/wsconsctl.8/1.28/Tue Feb 14 11:05:32 2012//Tnetbsd-6-1-5-RELEASE
+/wsconsctl.c/1.18/Mon Aug 25 00:14:46 2008//Tnetbsd-6-1-5-RELEASE
+/wsconsctl.h/1.11.4.1/Mon Feb 11 21:36:30 2013//Tnetbsd-6-1-5-RELEASE
+D

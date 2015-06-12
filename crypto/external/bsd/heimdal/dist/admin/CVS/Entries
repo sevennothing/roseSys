@@ -1,0 +1,18 @@
+/ChangeLog/1.1.1.1/Wed Apr 13 18:14:31 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.am/1.1.1.2/Thu Apr 14 14:08:06 2011//Tnetbsd-6-1-5-RELEASE
+/NTMakefile/1.1.1.1/Wed Apr 13 18:14:32 2011//Tnetbsd-6-1-5-RELEASE
+/add.c/1.1.1.1/Wed Apr 13 18:14:32 2011//Tnetbsd-6-1-5-RELEASE
+/change.c/1.1.1.1/Wed Apr 13 18:14:32 2011//Tnetbsd-6-1-5-RELEASE
+/copy.c/1.1.1.1/Wed Apr 13 18:14:32 2011//Tnetbsd-6-1-5-RELEASE
+/destroy.c/1.1.1.1/Wed Apr 13 18:14:32 2011//Tnetbsd-6-1-5-RELEASE
+/get.c/1.1.1.1/Wed Apr 13 18:14:32 2011//Tnetbsd-6-1-5-RELEASE
+/ktutil-commands.in/1.1.1.2/Thu Apr 14 14:08:06 2011//Tnetbsd-6-1-5-RELEASE
+/ktutil-version.rc/1.1.1.1/Wed Apr 13 18:14:32 2011//Tnetbsd-6-1-5-RELEASE
+/ktutil.8/1.2/Thu Apr 14 19:19:19 2011//Tnetbsd-6-1-5-RELEASE
+/ktutil.c/1.1.1.1/Wed Apr 13 18:14:32 2011//Tnetbsd-6-1-5-RELEASE
+/ktutil_locl.h/1.1.1.2/Thu Apr 14 14:08:06 2011//Tnetbsd-6-1-5-RELEASE
+/list.c/1.1.1.1/Wed Apr 13 18:14:32 2011//Tnetbsd-6-1-5-RELEASE
+/purge.c/1.1.1.1/Wed Apr 13 18:14:32 2011//Tnetbsd-6-1-5-RELEASE
+/remove.c/1.1.1.1/Wed Apr 13 18:14:32 2011//Tnetbsd-6-1-5-RELEASE
+/rename.c/1.1.1.1/Wed Apr 13 18:14:32 2011//Tnetbsd-6-1-5-RELEASE
+D

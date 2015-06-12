@@ -1,0 +1,18 @@
+/Makefile/1.2/Wed May 25 19:21:17 2011//Tnetbsd-6-1-5-RELEASE
+D/libasn1////
+D/libcom_err////
+D/libgssapi////
+D/libhdb////
+D/libheimbase////
+D/libheimntlm////
+D/libhx509////
+D/libipc////
+D/libkadm5clnt////
+D/libkadm5srv////
+D/libkafs////
+D/libkdc////
+D/libkrb5////
+D/libroken////
+D/libsl////
+D/libvers////
+D/libwind////

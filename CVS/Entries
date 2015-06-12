@@ -1,0 +1,30 @@
+/BUILDING/1.98.2.1/Fri Mar  2 16:48:10 2012//Tnetbsd-6-1-5-RELEASE
+/Makefile/1.291.2.2/Wed Aug 15 17:36:46 2012//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.4/Wed Apr 10 14:53:43 2002//Tnetbsd-6-1-5-RELEASE
+/UPDATING/1.234.2.4/Sun Sep 30 18:47:58 2012//Tnetbsd-6-1-5-RELEASE
+/build.sh/1.253.2.1/Fri Mar  2 16:48:10 2012//Tnetbsd-6-1-5-RELEASE
+D/bin////
+D/common////
+D/compat////
+D/crypto////
+D/dist////
+D/distrib////
+D/doc////
+D/etc////
+D/external////
+D/extsrc////
+D/games////
+D/gnu////
+D/include////
+D/lib////
+D/libexec////
+D/regress////
+D/rescue////
+D/sbin////
+D/share////
+D/sys////
+D/tests////
+D/tools////
+D/usr.bin////
+D/usr.sbin////
+D/x11////

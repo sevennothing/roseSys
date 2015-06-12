@@ -1,0 +1,16 @@
+/ac97_ebus.c/1.1/Wed Jan 26 01:18:50 2011//Tnetbsd-6-1-5-RELEASE
+/ace_ebus.c/1.4/Thu Feb  2 19:42:58 2012//Tnetbsd-6-1-5-RELEASE
+/clock_ebus.c/1.6/Sun Jun 12 04:44:27 2011//Tnetbsd-6-1-5-RELEASE
+/dz_ebus.c/1.5/Sun Jun 12 05:22:30 2011//Tnetbsd-6-1-5-RELEASE
+/ebus.c/1.2/Sun Jun 12 03:52:13 2011//Tnetbsd-6-1-5-RELEASE
+/ebus_emips.c/1.3/Sun Jun 12 04:00:33 2011//Tnetbsd-6-1-5-RELEASE
+/ebusvar.h/1.3/Sun Jun 12 04:00:33 2011//Tnetbsd-6-1-5-RELEASE
+/evga_ebus.c/1.1/Wed Jan 26 01:18:50 2011//Tnetbsd-6-1-5-RELEASE
+/flash_ebus.c/1.4/Thu Feb  2 19:42:59 2012//Tnetbsd-6-1-5-RELEASE
+/gpio_ebus.c/1.3/Sun Jun 12 05:31:14 2011//Tnetbsd-6-1-5-RELEASE
+/icap_ebus.c/1.2/Sun Jun 12 03:29:33 2011//Tnetbsd-6-1-5-RELEASE
+/if_le_ebus.c/1.4/Thu Feb  2 19:42:59 2012//Tnetbsd-6-1-5-RELEASE
+/lcd_ebus.c/1.1/Wed Jan 26 01:18:50 2011//Tnetbsd-6-1-5-RELEASE
+/ps2_ebus.c/1.1/Wed Jan 26 01:18:50 2011//Tnetbsd-6-1-5-RELEASE
+/stub_ebus.c/1.1/Wed Jan 26 01:18:50 2011//Tnetbsd-6-1-5-RELEASE
+D

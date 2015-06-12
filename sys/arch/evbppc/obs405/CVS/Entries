@@ -1,0 +1,12 @@
+/obs200_autoconf.c/1.7/Mon Dec 12 11:23:57 2011//Tnetbsd-6-1-5-RELEASE
+/obs200_locore.S/1.11/Mon Jun 20 19:56:11 2011//Tnetbsd-6-1-5-RELEASE
+/obs200_machdep.c/1.19/Wed Jun 22 18:06:32 2011//Tnetbsd-6-1-5-RELEASE
+/obs266_autoconf.c/1.7/Mon Dec 12 11:23:57 2011//Tnetbsd-6-1-5-RELEASE
+/obs266_machdep.c/1.20/Wed Jun 22 18:06:32 2011//Tnetbsd-6-1-5-RELEASE
+/obs405_autoconf.c/1.5.8.1/Wed Aug  8 15:51:09 2012//Tnetbsd-6-1-5-RELEASE
+/obs405_machdep.c/1.6/Sat Jun 18 06:44:26 2011//Tnetbsd-6-1-5-RELEASE
+/obs600_autoconf.c/1.6/Tue Jan 10 12:17:20 2012//Tnetbsd-6-1-5-RELEASE
+/obs600_locore.S/1.5/Mon Dec 12 11:28:04 2011//Tnetbsd-6-1-5-RELEASE
+/obs600_machdep.c/1.8/Mon Dec 12 11:31:46 2011//Tnetbsd-6-1-5-RELEASE
+/rbus_machdep.c/1.8/Wed Jun 22 18:06:32 2011//Tnetbsd-6-1-5-RELEASE
+D/dev////

@@ -1,0 +1,22 @@
+/CHANGES/1.11.8.1/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/Makefile/1.12.20.1/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/Makefile.boot/1.5.20.1/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/auth-bozo.c/1.10.14.1/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/bozohttpd.8/1.32.8.1/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/bozohttpd.c/1.30.8.1/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/bozohttpd.h/1.20.8.1/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/cgi-bozo.c/1.20.14.1/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/content-bozo.c/1.7.14.1/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/daemon-bozo.c/1.15.14.1/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/dir-index-bozo.c/1.13.2.1.6.1/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/lua-bozo.c/1.9.8.2/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/main.c/1.5.14.1/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/netbsd_queue.h/1.1.10.2/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/printenv.lua/1.2.8.2/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/ssl-bozo.c/1.13.8.1/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+/tilde-luzah-bozo.c/1.9.14.1/Wed Jul  9 09:44:56 2014//Tnetbsd-6-1-5-RELEASE
+D/debug////
+D/libbozohttpd////
+D/lua////
+D/small////
+D/testsuite////

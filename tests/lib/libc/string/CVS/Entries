@@ -1,0 +1,19 @@
+/Makefile/1.8/Mon Nov 21 23:50:45 2011//Tnetbsd-6-1-5-RELEASE
+/t_memchr.c/1.2/Thu Jul 14 05:46:04 2011//Tnetbsd-6-1-5-RELEASE
+/t_memcpy.c/1.4/Thu Jul 14 05:46:04 2011//Tnetbsd-6-1-5-RELEASE
+/t_memmem.c/1.2/Thu Jul  7 08:27:36 2011//Tnetbsd-6-1-5-RELEASE
+/t_memset.c/1.2/Thu Jul 14 07:33:20 2011//Tnetbsd-6-1-5-RELEASE
+/t_popcount.c/1.4/Thu Jul  7 08:27:36 2011//Tnetbsd-6-1-5-RELEASE
+/t_strcat.c/1.2/Thu Jul 14 05:46:04 2011//Tnetbsd-6-1-5-RELEASE
+/t_strchr.c/1.1/Thu Jul  7 08:59:33 2011//Tnetbsd-6-1-5-RELEASE
+/t_strcmp.c/1.3/Thu Jul 14 07:33:20 2011//Tnetbsd-6-1-5-RELEASE
+/t_strcpy.c/1.1/Thu Jul  7 08:59:33 2011//Tnetbsd-6-1-5-RELEASE
+/t_strcspn.c/1.1/Mon Nov 21 23:50:45 2011//Tnetbsd-6-1-5-RELEASE
+/t_strerror.c/1.3/Tue May 10 06:55:27 2011//Tnetbsd-6-1-5-RELEASE
+/t_stresep.c/1.2/Thu Jul  7 08:27:36 2011//Tnetbsd-6-1-5-RELEASE
+/t_strlen.c/1.5/Thu Jul 14 07:33:20 2011//Tnetbsd-6-1-5-RELEASE
+/t_strpbrk.c/1.1/Mon Nov 21 23:50:45 2011//Tnetbsd-6-1-5-RELEASE
+/t_strrchr.c/1.1/Thu Jul  7 08:59:33 2011//Tnetbsd-6-1-5-RELEASE
+/t_strspn.c/1.1/Mon Nov 21 23:50:45 2011//Tnetbsd-6-1-5-RELEASE
+/t_swab.c/1.2/Thu Jul  7 08:27:36 2011//Tnetbsd-6-1-5-RELEASE
+D

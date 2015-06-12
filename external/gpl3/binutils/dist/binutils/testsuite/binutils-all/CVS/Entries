@@ -1,0 +1,85 @@
+/add-empty-section.d/1.1.1.1/Sat Sep 24 22:39:20 2011//Tnetbsd-6-1-5-RELEASE
+/add-section.d/1.1.1.1/Sat Sep 24 22:39:20 2011//Tnetbsd-6-1-5-RELEASE
+/alias-2.def/1.1.1.1/Sat Sep 24 22:39:20 2011//Tnetbsd-6-1-5-RELEASE
+/alias.def/1.1.1.1/Tue Aug 18 10:16:34 2009//Tnetbsd-6-1-5-RELEASE
+/ar.exp/1.1.1.2/Sat Sep 24 22:39:20 2011//Tnetbsd-6-1-5-RELEASE
+/bintest.s/1.1.1.1/Tue Aug 18 10:16:34 2009//Tnetbsd-6-1-5-RELEASE
+/compress.exp/1.1.1.1/Sat Sep 24 22:39:20 2011//Tnetbsd-6-1-5-RELEASE
+/copy-1.d/1.1.1.1/Tue Aug 18 10:16:34 2009//Tnetbsd-6-1-5-RELEASE
+/copy-1.s/1.1.1.1/Tue Aug 18 10:16:34 2009//Tnetbsd-6-1-5-RELEASE
+/copy-2.d/1.1.1.2/Sat Sep 24 22:39:20 2011//Tnetbsd-6-1-5-RELEASE
+/copy-3.d/1.1.1.2/Sat Sep 24 22:39:20 2011//Tnetbsd-6-1-5-RELEASE
+/copy-4.d/1.1.1.1/Sat Sep 24 22:39:20 2011//Tnetbsd-6-1-5-RELEASE
+/copytest.s/1.1.1.1/Tue Aug 18 10:16:34 2009//Tnetbsd-6-1-5-RELEASE
+/dlltool.exp/1.1.1.2/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/dumptest.s/1.1.1.1/Tue Aug 18 10:16:35 2009//Tnetbsd-6-1-5-RELEASE
+/dw2-1.S/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/dw2-2.S/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/dw2-compressed.S/1.1.1.2/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/elfedit-1.d/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/elfedit-2.d/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/elfedit-3.d/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/elfedit.exp/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/empty-file/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/empty.s/1.1.1.1/Tue Aug 18 10:16:35 2009//Tnetbsd-6-1-5-RELEASE
+/exclude-1.s/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/exclude-1a.d/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/exclude-1b.d/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/fastcall.def/1.1.1.1/Tue Aug 18 10:16:35 2009//Tnetbsd-6-1-5-RELEASE
+/group-2.s/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/group-3.s/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/group-4.s/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/group-5.d/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/group-5.s/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/group.s/1.1.1.2/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/libdw2-compressed.out/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/libdw2.out/1.1.1.1/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/link-order.s/1.1.1.1/Tue Aug 18 10:16:35 2009//Tnetbsd-6-1-5-RELEASE
+/localize-hidden-1.d/1.1.1.1/Tue Aug 18 10:16:35 2009//Tnetbsd-6-1-5-RELEASE
+/localize-hidden-1.s/1.1.1.2/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/localize-hidden-2.d/1.1.1.1/Tue Aug 18 10:16:35 2009//Tnetbsd-6-1-5-RELEASE
+/localize-hidden-2.s/1.1.1.2/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/needed-by-reloc.s/1.1.1.1/Tue Aug 18 10:16:35 2009//Tnetbsd-6-1-5-RELEASE
+/nm.exp/1.1.1.2/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/note-1.d/1.1.1.1/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/objcopy.exp/1.1.1.2/Sat Sep 24 22:39:19 2011//Tnetbsd-6-1-5-RELEASE
+/objdump.W/1.1.1.2/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/objdump.exp/1.1.1.2/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/objdump.s/1.1.1.2/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/readelf.exp/1.1.1.2/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/readelf.h/1.1.1.1/Tue Aug 18 10:16:36 2009//Tnetbsd-6-1-5-RELEASE
+/readelf.r/1.1.1.1/Tue Aug 18 10:16:36 2009//Tnetbsd-6-1-5-RELEASE
+/readelf.r-64/1.1.1.1/Tue Aug 18 10:16:36 2009//Tnetbsd-6-1-5-RELEASE
+/readelf.s/1.1.1.2/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/readelf.s-64/1.1.1.2/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/readelf.ss/1.1.1.2/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/readelf.ss-64/1.1.1.2/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/readelf.ss-mips/1.1.1.2/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/readelf.ss-tmips/1.1.1.2/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/readelf.wa/1.1.1.1/Tue Aug 18 10:16:36 2009//Tnetbsd-6-1-5-RELEASE
+/size.exp/1.1.1.2/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/strip-1.d/1.1.1.1/Tue Aug 18 10:16:36 2009//Tnetbsd-6-1-5-RELEASE
+/strip-10.d/1.1.1.1/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/strip-2.d/1.1.1.2/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/strip-3.d/1.1.1.2/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/strip-4.d/1.1.1.1/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/strip-5.d/1.1.1.1/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/strip-6.d/1.1.1.1/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/strip-7.d/1.1.1.1/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/strip-8.d/1.1.1.1/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/strip-9.d/1.1.1.1/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/testprog.c/1.1.1.1/Tue Aug 18 10:16:36 2009//Tnetbsd-6-1-5-RELEASE
+/testranges-ia64.d/1.1.1.1/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/testranges-ia64.s/1.1.1.1/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/testranges.d/1.1.1.1/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/testranges.s/1.1.1.1/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/unique.s/1.1.1.1/Sat Sep 24 22:39:18 2011//Tnetbsd-6-1-5-RELEASE
+/unknown.s/1.1.1.1/Tue Aug 18 10:16:36 2009//Tnetbsd-6-1-5-RELEASE
+D/arm////
+D/bfin////
+D/hppa////
+D/i386////
+D/m68k////
+D/vax////
+D/windres////
+D/x86-64////

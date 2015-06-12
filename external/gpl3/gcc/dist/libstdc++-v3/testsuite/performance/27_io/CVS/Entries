@@ -1,0 +1,16 @@
+/cout_insert_int.cc/1.1.1.1/Tue Jun 21 01:24:35 2011//Tnetbsd-6-1-5-RELEASE
+/filebuf_copy.cc/1.1.1.1/Tue Jun 21 01:24:35 2011//Tnetbsd-6-1-5-RELEASE
+/filebuf_sgetn_unbuf.cc/1.1.1.1/Tue Jun 21 01:24:35 2011//Tnetbsd-6-1-5-RELEASE
+/filebuf_sputc.cc/1.1.1.1/Tue Jun 21 01:24:35 2011//Tnetbsd-6-1-5-RELEASE
+/filebuf_sputn_unbuf.cc/1.1.1.1/Tue Jun 21 01:24:35 2011//Tnetbsd-6-1-5-RELEASE
+/fmtflags_manipulators.cc/1.1.1.1/Tue Jun 21 01:24:35 2011//Tnetbsd-6-1-5-RELEASE
+/fstream_seek_write.cc/1.1.1.1/Tue Jun 21 01:24:35 2011//Tnetbsd-6-1-5-RELEASE
+/ifstream_extract_chars.cc/1.1.1.1/Tue Jun 21 01:24:35 2011//Tnetbsd-6-1-5-RELEASE
+/ifstream_extract_float.cc/1.1.1.1/Tue Jun 21 01:24:35 2011//Tnetbsd-6-1-5-RELEASE
+/ifstream_extract_int.cc/1.1.1.1/Tue Jun 21 01:24:35 2011//Tnetbsd-6-1-5-RELEASE
+/ifstream_getline-2.cc/1.1.1.1/Tue Jun 21 01:24:35 2011//Tnetbsd-6-1-5-RELEASE
+/ifstream_getline.cc/1.1.1.1/Tue Jun 21 01:24:35 2011//Tnetbsd-6-1-5-RELEASE
+/ofstream_insert_float.cc/1.1.1.1/Tue Jun 21 01:24:35 2011//Tnetbsd-6-1-5-RELEASE
+/ofstream_insert_int.cc/1.1.1.1/Tue Jun 21 01:24:35 2011//Tnetbsd-6-1-5-RELEASE
+/stringbuf_overflow.cc/1.1.1.1/Tue Jun 21 01:24:35 2011//Tnetbsd-6-1-5-RELEASE
+D

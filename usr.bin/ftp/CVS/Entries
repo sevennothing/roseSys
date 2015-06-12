@@ -1,0 +1,17 @@
+/Makefile/1.35/Sun Aug 14 12:58:15 2011//Tnetbsd-6-1-5-RELEASE
+/cmds.c/1.134/Sun Jan 15 20:43:24 2012//Tnetbsd-6-1-5-RELEASE
+/cmdtab.c/1.51/Sun Apr 12 10:18:52 2009//Tnetbsd-6-1-5-RELEASE
+/complete.c/1.46/Sun Apr 12 10:18:52 2009//Tnetbsd-6-1-5-RELEASE
+/domacro.c/1.22/Sun Apr 12 10:18:52 2009//Tnetbsd-6-1-5-RELEASE
+/extern.h/1.79/Fri Sep 16 15:39:26 2011//Tnetbsd-6-1-5-RELEASE
+/fetch.c/1.195/Sat Dec 10 05:53:58 2011//Tnetbsd-6-1-5-RELEASE
+/ftp.1/1.131/Fri Mar  5 07:41:10 2010//Tnetbsd-6-1-5-RELEASE
+/ftp.c/1.163/Sat Dec 10 05:53:58 2011//Tnetbsd-6-1-5-RELEASE
+/ftp_var.h/1.81/Sun Apr 12 10:18:52 2009//Tnetbsd-6-1-5-RELEASE
+/main.c/1.120/Sat Dec 10 05:53:58 2011//Tnetbsd-6-1-5-RELEASE
+/progressbar.c/1.21/Sun Apr 12 10:18:52 2009//Tnetbsd-6-1-5-RELEASE
+/progressbar.h/1.8/Sun Apr 12 10:18:52 2009//Tnetbsd-6-1-5-RELEASE
+/ruserpass.c/1.33/Tue Apr 17 05:52:04 2007//Tnetbsd-6-1-5-RELEASE
+/util.c/1.156/Sat Dec 10 05:53:58 2011//Tnetbsd-6-1-5-RELEASE
+/version.h/1.82/Sat Jun  5 13:59:39 2010//Tnetbsd-6-1-5-RELEASE
+D

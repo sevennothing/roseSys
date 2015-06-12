@@ -1,0 +1,26 @@
+/Makefile/1.8/Sun Apr  1 18:52:31 2007//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.12/Mon May 30 14:41:26 2011//Tnetbsd-6-1-5-RELEASE
+/shlib_version/1.6/Sun Jan 11 03:07:47 2009//Tnetbsd-6-1-5-RELEASE
+D/BIG5////
+D/DECHanyu////
+D/EUC////
+D/EUCTW////
+D/GBK2K////
+D/HZ////
+D/ISO2022////
+D/JOHAB////
+D/MSKanji////
+D/UES////
+D/UTF1632////
+D/UTF7////
+D/UTF8////
+D/VIQR////
+D/ZW////
+D/iconv_none////
+D/iconv_std////
+D/mapper_646////
+D/mapper_none////
+D/mapper_parallel////
+D/mapper_serial////
+D/mapper_std////
+D/mapper_zone////

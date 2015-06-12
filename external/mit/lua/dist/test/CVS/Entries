@@ -1,0 +1,21 @@
+/README/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/bisect.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/cf.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/echo.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/env.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/factorial.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/fib.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/fibfor.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/globals.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/hello.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/life.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/luac.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/printf.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/readonly.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/sieve.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/sort.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/table.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/trace-calls.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/trace-globals.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+/xd.lua/1.1.1.1/Sun Oct 31 11:17:01 2010//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,20 @@
+/arith.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+/basic.exp/1.1.1.2/Sat Sep 24 22:24:44 2011//Tnetbsd-6-1-5-RELEASE
+/bit.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+/branch.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+/compare.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+/fepsw.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+/hilo.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+/hilo2.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+/jumps.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+/logical.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+/mem.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+/misc.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+/move.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+/range.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+/reloc.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+/split-lo16.d/1.1.1.2/Sat Sep 24 22:24:44 2011//Tnetbsd-6-1-5-RELEASE
+/split-lo16.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+/v850e1.d/1.1.1.2/Sat Sep 24 22:24:44 2011//Tnetbsd-6-1-5-RELEASE
+/v850e1.s/1.1.1.1/Tue Aug 18 09:48:40 2009//Tnetbsd-6-1-5-RELEASE
+D

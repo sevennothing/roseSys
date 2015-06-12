@@ -1,0 +1,28 @@
+/Makefile/1.61/Tue Feb  7 19:13:31 2012//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.8/Mon Mar 16 02:24:55 2009//Tnetbsd-6-1-5-RELEASE
+D/atrun////
+D/comsat////
+D/fingerd////
+D/ftpd////
+D/getNAME////
+D/getty////
+D/httpd////
+D/identd////
+D/ld.aout_so////
+D/ld.elf_so////
+D/lfs_cleanerd////
+D/mail.local////
+D/makekey////
+D/makewhatis////
+D/rexecd////
+D/rlogind////
+D/rpc.rquotad////
+D/rpc.rstatd////
+D/rpc.rusersd////
+D/rpc.rwalld////
+D/rpc.sprayd////
+D/rshd////
+D/talkd////
+D/telnetd////
+D/tftpd////
+D/utmp_update////

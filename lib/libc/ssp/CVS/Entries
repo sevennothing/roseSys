@@ -1,0 +1,17 @@
+/Makefile.inc/1.2/Wed May 30 21:14:35 2007//Tnetbsd-6-1-5-RELEASE
+/__builtin_object_size.3/1.8/Sun Dec 19 09:33:52 2010//Tnetbsd-6-1-5-RELEASE
+/fgets_chk.c/1.6/Thu Feb  5 05:41:51 2009//Tnetbsd-6-1-5-RELEASE
+/gets_chk.c/1.6/Sun Jan 17 23:13:32 2010//Tnetbsd-6-1-5-RELEASE
+/memcpy_chk.c/1.4/Mon Apr 28 20:23:00 2008//Tnetbsd-6-1-5-RELEASE
+/memmove_chk.c/1.4/Mon Apr 28 20:23:00 2008//Tnetbsd-6-1-5-RELEASE
+/memset_chk.c/1.4/Mon Apr 28 20:23:00 2008//Tnetbsd-6-1-5-RELEASE
+/snprintf_chk.c/1.5/Mon Apr 28 20:23:00 2008//Tnetbsd-6-1-5-RELEASE
+/sprintf_chk.c/1.6/Thu Feb  5 05:40:36 2009//Tnetbsd-6-1-5-RELEASE
+/ssp.3/1.6/Mon Mar 21 04:42:50 2011//Tnetbsd-6-1-5-RELEASE
+/strcat_chk.c/1.4/Tue Nov 17 20:44:26 2009//Tnetbsd-6-1-5-RELEASE
+/strcpy_chk.c/1.5/Tue Dec 28 16:19:25 2010//Tnetbsd-6-1-5-RELEASE
+/strncat_chk.c/1.4/Tue Nov 17 20:44:26 2009//Tnetbsd-6-1-5-RELEASE
+/strncpy_chk.c/1.4/Mon Apr 28 20:23:00 2008//Tnetbsd-6-1-5-RELEASE
+/vsnprintf_chk.c/1.5/Mon Apr 28 20:23:00 2008//Tnetbsd-6-1-5-RELEASE
+/vsprintf_chk.c/1.6/Thu Feb  5 05:39:38 2009//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,11 @@
+/autoconf.c/1.29.8.1/Wed Aug  8 15:51:10 2012//Tnetbsd-6-1-5-RELEASE
+/bus.c/1.43/Sun Feb 12 16:34:07 2012//Tnetbsd-6-1-5-RELEASE
+/console.c/1.12/Fri Jul  1 20:36:42 2011//Tnetbsd-6-1-5-RELEASE
+/console.h/1.1/Thu Mar 27 15:21:46 2008//Tnetbsd-6-1-5-RELEASE
+/cpu.c/1.11/Sun Feb 20 07:54:10 2011//Tnetbsd-6-1-5-RELEASE
+/disksubr.c/1.24/Mon Mar  3 15:22:01 2008//Tnetbsd-6-1-5-RELEASE
+/interrupt.c/1.7/Fri Jul  1 20:36:42 2011//Tnetbsd-6-1-5-RELEASE
+/locore_machdep.S/1.6/Sun Dec 11 12:17:05 2005//Tnetbsd-6-1-5-RELEASE
+/machdep.c/1.112/Sat Jul  9 16:09:01 2011//Tnetbsd-6-1-5-RELEASE
+/mainbus.c/1.18/Fri May  9 10:59:55 2008//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,10 @@
+/if_cs_smdk24x0.c/1.5/Thu Feb  2 19:42:59 2012//Tnetbsd-6-1-5-RELEASE
+/smdk2410_kbd.c/1.7/Fri Jul  1 20:44:21 2011//Tnetbsd-6-1-5-RELEASE
+/smdk2410_lcd.c/1.7/Mon Jan 30 03:28:34 2012//Tnetbsd-6-1-5-RELEASE
+/smdk2410_machdep.c/1.29/Fri Jul  1 20:44:21 2011//Tnetbsd-6-1-5-RELEASE
+/smdk2410_start.S/1.6/Mon Jan 31 06:28:05 2011//Tnetbsd-6-1-5-RELEASE
+/smdk2800_machdep.c/1.37/Fri Jul  1 20:44:21 2011//Tnetbsd-6-1-5-RELEASE
+/smdk2800_pci.c/1.5/Fri Jul  1 20:44:21 2011//Tnetbsd-6-1-5-RELEASE
+/smdk2800_start.S/1.8/Mon Jan 31 06:28:05 2011//Tnetbsd-6-1-5-RELEASE
+/smdk2800var.h/1.2/Wed Mar 16 05:02:12 2005//Tnetbsd-6-1-5-RELEASE
+D

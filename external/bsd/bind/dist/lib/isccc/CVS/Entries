@@ -1,0 +1,13 @@
+/Makefile.in/1.1.1.7.4.1/Wed Jun  6 18:18:30 2012//Tnetbsd-6-1-5-RELEASE
+/alist.c/1.2.6.1/Tue Jun  5 21:15:26 2012//Tnetbsd-6-1-5-RELEASE
+/api/1.1.1.4.4.2/Sat Dec 15 05:40:12 2012//Tnetbsd-6-1-5-RELEASE
+/base64.c/1.2.6.1/Tue Jun  5 21:15:26 2012//Tnetbsd-6-1-5-RELEASE
+/cc.c/1.2.6.2/Sat Dec 15 05:40:12 2012//Tnetbsd-6-1-5-RELEASE
+/ccmsg.c/1.2.6.1/Tue Jun  5 21:15:26 2012//Tnetbsd-6-1-5-RELEASE
+/lib.c/1.2.6.1/Tue Jun  5 21:15:26 2012//Tnetbsd-6-1-5-RELEASE
+/result.c/1.2.6.1/Tue Jun  5 21:15:26 2012//Tnetbsd-6-1-5-RELEASE
+/sexpr.c/1.2.6.1/Tue Jun  5 21:15:26 2012//Tnetbsd-6-1-5-RELEASE
+/symtab.c/1.2.6.1/Tue Jun  5 21:15:26 2012//Tnetbsd-6-1-5-RELEASE
+/version.c/1.2.6.1/Tue Jun  5 21:15:26 2012//Tnetbsd-6-1-5-RELEASE
+D/include////
+D/win32////

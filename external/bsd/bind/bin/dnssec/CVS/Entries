@@ -1,0 +1,9 @@
+/Makefile/1.2.8.1/Sat Dec 15 05:39:18 2012//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.1/Sun Apr 12 03:46:05 2009//Tnetbsd-6-1-5-RELEASE
+D/dnssec-dsfromkey////
+D/dnssec-keyfromlabel////
+D/dnssec-keygen////
+D/dnssec-revoke////
+D/dnssec-settime////
+D/dnssec-signzone////
+D/dnssec-verify////

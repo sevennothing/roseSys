@@ -1,0 +1,22 @@
+/adddi3.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/ashlsi3.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/ashlsi3.c/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/ashrsi3.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/ashrsi3.c/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/clzsi2.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/cmpsi2.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/divmod15.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/divmodhi4.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/divmodsi4.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/fake_libgcc.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/longjmp.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/lshrsi3.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/lshrsi3.c/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/parityhi2.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/popcounthi2.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/setjmp.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/subdi3.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/ucmpsi2.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/udivmodhi4.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+/udivmodsi4.asm/1.1.1.1/Tue Jun 21 01:22:23 2011//Tnetbsd-6-1-5-RELEASE
+D

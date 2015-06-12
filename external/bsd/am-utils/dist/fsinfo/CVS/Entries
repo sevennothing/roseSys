@@ -1,0 +1,19 @@
+/.cvsignore/1.1.1.1/Fri Sep 19 20:07:21 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.am/1.1.1.1/Fri Sep 19 20:07:21 2008//Tnetbsd-6-1-5-RELEASE
+/fsi_analyze.c/1.1.1.2/Fri Mar 20 20:26:55 2009//Tnetbsd-6-1-5-RELEASE
+/fsi_data.h/1.1.1.2/Fri Mar 20 20:26:55 2009//Tnetbsd-6-1-5-RELEASE
+/fsi_dict.c/1.1.1.2/Fri Mar 20 20:26:55 2009//Tnetbsd-6-1-5-RELEASE
+/fsi_gram.y/1.1.1.2/Fri Mar 20 20:26:55 2009//Tnetbsd-6-1-5-RELEASE
+/fsi_lex.l/1.4/Wed Jun 22 03:58:52 2011//Tnetbsd-6-1-5-RELEASE
+/fsi_util.c/1.1.1.2/Fri Mar 20 20:26:55 2009//Tnetbsd-6-1-5-RELEASE
+/fsinfo.8/1.1.1.2/Fri Mar 20 20:26:55 2009//Tnetbsd-6-1-5-RELEASE
+/fsinfo.c/1.1.1.2/Fri Mar 20 20:26:55 2009//Tnetbsd-6-1-5-RELEASE
+/fsinfo.h/1.1.1.2/Fri Mar 20 20:26:55 2009//Tnetbsd-6-1-5-RELEASE
+/null_gram.y/1.1.1.1/Fri Sep 19 20:07:21 2008//Tnetbsd-6-1-5-RELEASE
+/null_lex.l/1.1.1.1/Fri Sep 19 20:07:21 2008//Tnetbsd-6-1-5-RELEASE
+/wr_atab.c/1.1.1.2/Fri Mar 20 20:26:55 2009//Tnetbsd-6-1-5-RELEASE
+/wr_bparam.c/1.1.1.2/Fri Mar 20 20:26:55 2009//Tnetbsd-6-1-5-RELEASE
+/wr_dumpset.c/1.1.1.2/Fri Mar 20 20:26:55 2009//Tnetbsd-6-1-5-RELEASE
+/wr_exportfs.c/1.1.1.2/Fri Mar 20 20:26:55 2009//Tnetbsd-6-1-5-RELEASE
+/wr_fstab.c/1.1.1.2/Fri Mar 20 20:26:55 2009//Tnetbsd-6-1-5-RELEASE
+D

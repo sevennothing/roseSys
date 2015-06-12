@@ -1,0 +1,27 @@
+/Makefile.podules/1.2/Sun Oct 19 22:05:23 2008//Tnetbsd-6-1-5-RELEASE
+/acemidi.c/1.14/Fri Mar 14 15:09:11 2008//Tnetbsd-6-1-5-RELEASE
+/acemidireg.h/1.1/Sat Apr 14 20:39:23 2001//Tnetbsd-6-1-5-RELEASE
+/dtide.c/1.25/Tue Mar 18 20:46:37 2008//Tnetbsd-6-1-5-RELEASE
+/dtidereg.h/1.4/Sun Dec 11 12:23:28 2005//Tnetbsd-6-1-5-RELEASE
+/files.podulebus/1.17/Sun Oct  1 12:39:35 2006//Tnetbsd-6-1-5-RELEASE
+/hcide.c/1.22/Tue Mar 18 20:46:37 2008//Tnetbsd-6-1-5-RELEASE
+/hcidereg.h/1.1/Wed Jun 13 18:31:43 2001//Tnetbsd-6-1-5-RELEASE
+/hcsc.c/1.20/Sun Oct 18 18:14:00 2009//Tnetbsd-6-1-5-RELEASE
+/hcscreg.h/1.1/Sat Jun  2 20:13:51 2001//Tnetbsd-6-1-5-RELEASE
+/if_ea.c/1.16/Tue May 12 14:42:58 2009//Tnetbsd-6-1-5-RELEASE
+/if_eareg.h/1.3/Fri Jun 15 00:28:01 2001//Tnetbsd-6-1-5-RELEASE
+/if_eb.c/1.14/Tue May 12 14:42:58 2009//Tnetbsd-6-1-5-RELEASE
+/if_ebreg.h/1.1/Sun Mar 25 01:09:36 2001//Tnetbsd-6-1-5-RELEASE
+/if_ei.c/1.17/Fri Jun  3 16:28:40 2011//Tnetbsd-6-1-5-RELEASE
+/if_eireg.h/1.4/Sun Dec 11 12:23:28 2005//Tnetbsd-6-1-5-RELEASE
+/oak.c/1.19/Mon Apr 28 20:23:56 2008//Tnetbsd-6-1-5-RELEASE
+/oakreg.h/1.1/Tue Dec  4 18:40:14 2001//Tnetbsd-6-1-5-RELEASE
+/podule_data.h/1.16/Sun Dec 11 12:23:28 2005//Tnetbsd-6-1-5-RELEASE
+/podulebus.h/1.8/Sun Dec 11 12:23:28 2005//Tnetbsd-6-1-5-RELEASE
+/podulelist2h.awk/1.4/Sun Dec 11 12:23:28 2005//Tnetbsd-6-1-5-RELEASE
+/podules/1.18/Wed Jan 21 14:31:04 2009//Tnetbsd-6-1-5-RELEASE
+/podules.h/1.16/Sun Dec 11 12:23:28 2005//Tnetbsd-6-1-5-RELEASE
+/powerromreg.h/1.1/Wed Jul  4 15:01:08 2001//Tnetbsd-6-1-5-RELEASE
+/sec.c/1.15/Mon May 11 20:13:49 2009//Tnetbsd-6-1-5-RELEASE
+/secreg.h/1.1/Sun Oct  1 12:39:35 2006//Tnetbsd-6-1-5-RELEASE
+D

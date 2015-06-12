@@ -1,0 +1,23 @@
+/host1.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-6-1-5-RELEASE
+/irq1.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-6-1-5-RELEASE
+/irq2.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-6-1-5-RELEASE
+/irq3.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-6-1-5-RELEASE
+/irq4.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-6-1-5-RELEASE
+/irq5.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-6-1-5-RELEASE
+/irq6.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-6-1-5-RELEASE
+/mbox1.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-6-1-5-RELEASE
+/mem1.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-6-1-5-RELEASE
+/mem2.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-6-1-5-RELEASE
+/poll1.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-6-1-5-RELEASE
+/quit.s/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-6-1-5-RELEASE
+/rvc.exp/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-6-1-5-RELEASE
+/std.dev/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-6-1-5-RELEASE
+/testutils.inc/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-6-1-5-RELEASE
+/trivial1.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-6-1-5-RELEASE
+/trivial2.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-6-1-5-RELEASE
+/trivial3.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-6-1-5-RELEASE
+/trivial4.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-6-1-5-RELEASE
+/trivial4.r/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-6-1-5-RELEASE
+/trivial5.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-6-1-5-RELEASE
+/wd1.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-6-1-5-RELEASE
+D

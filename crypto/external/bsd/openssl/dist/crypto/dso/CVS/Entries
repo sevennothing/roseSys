@@ -1,0 +1,13 @@
+/Makefile/1.1.1.2.4.1/Tue Aug 14 07:56:22 2012//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.1/Sun Jul 19 23:03:43 2009//Tnetbsd-6-1-5-RELEASE
+/dso.h/1.1.1.1/Sun Jul 19 23:03:44 2009//Tnetbsd-6-1-5-RELEASE
+/dso_beos.c/1.1.1.1/Sun Jul 19 23:03:43 2009//Tnetbsd-6-1-5-RELEASE
+/dso_dl.c/1.1.1.1/Sun Jul 19 23:03:44 2009//Tnetbsd-6-1-5-RELEASE
+/dso_dlfcn.c/1.5.4.1.6.1/Fri Jun  6 05:20:05 2014//Tnetbsd-6-1-5-RELEASE
+/dso_err.c/1.1.1.1/Sun Jul 19 23:03:44 2009//Tnetbsd-6-1-5-RELEASE
+/dso_lib.c/1.1.1.1/Sun Jul 19 23:03:44 2009//Tnetbsd-6-1-5-RELEASE
+/dso_null.c/1.1.1.1/Sun Jul 19 23:03:44 2009//Tnetbsd-6-1-5-RELEASE
+/dso_openssl.c/1.1.1.1/Sun Jul 19 23:03:44 2009//Tnetbsd-6-1-5-RELEASE
+/dso_vms.c/1.1.1.2.4.1.6.1/Fri Jun  6 05:20:05 2014//Tnetbsd-6-1-5-RELEASE
+/dso_win32.c/1.1.1.2/Wed Aug  5 18:32:17 2009//Tnetbsd-6-1-5-RELEASE
+D

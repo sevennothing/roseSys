@@ -1,0 +1,13 @@
+/Makefile.am/1.1.1.1/Sat Sep 24 20:15:31 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.1/Sat Sep 24 20:15:32 2011//Tnetbsd-6-1-5-RELEASE
+/dummy.c/1.1.1.1/Sat Sep 24 20:15:32 2011//Tnetbsd-6-1-5-RELEASE
+/memchr.c/1.1.1.1/Sat Sep 24 20:15:32 2011//Tnetbsd-6-1-5-RELEASE
+/memchr.valgrind/1.1.1.1/Sat Sep 24 20:15:31 2011//Tnetbsd-6-1-5-RELEASE
+/memmem.c/1.1.1.1/Sat Sep 24 20:15:32 2011//Tnetbsd-6-1-5-RELEASE
+/stddef.in.h/1.1.1.1/Sat Sep 24 20:15:32 2011//Tnetbsd-6-1-5-RELEASE
+/stdint.in.h/1.1.1.1/Sat Sep 24 20:15:32 2011//Tnetbsd-6-1-5-RELEASE
+/str-two-way.h/1.1.1.1/Sat Sep 24 20:15:32 2011//Tnetbsd-6-1-5-RELEASE
+/string.in.h/1.1.1.1/Sat Sep 24 20:15:33 2011//Tnetbsd-6-1-5-RELEASE
+/wchar.in.h/1.1.1.1/Sat Sep 24 20:15:33 2011//Tnetbsd-6-1-5-RELEASE
+D/extra////
+D/m4////

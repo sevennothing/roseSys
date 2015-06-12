@@ -1,0 +1,10 @@
+/ahc_isa.c/1.39/Fri Jul  1 18:11:24 2011//Tnetbsd-6-1-5-RELEASE
+/cmos.c/1.9/Fri Jul  1 18:11:24 2011//Tnetbsd-6-1-5-RELEASE
+/isapnp_machdep.c/1.17/Fri Jul  1 18:11:24 2011//Tnetbsd-6-1-5-RELEASE
+/lms.c/1.56/Fri Jul  1 18:11:24 2011//Tnetbsd-6-1-5-RELEASE
+/mms.c/1.53/Fri Jul  1 18:11:24 2011//Tnetbsd-6-1-5-RELEASE
+/npx.c/1.143/Thu Aug 11 18:36:13 2011//Tnetbsd-6-1-5-RELEASE
+/npx_isa.c/1.22/Fri Jul  1 18:11:24 2011//Tnetbsd-6-1-5-RELEASE
+/npxvar.h/1.8/Tue Mar  4 14:53:38 2008//Tnetbsd-6-1-5-RELEASE
+/nvram.h/1.8/Sun Dec 11 12:17:43 2005//Tnetbsd-6-1-5-RELEASE
+D

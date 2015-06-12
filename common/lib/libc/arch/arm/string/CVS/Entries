@@ -1,0 +1,10 @@
+/ffs.S/1.2/Sun Jul  3 07:13:31 2011//Tnetbsd-6-1-5-RELEASE
+/memcmp.S/1.1/Tue Dec 20 19:28:49 2005//Tnetbsd-6-1-5-RELEASE
+/memcpy.S/1.1/Tue Dec 20 19:28:49 2005//Tnetbsd-6-1-5-RELEASE
+/memcpy_arm.S/1.2/Mon Apr 28 20:22:52 2008//Tnetbsd-6-1-5-RELEASE
+/memcpy_xscale.S/1.2/Thu Jun 21 21:37:04 2007//Tnetbsd-6-1-5-RELEASE
+/memmove.S/1.3/Mon Apr 28 20:22:52 2008//Tnetbsd-6-1-5-RELEASE
+/memset.S/1.1/Tue Dec 20 19:28:49 2005//Tnetbsd-6-1-5-RELEASE
+/strcmp.S/1.1/Tue Dec 20 19:28:49 2005//Tnetbsd-6-1-5-RELEASE
+/strncmp.S/1.1/Tue Dec 20 19:28:49 2005//Tnetbsd-6-1-5-RELEASE
+D

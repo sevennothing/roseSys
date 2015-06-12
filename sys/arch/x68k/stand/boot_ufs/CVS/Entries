@@ -1,0 +1,11 @@
+/Makefile/1.26/Tue Oct 11 13:07:06 2011//Tnetbsd-6-1-5-RELEASE
+/boot.S/1.9.10.1/Sat Nov 24 20:20:24 2012//Tnetbsd-6-1-5-RELEASE
+/boot_ufs.h/1.5/Sat Mar 14 14:46:07 2009//Tnetbsd-6-1-5-RELEASE
+/boot_ufs.ldscript/1.2/Sat Nov 24 16:18:44 2001//Tnetbsd-6-1-5-RELEASE
+/bootmain.c/1.13/Sat Jul 17 06:27:03 2010//Tnetbsd-6-1-5-RELEASE
+/readufs.c/1.14/Mon Feb 21 02:31:58 2011//Tnetbsd-6-1-5-RELEASE
+/readufs.h/1.10/Mon Feb 21 02:31:58 2011//Tnetbsd-6-1-5-RELEASE
+/readufs_ffs.c/1.13/Mon Feb 21 02:31:58 2011//Tnetbsd-6-1-5-RELEASE
+/readufs_lfs.c/1.12/Mon Feb 21 02:31:58 2011//Tnetbsd-6-1-5-RELEASE
+/version/1.2/Sun Mar 17 16:14:31 2002//Tnetbsd-6-1-5-RELEASE
+D

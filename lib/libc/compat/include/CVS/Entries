@@ -1,0 +1,22 @@
+/aio.h/1.2/Sun Jan 11 02:46:25 2009//Tnetbsd-6-1-5-RELEASE
+/dirent.h/1.7/Tue Feb 24 18:42:36 2009//Tnetbsd-6-1-5-RELEASE
+/fstypes.h/1.4/Mon Apr 28 20:22:59 2008//Tnetbsd-6-1-5-RELEASE
+/fts.h/1.1/Tue Sep 13 01:44:09 2005//Tnetbsd-6-1-5-RELEASE
+/glob.h/1.1/Tue Sep 13 01:44:09 2005//Tnetbsd-6-1-5-RELEASE
+/locale.h/1.1/Mon Jun  7 13:52:30 2010//Tnetbsd-6-1-5-RELEASE
+/lwp.h/1.2/Sun Jan 11 02:46:25 2009//Tnetbsd-6-1-5-RELEASE
+/mqueue.h/1.2/Sun Jan 11 02:46:25 2009//Tnetbsd-6-1-5-RELEASE
+/ndbm.h/1.1/Tue Sep 13 01:44:09 2005//Tnetbsd-6-1-5-RELEASE
+/ns.h/1.1/Sat Aug 26 16:07:01 2006//Tnetbsd-6-1-5-RELEASE
+/pwd.h/1.2/Sun Jan 11 02:46:25 2009//Tnetbsd-6-1-5-RELEASE
+/setjmp.h/1.2/Sat Nov  5 09:27:06 2011//Tnetbsd-6-1-5-RELEASE
+/signal.h/1.2/Sun Jan 11 02:46:25 2009//Tnetbsd-6-1-5-RELEASE
+/stdio.h/1.1/Sun Jan 22 18:36:14 2012//Tnetbsd-6-1-5-RELEASE
+/stdlib.h/1.4.10.1/Mon May  7 16:47:22 2012//Tnetbsd-6-1-5-RELEASE
+/time.h/1.3/Thu Dec 16 18:38:06 2010//Tnetbsd-6-1-5-RELEASE
+/unistd.h/1.2/Mon Apr 28 20:22:59 2008//Tnetbsd-6-1-5-RELEASE
+/utime.h/1.2/Sun Jan 11 02:46:25 2009//Tnetbsd-6-1-5-RELEASE
+/utmp.h/1.2/Sun Jan 11 02:46:25 2009//Tnetbsd-6-1-5-RELEASE
+/utmpx.h/1.3/Sun Jan 11 02:46:25 2009//Tnetbsd-6-1-5-RELEASE
+/vis.h/1.2/Sat Mar 12 19:52:47 2011//Tnetbsd-6-1-5-RELEASE
+D/rpc////

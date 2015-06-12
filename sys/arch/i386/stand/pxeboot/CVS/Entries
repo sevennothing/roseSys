@@ -1,0 +1,14 @@
+/Makefile/1.21/Fri May 20 22:29:56 2011//Tnetbsd-6-1-5-RELEASE
+/conf.c/1.5/Sun Dec 11 12:17:49 2005//Tnetbsd-6-1-5-RELEASE
+/dev_net.c/1.11/Sun Jul 17 20:54:42 2011//Tnetbsd-6-1-5-RELEASE
+/dev_net.h/1.2/Sat Mar 14 14:46:00 2009//Tnetbsd-6-1-5-RELEASE
+/devopen.c/1.9/Mon Oct 26 19:16:56 2009//Tnetbsd-6-1-5-RELEASE
+/main.c/1.29/Thu May 26 04:25:27 2011//Tnetbsd-6-1-5-RELEASE
+/pxe.c/1.17/Sun Dec 13 23:01:42 2009//Tnetbsd-6-1-5-RELEASE
+/pxe.h/1.6/Wed Dec 22 20:46:42 2010//Tnetbsd-6-1-5-RELEASE
+/pxe_call.S/1.3/Sat Feb  1 14:48:19 2003//Tnetbsd-6-1-5-RELEASE
+/pxe_netif.h/1.2/Sun Dec 13 23:01:42 2009//Tnetbsd-6-1-5-RELEASE
+/pxeboot.h/1.1/Sat Feb 16 03:37:40 2002//Tnetbsd-6-1-5-RELEASE
+/start_pxe.S/1.6/Fri Mar 18 17:46:26 2011//Tnetbsd-6-1-5-RELEASE
+/version/1.3/Tue Jul 15 23:16:27 2008//Tnetbsd-6-1-5-RELEASE
+D

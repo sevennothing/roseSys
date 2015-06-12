@@ -1,0 +1,8 @@
+/Makefile/1.4/Sat May 10 19:11:59 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.buildboot/1.14/Sat Jan 22 19:19:17 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.8/Mon Jun 20 06:52:37 2011//Tnetbsd-6-1-5-RELEASE
+D/boot////
+D/cdboot////
+D/common////
+D/mkboot////
+D/xxboot////

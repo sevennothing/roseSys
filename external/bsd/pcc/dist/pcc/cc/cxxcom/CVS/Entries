@@ -1,0 +1,18 @@
+/Makefile.in/1.1.1.1.2.1/Tue Apr  3 16:36:22 2012//Tnetbsd-6-1-5-RELEASE
+/builtins.c/1.1.1.1.2.1/Tue Apr  3 16:36:22 2012//Tnetbsd-6-1-5-RELEASE
+/cgram.y/1.1.1.1/Wed Jan 11 20:33:17 2012//Tnetbsd-6-1-5-RELEASE
+/cxxcode.c/1.1.1.1/Wed Jan 11 20:33:18 2012//Tnetbsd-6-1-5-RELEASE
+/cxxdefs.h/1.1.1.1/Wed Jan 11 20:33:18 2012//Tnetbsd-6-1-5-RELEASE
+/gcc_compat.c/1.1.1.1.2.1/Tue Apr  3 16:36:22 2012//Tnetbsd-6-1-5-RELEASE
+/init.c/1.1.1.1.2.1/Tue Apr  3 16:36:22 2012//Tnetbsd-6-1-5-RELEASE
+/inline.c/1.1.1.1.2.1/Tue Apr  3 16:36:22 2012//Tnetbsd-6-1-5-RELEASE
+/main.c/1.1.1.1.2.1/Tue Apr  3 16:36:22 2012//Tnetbsd-6-1-5-RELEASE
+/optim.c/1.1.1.1.2.1/Tue Apr  3 16:36:22 2012//Tnetbsd-6-1-5-RELEASE
+/pass1.h/1.1.1.1.2.1/Tue Apr  3 16:36:22 2012//Tnetbsd-6-1-5-RELEASE
+/pftn.c/1.1.1.1.2.1/Tue Apr  3 16:36:22 2012//Tnetbsd-6-1-5-RELEASE
+/scan.l/1.1.1.1/Wed Jan 11 20:33:21 2012//Tnetbsd-6-1-5-RELEASE
+/softfloat.c/1.1.1.1/Wed Jan 11 20:33:21 2012//Tnetbsd-6-1-5-RELEASE
+/stabs.c/1.1.1.1.2.1/Tue Apr  3 16:36:22 2012//Tnetbsd-6-1-5-RELEASE
+/symtabs.c/1.1.1.1/Wed Jan 11 20:33:22 2012//Tnetbsd-6-1-5-RELEASE
+/trees.c/1.1.1.1.2.1/Tue Apr  3 16:36:22 2012//Tnetbsd-6-1-5-RELEASE
+D

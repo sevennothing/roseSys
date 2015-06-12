@@ -1,0 +1,47 @@
+/20090107-1.C/1.1.1.1/Tue Jun 21 01:22:59 2011//Tnetbsd-6-1-5-RELEASE
+/20090121-1.C/1.1.1.1/Tue Jun 21 01:22:59 2011//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.1/Tue Jun 21 01:22:59 2011//Tnetbsd-6-1-5-RELEASE
+/cdce3.C/1.1.1.1/Tue Jun 21 01:22:59 2011//Tnetbsd-6-1-5-RELEASE
+/dg.exp/1.1.1.1/Tue Jun 21 01:22:59 2011//Tnetbsd-6-1-5-RELEASE
+/func-args-1.C/1.1.1.1/Tue Jun 21 01:22:59 2011//Tnetbsd-6-1-5-RELEASE
+/pr37742.C/1.1.1.1/Tue Jun 21 01:22:59 2011//Tnetbsd-6-1-5-RELEASE
+/pr44328.C/1.1.1.1/Tue Jun 21 01:22:59 2011//Tnetbsd-6-1-5-RELEASE
+/pr45112.C/1.1.1.1/Tue Jun 21 01:22:59 2011//Tnetbsd-6-1-5-RELEASE
+/pr47589.C/1.1.1.1/Tue Jun 21 01:22:59 2011//Tnetbsd-6-1-5-RELEASE
+/pubtypes.C/1.1.1.1/Tue Jun 21 01:22:59 2011//Tnetbsd-6-1-5-RELEASE
+D/abi////
+D/bprob////
+D/charset////
+D/compat////
+D/conversion////
+D/cpp////
+D/cpp0x////
+D/debug////
+D/dfp////
+D/eh////
+D/expr////
+D/ext////
+D/gcov////
+D/gomp////
+D/graphite////
+D/inherit////
+D/init////
+D/ipa////
+D/lookup////
+D/lto////
+D/opt////
+D/other////
+D/overload////
+D/parse////
+D/pch////
+D/plugin////
+D/rtti////
+D/special////
+D/tc1////
+D/template////
+D/tls////
+D/torture////
+D/tree-prof////
+D/tree-ssa////
+D/vect////
+D/warn////

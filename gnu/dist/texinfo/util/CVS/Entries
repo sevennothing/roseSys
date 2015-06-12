@@ -1,0 +1,27 @@
+/Makefile.am/1.1.1.7/Tue Sep  2 07:50:57 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.10/Tue Sep  2 08:00:24 2008//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.6/Tue Sep  2 07:50:53 2008//Tnetbsd-6-1-5-RELEASE
+/deref.c/1.1.1.3/Fri Jan 17 14:54:37 2003//Tnetbsd-6-1-5-RELEASE
+/dir-example/1.1.1.5/Tue Sep  2 07:51:01 2008//Tnetbsd-6-1-5-RELEASE
+/fix-info-dir/1.1.1.2/Thu Feb 13 08:50:57 2003//Tnetbsd-6-1-5-RELEASE
+/fixfonts/1.1.1.1/Thu Feb 11 03:57:24 1999//Tnetbsd-6-1-5-RELEASE
+/fixref.gawk/1.1.1.1/Wed Jul 25 16:21:23 2001//Tnetbsd-6-1-5-RELEASE
+/gdoc/1.1.1.1/Mon Jul 12 23:26:46 2004//Tnetbsd-6-1-5-RELEASE
+/gen-dir-node/1.1.1.6/Tue Sep  2 07:51:04 2008//Tnetbsd-6-1-5-RELEASE
+/gendocs.sh/1.1.1.2/Tue Sep  2 07:51:04 2008//Tnetbsd-6-1-5-RELEASE
+/gendocs_template/1.1.1.2/Tue Sep  2 07:50:57 2008//Tnetbsd-6-1-5-RELEASE
+/infosrch/1.1.1.3/Tue Sep  2 07:51:04 2008//Tnetbsd-6-1-5-RELEASE
+/install-info-html/1.1.1.4/Tue Sep  2 07:51:06 2008//Tnetbsd-6-1-5-RELEASE
+/install-info.c/1.9/Tue Sep  2 08:00:24 2008//Tnetbsd-6-1-5-RELEASE
+/outline.gawk/1.1.1.1/Wed Jul 25 16:21:23 2001//Tnetbsd-6-1-5-RELEASE
+/prepinfo.awk/1.1.1.1/Wed Jul 25 16:21:23 2001//Tnetbsd-6-1-5-RELEASE
+/tex3patch/1.1.1.2/Thu Feb 13 08:50:57 2003//Tnetbsd-6-1-5-RELEASE
+/texi-docstring-magic.el/1.1.1.4/Tue Sep  2 07:51:08 2008//Tnetbsd-6-1-5-RELEASE
+/texi2dvi/1.9/Tue Sep  2 08:00:24 2008//Tnetbsd-6-1-5-RELEASE
+/texi2pdf/1.1.1.1/Tue Sep  2 07:51:08 2008//Tnetbsd-6-1-5-RELEASE
+/texindex.c/1.11/Tue Sep  2 08:00:24 2008//Tnetbsd-6-1-5-RELEASE
+/texinfo-cat.in/1.1.1.1/Mon Jul 12 23:26:46 2004//Tnetbsd-6-1-5-RELEASE
+/texinfo.dtd/1.1.1.2/Tue Sep  2 07:50:53 2008//Tnetbsd-6-1-5-RELEASE
+/texinfo.xsl/1.1.1.2/Tue Sep  2 07:50:57 2008//Tnetbsd-6-1-5-RELEASE
+/txitextest/1.1.1.3/Tue Sep  2 07:51:04 2008//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,7 @@
+/fpgetmask.S/1.4/Sat Aug 21 11:21:00 2004//Tnetbsd-6-1-5-RELEASE
+/fpgetround.c/1.4/Sat Feb 25 02:28:55 2006//Tnetbsd-6-1-5-RELEASE
+/fpgetsticky.S/1.4/Sat Aug 21 11:21:00 2004//Tnetbsd-6-1-5-RELEASE
+/fpsetmask.S/1.4/Sat Aug 21 11:21:00 2004//Tnetbsd-6-1-5-RELEASE
+/fpsetround.c/1.6/Sat Feb 25 02:28:55 2006//Tnetbsd-6-1-5-RELEASE
+/fpsetsticky.S/1.4/Sat Aug 21 11:21:00 2004//Tnetbsd-6-1-5-RELEASE
+D

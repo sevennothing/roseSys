@@ -1,0 +1,12 @@
+/Makefile/1.1.1.1.8.1/Tue Aug 14 07:56:14 2012//Tnetbsd-6-1-5-RELEASE
+/camellia.c/1.1.1.1/Sun Jul 19 23:03:23 2009//Tnetbsd-6-1-5-RELEASE
+/camellia.h/1.1.1.1.8.1/Tue Aug 14 07:56:14 2012//Tnetbsd-6-1-5-RELEASE
+/cmll_cbc.c/1.1.1.1/Sun Jul 19 23:03:23 2009//Tnetbsd-6-1-5-RELEASE
+/cmll_cfb.c/1.1.1.1/Sun Jul 19 23:03:23 2009//Tnetbsd-6-1-5-RELEASE
+/cmll_ctr.c/1.1.1.1/Sun Jul 19 23:03:23 2009//Tnetbsd-6-1-5-RELEASE
+/cmll_ecb.c/1.1.1.1/Sun Jul 19 23:03:23 2009//Tnetbsd-6-1-5-RELEASE
+/cmll_locl.h/1.1.1.1.8.1/Tue Aug 14 07:56:14 2012//Tnetbsd-6-1-5-RELEASE
+/cmll_misc.c/1.1.1.1.8.1/Tue Aug 14 07:56:15 2012//Tnetbsd-6-1-5-RELEASE
+/cmll_ofb.c/1.1.1.1/Sun Jul 19 23:03:23 2009//Tnetbsd-6-1-5-RELEASE
+/cmll_utl.c/1.1.1.1.2.2/Tue Aug 14 07:56:15 2012//Tnetbsd-6-1-5-RELEASE
+D/asm////

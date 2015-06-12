@@ -1,0 +1,13 @@
+/compat.exp/1.1.1.1/Tue Jun 21 01:23:00 2011//Tnetbsd-6-1-5-RELEASE
+/struct-layout-1.exp/1.1.1.1/Tue Jun 21 01:23:00 2011//Tnetbsd-6-1-5-RELEASE
+/struct-layout-1.h/1.1.1.1/Tue Jun 21 01:23:00 2011//Tnetbsd-6-1-5-RELEASE
+/struct-layout-1_generate.c/1.1.1.1/Tue Jun 21 01:23:00 2011//Tnetbsd-6-1-5-RELEASE
+/struct-layout-1_x1.h/1.1.1.1/Tue Jun 21 01:23:00 2011//Tnetbsd-6-1-5-RELEASE
+/struct-layout-1_x2.h/1.1.1.1/Tue Jun 21 01:23:00 2011//Tnetbsd-6-1-5-RELEASE
+/struct-layout-1_y1.h/1.1.1.1/Tue Jun 21 01:23:00 2011//Tnetbsd-6-1-5-RELEASE
+/struct-layout-1_y2.h/1.1.1.1/Tue Jun 21 01:23:00 2011//Tnetbsd-6-1-5-RELEASE
+D/abi////
+D/break////
+D/decimal////
+D/eh////
+D/init////

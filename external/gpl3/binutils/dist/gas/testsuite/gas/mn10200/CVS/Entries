@@ -1,0 +1,20 @@
+/add.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/basic.exp/1.1.1.2/Sat Sep 24 22:27:38 2011//Tnetbsd-6-1-5-RELEASE
+/bcc.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/bccx.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/bit.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/cmp.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/ext.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/logical.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/mov1.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/mov2.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/mov3.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/mov4.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/movb.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/movbu.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/movx.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/muldiv.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/other.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/shift.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+/sub.s/1.1.1.1/Tue Aug 18 09:44:59 2009//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,22 @@
+/Makefile.am/1.3/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.6/Fri Oct  7 20:22:59 2011//Tnetbsd-6-1-5-RELEASE
+/addr2line.1/1.3/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/ar.1/1.4/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/binutils.info/1.3/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/binutils.texi/1.4/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/cxxfilt.man/1.3/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/dlltool.1/1.3/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/elfedit.1/1.2/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/fdl.texi/1.1.1.2/Sat Sep 24 22:41:00 2011//Tnetbsd-6-1-5-RELEASE
+/nlmconv.1/1.3/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/nm.1/1.3/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/objcopy.1/1.3/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/objdump.1/1.3/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/ranlib.1/1.3/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/readelf.1/1.3/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/size.1/1.3/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/strings.1/1.4/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/strip.1/1.3/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/windmc.1/1.3/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+/windres.1/1.3/Sun Sep 25 04:32:36 2011//Tnetbsd-6-1-5-RELEASE
+D

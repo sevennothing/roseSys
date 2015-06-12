@@ -1,0 +1,8 @@
+/files.ofw/1.1/Wed Feb  6 21:30:25 2002//Tnetbsd-6-1-5-RELEASE
+/files.ofwgencfg/1.1/Wed Feb  6 21:30:26 2002//Tnetbsd-6-1-5-RELEASE
+/ofw_irq.S/1.12/Mon Dec 20 00:25:28 2010//Tnetbsd-6-1-5-RELEASE
+/ofw_irqhandler.c/1.18/Mon Dec 20 00:25:28 2010//Tnetbsd-6-1-5-RELEASE
+/ofwgencfg_clock.c/1.10/Wed Mar 18 10:22:24 2009//Tnetbsd-6-1-5-RELEASE
+/ofwgencfg_machdep.c/1.18/Mon Jun  6 16:29:14 2011//Tnetbsd-6-1-5-RELEASE
+/openfirm.c/1.10/Tue Jan 31 04:32:07 2012//Tnetbsd-6-1-5-RELEASE
+D

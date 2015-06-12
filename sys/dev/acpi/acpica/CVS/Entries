@@ -1,0 +1,12 @@
+/OsdEnvironment.c/1.6/Sun Jun 12 11:31:31 2011//Tnetbsd-6-1-5-RELEASE
+/OsdHardware.c/1.8/Thu Feb 17 10:23:43 2011//Tnetbsd-6-1-5-RELEASE
+/OsdInterrupt.c/1.8/Tue Aug 18 16:41:02 2009//Tnetbsd-6-1-5-RELEASE
+/OsdMemory.c/1.4/Thu Feb 17 10:21:43 2011//Tnetbsd-6-1-5-RELEASE
+/OsdMisc.c/1.12/Tue Jun 28 09:09:43 2011//Tnetbsd-6-1-5-RELEASE
+/OsdSchedule.c/1.16/Thu Feb 17 10:35:50 2011//Tnetbsd-6-1-5-RELEASE
+/OsdStream.c/1.1/Thu Mar 23 13:41:13 2006//Tnetbsd-6-1-5-RELEASE
+/OsdSynch.c/1.13/Tue Aug 18 16:41:02 2009//Tnetbsd-6-1-5-RELEASE
+/README/1.4/Sat Jul 24 06:10:43 2010//Tnetbsd-6-1-5-RELEASE
+/acpi_func.h/1.4/Sat Jul 24 21:53:54 2010//Tnetbsd-6-1-5-RELEASE
+/files.acpica/1.15/Thu Feb 17 07:34:42 2011//Tnetbsd-6-1-5-RELEASE
+D

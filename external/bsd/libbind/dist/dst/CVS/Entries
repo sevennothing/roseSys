@@ -1,0 +1,9 @@
+/Makefile.in/1.1.1.1/Sun Apr 12 15:33:32 2009//Tnetbsd-6-1-5-RELEASE
+/dst_api.c/1.1.1.1/Sun Apr 12 15:33:31 2009//Tnetbsd-6-1-5-RELEASE
+/dst_internal.h/1.1.1.1/Sun Apr 12 15:33:31 2009//Tnetbsd-6-1-5-RELEASE
+/hmac_link.c/1.1.1.1/Sun Apr 12 15:33:32 2009//Tnetbsd-6-1-5-RELEASE
+/md5.h/1.1.1.1/Sun Apr 12 15:33:31 2009//Tnetbsd-6-1-5-RELEASE
+/md5_dgst.c/1.1.1.1/Sun Apr 12 15:33:31 2009//Tnetbsd-6-1-5-RELEASE
+/md5_locl.h/1.1.1.1/Sun Apr 12 15:33:31 2009//Tnetbsd-6-1-5-RELEASE
+/support.c/1.1.1.1/Sun Apr 12 15:33:31 2009//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,19 @@
+/ad.arm/1.1/Mon Sep  7 02:27:28 2009//Tnetbsd-6-1-5-RELEASE
+/ad.hppa/1.1/Mon Sep  7 02:27:29 2009//Tnetbsd-6-1-5-RELEASE
+/ad.m68k/1.2/Fri Oct 15 12:20:33 2010//Tnetbsd-6-1-5-RELEASE
+/ad.mips64eb/1.1/Tue Dec 15 05:59:51 2009//Tnetbsd-6-1-5-RELEASE
+/ad.mips64el/1.1/Tue Dec 15 05:59:51 2009//Tnetbsd-6-1-5-RELEASE
+/ad.mipseb/1.1/Mon Sep  7 02:27:29 2009//Tnetbsd-6-1-5-RELEASE
+/ad.mipsel/1.1/Mon Sep  7 02:27:29 2009//Tnetbsd-6-1-5-RELEASE
+/ad.powerpc/1.1/Mon Sep  7 02:27:29 2009//Tnetbsd-6-1-5-RELEASE
+/ad.sh3/1.1/Mon Sep  7 02:27:29 2009//Tnetbsd-6-1-5-RELEASE
+/md.alpha/1.1/Mon Sep  7 02:27:29 2009//Tnetbsd-6-1-5-RELEASE
+/md.amd64/1.32/Tue Jan 17 16:59:37 2012//Tnetbsd-6-1-5-RELEASE
+/md.evbppc/1.18.2.2/Sat Dec 15 23:45:56 2012//Tnetbsd-6-1-5-RELEASE
+/md.i386/1.38/Tue Jan 17 16:59:38 2012//Tnetbsd-6-1-5-RELEASE
+/md.ia64/1.1/Mon May 31 20:32:28 2010//Tnetbsd-6-1-5-RELEASE
+/md.sparc/1.1/Mon Sep  7 02:27:29 2009//Tnetbsd-6-1-5-RELEASE
+/md.sparc64/1.2/Thu Aug 11 12:03:58 2011//Tnetbsd-6-1-5-RELEASE
+/md.vax/1.1/Mon Sep  7 02:27:29 2009//Tnetbsd-6-1-5-RELEASE
+/mi/1.39.2.2/Sat Dec 15 23:45:56 2012//Tnetbsd-6-1-5-RELEASE
+D

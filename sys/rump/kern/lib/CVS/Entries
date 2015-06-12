@@ -1,0 +1,7 @@
+/Makefile/1.4/Sun Dec  5 16:27:42 2010//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.1/Thu Jun 10 21:56:42 2010//Tnetbsd-6-1-5-RELEASE
+D/libcrypto////
+D/libksem////
+D/libsolaris////
+D/libtty////
+D/libz////

@@ -1,0 +1,22 @@
+/Makefile/1.4/Sat Jan 22 19:19:19 2011//Tnetbsd-6-1-5-RELEASE
+/acpi_stub.c/1.6/Wed Nov 11 05:19:34 2009//Tnetbsd-6-1-5-RELEASE
+/bootinfo.c/1.3/Mon Jul 20 04:59:04 2009//Tnetbsd-6-1-5-RELEASE
+/conf.c/1.2/Mon Jul 20 04:59:04 2009//Tnetbsd-6-1-5-RELEASE
+/copy.c/1.4/Mon Oct 26 19:16:56 2009//Tnetbsd-6-1-5-RELEASE
+/delay.c/1.2/Sat Apr 22 07:58:53 2006//Tnetbsd-6-1-5-RELEASE
+/devicename.c/1.3/Mon Jul 20 04:59:04 2009//Tnetbsd-6-1-5-RELEASE
+/efi_stub.c/1.3/Mon Jul 20 04:59:04 2009//Tnetbsd-6-1-5-RELEASE
+/exec.c/1.5/Wed Mar 18 16:00:12 2009//Tnetbsd-6-1-5-RELEASE
+/exit.c/1.3/Mon Jul 20 04:59:04 2009//Tnetbsd-6-1-5-RELEASE
+/ldscript.ia64/1.1/Fri Apr  7 14:21:32 2006//Tnetbsd-6-1-5-RELEASE
+/libski.h/1.2/Sat Apr 22 07:58:53 2006//Tnetbsd-6-1-5-RELEASE
+/main.c/1.3/Sat Jan 22 19:19:19 2011//Tnetbsd-6-1-5-RELEASE
+/pal_stub.S/1.2/Sat Apr 22 07:58:53 2006//Tnetbsd-6-1-5-RELEASE
+/sal_stub.c/1.3/Mon Jul 20 04:59:04 2009//Tnetbsd-6-1-5-RELEASE
+/skiconsole.c/1.4/Mon Jul 20 04:59:04 2009//Tnetbsd-6-1-5-RELEASE
+/skifs.c/1.4/Mon Jul 20 04:59:04 2009//Tnetbsd-6-1-5-RELEASE
+/ssc.c/1.3/Mon Jul 20 04:59:04 2009//Tnetbsd-6-1-5-RELEASE
+/start.S/1.2/Sat Apr 22 07:58:53 2006//Tnetbsd-6-1-5-RELEASE
+/time.c/1.3/Mon Jul 20 04:59:04 2009//Tnetbsd-6-1-5-RELEASE
+/version/1.2/Sat Apr 22 07:58:53 2006//Tnetbsd-6-1-5-RELEASE
+D

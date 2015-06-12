@@ -1,0 +1,10 @@
+/Makefile.in/1.1.1.1.2.2/Sat Dec 15 05:39:43 2012//Tnetbsd-6-1-5-RELEASE
+/bigkey.c/1.2.2.2/Sat Dec 15 05:39:44 2012//Tnetbsd-6-1-5-RELEASE
+/clean.sh/1.1.1.1.2.2/Sat Dec 15 05:39:44 2012//Tnetbsd-6-1-5-RELEASE
+/prereq.sh/1.1.1.1.2.2/Sat Dec 15 05:39:44 2012//Tnetbsd-6-1-5-RELEASE
+/setup.sh/1.1.1.1.2.2/Sat Dec 15 05:39:44 2012//Tnetbsd-6-1-5-RELEASE
+/tests.sh/1.1.1.1.2.2/Sat Dec 15 05:39:44 2012//Tnetbsd-6-1-5-RELEASE
+D/conf////
+D/ns1////
+D/ns2////
+D/ns3////

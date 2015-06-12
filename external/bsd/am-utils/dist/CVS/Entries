@@ -1,0 +1,53 @@
+/AUTHORS/1.1.1.1/Fri Sep 19 20:07:11 2008//Tnetbsd-6-1-5-RELEASE
+/BUGS/1.1.1.1/Fri Sep 19 20:07:11 2008//Tnetbsd-6-1-5-RELEASE
+/COPYING/1.1.1.2/Fri Mar 20 20:26:47 2009//Tnetbsd-6-1-5-RELEASE
+/ChangeLog/1.4/Sat Mar 21 10:09:16 2009//Tnetbsd-6-1-5-RELEASE
+/FAQ/1.1.1.1/Fri Sep 19 20:07:11 2008//Tnetbsd-6-1-5-RELEASE
+/INSTALL/1.1.1.2/Fri Mar 20 20:26:47 2009//Tnetbsd-6-1-5-RELEASE
+/INSTALL.am-utils/1.1.1.1/Fri Mar 20 20:26:47 2009//Tnetbsd-6-1-5-RELEASE
+/LSM.am-utils/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/MIRRORS.html/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/MIRRORS.txt/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.am/1.1.1.2/Fri Mar 20 20:26:47 2009//Tnetbsd-6-1-5-RELEASE
+/NEWS/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/README.attrcache/1.1.1.1/Fri Sep 19 20:07:11 2008//Tnetbsd-6-1-5-RELEASE
+/README.autofs/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/README.ldap/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/README.osx/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/README.sun2amd/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/README.y2k/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/amd2netbsd/1.3/Sat Oct  8 19:28:38 2011//Tnetbsd-6-1-5-RELEASE
+/aux_conf.h.in/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/bootstrap/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/buildall/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/commit/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/config.guess/1.1.1.2/Fri Mar 20 20:26:47 2009//Tnetbsd-6-1-5-RELEASE
+/config.guess.long/1.1.1.2/Fri Mar 20 20:26:47 2009//Tnetbsd-6-1-5-RELEASE
+/config.sub/1.1.1.2/Fri Mar 20 20:26:48 2009//Tnetbsd-6-1-5-RELEASE
+/configure.in/1.3/Fri Mar 20 20:30:52 2009//Tnetbsd-6-1-5-RELEASE
+/cvs-server.txt/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/depcomp/1.1.1.2/Fri Mar 20 20:26:48 2009//Tnetbsd-6-1-5-RELEASE
+/install-sh/1.1.1.2/Fri Mar 20 20:26:48 2009//Tnetbsd-6-1-5-RELEASE
+/ldap-id.ms/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/ldap-id.txt/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/ldap.schema/1.1.1.1/Fri Sep 19 20:07:14 2008//Tnetbsd-6-1-5-RELEASE
+/ltmain.sh/1.1.1.2/Fri Mar 20 20:26:48 2009//Tnetbsd-6-1-5-RELEASE
+/missing/1.1.1.2/Fri Mar 20 20:26:48 2009//Tnetbsd-6-1-5-RELEASE
+/mkinstalldirs/1.1.1.2/Fri Mar 20 20:26:48 2009//Tnetbsd-6-1-5-RELEASE
+/tasks/1.1.1.1/Fri Sep 19 20:07:15 2008//Tnetbsd-6-1-5-RELEASE
+/vers.m4/1.1.1.1/Fri Sep 19 20:07:15 2008//Tnetbsd-6-1-5-RELEASE
+/ylwrap/1.1.1.2/Fri Mar 20 20:26:48 2009//Tnetbsd-6-1-5-RELEASE
+D/amd////
+D/amq////
+D/conf////
+D/doc////
+D/fixmount////
+D/fsinfo////
+D/hlfsd////
+D/include////
+D/libamu////
+D/m4////
+D/mk-amd-map////
+D/scripts////
+D/wire-test////

@@ -1,0 +1,10 @@
+/Makefile/1.5/Fri Nov 26 18:58:43 2010//Tnetbsd-6-1-5-RELEASE
+/README/1.13/Wed Nov 12 13:31:44 2003//Tnetbsd-6-1-5-RELEASE
+/faithd.8/1.28/Fri Jan 15 19:19:32 2010//Tnetbsd-6-1-5-RELEASE
+/faithd.c/1.35/Fri Sep 16 15:39:37 2011//Tnetbsd-6-1-5-RELEASE
+/faithd.h/1.12/Fri Sep 16 15:39:37 2011//Tnetbsd-6-1-5-RELEASE
+/ftp.c/1.19/Fri Nov 26 18:58:43 2010//Tnetbsd-6-1-5-RELEASE
+/prefix.c/1.8/Fri Nov 26 18:58:43 2010//Tnetbsd-6-1-5-RELEASE
+/prefix.h/1.2/Thu May  9 14:24:03 2002//Tnetbsd-6-1-5-RELEASE
+/tcp.c/1.11/Tue Aug 30 21:14:06 2011//Tnetbsd-6-1-5-RELEASE
+D

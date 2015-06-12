@@ -1,0 +1,26 @@
+/autoconf.c/1.72.36.1/Wed Aug  8 15:51:08 2012//Tnetbsd-6-1-5-RELEASE
+/bus_space.c/1.31/Mon Apr 28 20:23:27 2008//Tnetbsd-6-1-5-RELEASE
+/clock.c/1.49/Tue Feb  8 20:20:18 2011//Tnetbsd-6-1-5-RELEASE
+/clockreg.h/1.9/Mon Nov 20 20:48:36 2006//Tnetbsd-6-1-5-RELEASE
+/conf.c/1.63/Sun Dec 11 12:18:03 2005//Tnetbsd-6-1-5-RELEASE
+/disksubr.c/1.57/Wed Jan  2 11:48:26 2008//Tnetbsd-6-1-5-RELEASE
+/fpu_machdep.c/1.1/Tue Nov 15 12:23:22 2011//Tnetbsd-6-1-5-RELEASE
+/genassym.cf/1.36/Fri Jan 14 02:06:28 2011//Tnetbsd-6-1-5-RELEASE
+/intr.c/1.29/Mon Dec 20 00:25:36 2010//Tnetbsd-6-1-5-RELEASE
+/iop.c/1.11/Mon Mar 12 18:18:25 2007//Tnetbsd-6-1-5-RELEASE
+/locore.s/1.166/Thu Dec 22 15:33:29 2011//Tnetbsd-6-1-5-RELEASE
+/macglobals.s/1.4/Tue Sep 16 16:13:47 1997//Tnetbsd-6-1-5-RELEASE
+/machdep.c/1.343/Fri Jan 27 18:52:57 2012//Tnetbsd-6-1-5-RELEASE
+/macrom.c/1.72/Sun Feb 12 16:34:09 2012//Tnetbsd-6-1-5-RELEASE
+/macrom.h/1.19/Sun Nov  1 01:51:35 2009//Tnetbsd-6-1-5-RELEASE
+/macromasm.s/1.22/Sun Nov  1 01:51:35 2009//Tnetbsd-6-1-5-RELEASE
+/mainbus.c/1.21/Sun Jun  5 17:03:18 2011//Tnetbsd-6-1-5-RELEASE
+/pmap_bootstrap.c/1.93/Fri Feb 10 04:49:45 2012//Tnetbsd-6-1-5-RELEASE
+/pram.c/1.22/Wed Jun 21 00:02:26 2006//Tnetbsd-6-1-5-RELEASE
+/pram.h/1.7/Sun Dec 11 12:18:03 2005//Tnetbsd-6-1-5-RELEASE
+/pramasm.s/1.8/Tue Nov 20 03:19:43 2001//Tnetbsd-6-1-5-RELEASE
+/psc.c/1.10/Sun Dec 11 12:18:03 2005//Tnetbsd-6-1-5-RELEASE
+/trap.c/1.145/Tue Feb  8 20:20:18 2011//Tnetbsd-6-1-5-RELEASE
+/vectors.s/1.17/Tue Feb  8 20:20:18 2011//Tnetbsd-6-1-5-RELEASE
+/via.c/1.75/Sun Dec 11 12:18:03 2005//Tnetbsd-6-1-5-RELEASE
+D

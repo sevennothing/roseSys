@@ -1,0 +1,11 @@
+/Makefile.inc/1.6/Sun Jan  4 17:54:29 2009//Tnetbsd-6-1-5-RELEASE
+/atomic_add.S/1.6/Sun May 25 15:56:12 2008//Tnetbsd-6-1-5-RELEASE
+/atomic_and.S/1.6/Sun May 25 15:56:12 2008//Tnetbsd-6-1-5-RELEASE
+/atomic_cas.S/1.6/Sun May 25 15:56:12 2008//Tnetbsd-6-1-5-RELEASE
+/atomic_dec.S/1.7/Sun May 25 15:56:12 2008//Tnetbsd-6-1-5-RELEASE
+/atomic_inc.S/1.6/Sun May 25 15:56:12 2008//Tnetbsd-6-1-5-RELEASE
+/atomic_op_asm.h/1.6/Mon Jan 17 18:11:10 2011//Tnetbsd-6-1-5-RELEASE
+/atomic_or.S/1.7/Sun May 25 15:56:12 2008//Tnetbsd-6-1-5-RELEASE
+/atomic_swap.S/1.6/Sun May 25 15:56:12 2008//Tnetbsd-6-1-5-RELEASE
+/membar_ops.S/1.5/Sun May 25 15:56:12 2008//Tnetbsd-6-1-5-RELEASE
+D

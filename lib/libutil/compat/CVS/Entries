@@ -1,0 +1,11 @@
+/Makefile.inc/1.2/Sun Jan 11 02:57:18 2009//Tnetbsd-6-1-5-RELEASE
+/compat_gepwconf.c/1.2/Sun Jan 11 02:57:18 2009//Tnetbsd-6-1-5-RELEASE
+/compat_login.c/1.2/Sun Jan 11 02:57:18 2009//Tnetbsd-6-1-5-RELEASE
+/compat_login_cap.c/1.2/Sun Jan 11 02:57:18 2009//Tnetbsd-6-1-5-RELEASE
+/compat_loginx.c/1.2/Sun Jan 11 02:57:18 2009//Tnetbsd-6-1-5-RELEASE
+/compat_logoutx.c/1.2/Sun Jan 11 02:57:18 2009//Tnetbsd-6-1-5-RELEASE
+/compat_parsedate.c/1.2/Sun Jan 11 02:57:18 2009//Tnetbsd-6-1-5-RELEASE
+/compat_passwd.c/1.2/Sun Jan 11 02:57:18 2009//Tnetbsd-6-1-5-RELEASE
+/login_cap.h/1.2/Sun Jan 11 02:57:18 2009//Tnetbsd-6-1-5-RELEASE
+/util.h/1.2/Sun Jan 11 02:57:18 2009//Tnetbsd-6-1-5-RELEASE
+D

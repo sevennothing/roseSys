@@ -1,0 +1,11 @@
+/ixm1200_machdep.c/1.49/Fri Jul  1 20:42:37 2011//Tnetbsd-6-1-5-RELEASE
+/ixm1200_pci.c/1.9/Fri Jul  1 20:42:37 2011//Tnetbsd-6-1-5-RELEASE
+/ixm1200_start.S/1.4/Mon Jan 31 06:28:04 2011//Tnetbsd-6-1-5-RELEASE
+/ixm1200reg.h/1.2/Wed Oct 21 14:15:51 2009//Tnetbsd-6-1-5-RELEASE
+/ixm1200var.h/1.2/Wed Oct 21 14:15:51 2009//Tnetbsd-6-1-5-RELEASE
+/ixp12x0_mainbus.c/1.9/Fri Jul  1 20:42:37 2011//Tnetbsd-6-1-5-RELEASE
+/ixpcom_ixm.c/1.10/Sun Feb 12 16:31:01 2012//Tnetbsd-6-1-5-RELEASE
+/ixpcom_ixmvar.h/1.2/Wed Oct 21 14:15:51 2009//Tnetbsd-6-1-5-RELEASE
+/nappi_nppb.c/1.9/Fri Jul  1 20:42:37 2011//Tnetbsd-6-1-5-RELEASE
+/nappi_nr.c/1.9/Fri Jul  1 20:42:37 2011//Tnetbsd-6-1-5-RELEASE
+D

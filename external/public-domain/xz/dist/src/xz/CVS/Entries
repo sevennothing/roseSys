@@ -1,0 +1,26 @@
+/args.c/1.1.1.1/Tue Nov  2 15:20:38 2010//Tnetbsd-6-1-5-RELEASE
+/args.h/1.1.1.1/Tue Nov  2 15:20:37 2010//Tnetbsd-6-1-5-RELEASE
+/coder.c/1.1.1.1.8.1/Wed Mar  7 22:33:27 2012//Tnetbsd-6-1-5-RELEASE
+/coder.h/1.1.1.1/Tue Nov  2 15:20:37 2010//Tnetbsd-6-1-5-RELEASE
+/file_io.c/1.1.1.1.8.1/Wed Mar  7 22:33:27 2012//Tnetbsd-6-1-5-RELEASE
+/file_io.h/1.1.1.1/Tue Nov  2 15:20:36 2010//Tnetbsd-6-1-5-RELEASE
+/hardware.c/1.1.1.1/Tue Nov  2 15:20:36 2010//Tnetbsd-6-1-5-RELEASE
+/hardware.h/1.1.1.1.8.1/Wed Mar  7 22:33:27 2012//Tnetbsd-6-1-5-RELEASE
+/list.c/1.1.1.1/Tue Nov  2 15:20:36 2010//Tnetbsd-6-1-5-RELEASE
+/list.h/1.1.1.1/Tue Nov  2 15:20:36 2010//Tnetbsd-6-1-5-RELEASE
+/main.c/1.1.1.1/Tue Nov  2 15:20:36 2010//Tnetbsd-6-1-5-RELEASE
+/main.h/1.1.1.1/Tue Nov  2 15:20:36 2010//Tnetbsd-6-1-5-RELEASE
+/message.c/1.1.1.1.8.1/Wed Mar  7 22:33:27 2012//Tnetbsd-6-1-5-RELEASE
+/message.h/1.1.1.1.8.1/Wed Mar  7 22:33:27 2012//Tnetbsd-6-1-5-RELEASE
+/options.c/1.1.1.1.8.1/Wed Mar  7 22:33:27 2012//Tnetbsd-6-1-5-RELEASE
+/options.h/1.1.1.1/Tue Nov  2 15:20:35 2010//Tnetbsd-6-1-5-RELEASE
+/private.h/1.1.1.1/Tue Nov  2 15:20:35 2010//Tnetbsd-6-1-5-RELEASE
+/signals.c/1.1.1.1.8.1/Wed Mar  7 22:33:27 2012//Tnetbsd-6-1-5-RELEASE
+/signals.h/1.1.1.1/Tue Nov  2 15:20:35 2010//Tnetbsd-6-1-5-RELEASE
+/suffix.c/1.1.1.1.8.1/Wed Mar  7 22:33:27 2012//Tnetbsd-6-1-5-RELEASE
+/suffix.h/1.1.1.1/Tue Nov  2 15:20:34 2010//Tnetbsd-6-1-5-RELEASE
+/util.c/1.1.1.1/Tue Nov  2 15:20:34 2010//Tnetbsd-6-1-5-RELEASE
+/util.h/1.1.1.1.8.1/Wed Mar  7 22:33:27 2012//Tnetbsd-6-1-5-RELEASE
+/xz.1/1.1.1.1.8.1/Wed Mar  7 22:33:27 2012//Tnetbsd-6-1-5-RELEASE
+/xz_w32res.rc/1.1.1.1/Tue Nov  2 15:20:34 2010//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,9 @@
+/abi-avx.exp/1.1.1.1/Tue Jun 21 01:23:09 2011//Tnetbsd-6-1-5-RELEASE
+/args.h/1.1.1.1/Tue Jun 21 01:23:09 2011//Tnetbsd-6-1-5-RELEASE
+/asm-support.S/1.1.1.1/Tue Jun 21 01:23:09 2011//Tnetbsd-6-1-5-RELEASE
+/avx-check.h/1.1.1.1/Tue Jun 21 01:23:09 2011//Tnetbsd-6-1-5-RELEASE
+/test_m256_returning.c/1.1.1.1/Tue Jun 21 01:23:09 2011//Tnetbsd-6-1-5-RELEASE
+/test_passing_m256.c/1.1.1.1/Tue Jun 21 01:23:09 2011//Tnetbsd-6-1-5-RELEASE
+/test_passing_structs.c/1.1.1.1/Tue Jun 21 01:23:09 2011//Tnetbsd-6-1-5-RELEASE
+/test_passing_unions.c/1.1.1.1/Tue Jun 21 01:23:09 2011//Tnetbsd-6-1-5-RELEASE
+D

@@ -1,0 +1,23 @@
+/Makefile.in/1.1.1.3.4.1/Wed Jun 13 19:29:02 2012//Tnetbsd-6-1-5-RELEASE
+/Musings/1.1.1.1/Tue Jun 23 10:08:48 2009//Tnetbsd-6-1-5-RELEASE
+/alias.c/1.1.1.2/Wed Mar  2 19:32:19 2011//Tnetbsd-6-1-5-RELEASE
+/biff_notify.c/1.1.1.1.12.1/Sun Aug 12 19:25:23 2012//Tnetbsd-6-1-5-RELEASE
+/biff_notify.h/1.1.1.1/Tue Jun 23 10:08:48 2009//Tnetbsd-6-1-5-RELEASE
+/bounce_workaround.c/1.1.1.2/Sun Jul 31 10:02:41 2011//Tnetbsd-6-1-5-RELEASE
+/command.c/1.1.1.2/Thu Jun 17 18:06:53 2010//Tnetbsd-6-1-5-RELEASE
+/deliver_attr.c/1.1.1.1/Tue Jun 23 10:08:48 2009//Tnetbsd-6-1-5-RELEASE
+/dotforward.c/1.1.1.1/Tue Jun 23 10:08:48 2009//Tnetbsd-6-1-5-RELEASE
+/file.c/1.1.1.2/Thu Jun 17 18:06:53 2010//Tnetbsd-6-1-5-RELEASE
+/forward.c/1.1.1.2/Wed Mar  2 19:32:19 2011//Tnetbsd-6-1-5-RELEASE
+/include.c/1.1.1.1/Tue Jun 23 10:08:48 2009//Tnetbsd-6-1-5-RELEASE
+/indirect.c/1.1.1.1/Tue Jun 23 10:08:48 2009//Tnetbsd-6-1-5-RELEASE
+/local.c/1.1.1.2/Wed Mar  2 19:32:20 2011//Tnetbsd-6-1-5-RELEASE
+/local.h/1.1.1.2/Thu Jun 17 18:06:53 2010//Tnetbsd-6-1-5-RELEASE
+/local_expand.c/1.1.1.1/Tue Jun 23 10:08:48 2009//Tnetbsd-6-1-5-RELEASE
+/mailbox.c/1.1.1.2.4.1/Sun Feb 19 18:28:54 2012//Tnetbsd-6-1-5-RELEASE
+/maildir.c/1.1.1.1/Tue Jun 23 10:08:48 2009//Tnetbsd-6-1-5-RELEASE
+/recipient.c/1.1.1.3/Wed Mar  2 19:32:20 2011//Tnetbsd-6-1-5-RELEASE
+/resolve.c/1.1.1.1/Tue Jun 23 10:08:49 2009//Tnetbsd-6-1-5-RELEASE
+/token.c/1.1.1.1/Tue Jun 23 10:08:49 2009//Tnetbsd-6-1-5-RELEASE
+/unknown.c/1.1.1.2.4.1/Sun Feb 19 18:28:54 2012//Tnetbsd-6-1-5-RELEASE
+D

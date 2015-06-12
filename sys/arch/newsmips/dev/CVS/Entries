@@ -1,0 +1,15 @@
+/dmac_0448.h/1.6/Wed Apr  9 15:40:30 2008//Tnetbsd-6-1-5-RELEASE
+/fb.c/1.25/Sat May 15 10:01:44 2010//Tnetbsd-6-1-5-RELEASE
+/hb.c/1.19/Sun Feb 20 07:56:31 2011//Tnetbsd-6-1-5-RELEASE
+/hbvar.h/1.3/Wed May 14 13:29:28 2008//Tnetbsd-6-1-5-RELEASE
+/if_le.c/1.18/Tue Jan 19 22:06:22 2010//Tnetbsd-6-1-5-RELEASE
+/kb_hb.c/1.12/Wed Apr  9 15:40:30 2008//Tnetbsd-6-1-5-RELEASE
+/mkclock_hb.c/1.8/Mon Apr 28 20:23:30 2008//Tnetbsd-6-1-5-RELEASE
+/ms_hb.c/1.13/Wed Apr  9 15:40:30 2008//Tnetbsd-6-1-5-RELEASE
+/sc_wrap.c/1.31/Wed Apr  9 15:40:30 2008//Tnetbsd-6-1-5-RELEASE
+/screg_1185.h/1.7/Wed Apr  9 15:40:30 2008//Tnetbsd-6-1-5-RELEASE
+/scsi_1185.c/1.20/Sun Feb 20 07:56:31 2011//Tnetbsd-6-1-5-RELEASE
+/scsireg.h/1.12/Wed Apr  9 15:40:30 2008//Tnetbsd-6-1-5-RELEASE
+/zs.c/1.26/Sat Jun 26 03:44:49 2010//Tnetbsd-6-1-5-RELEASE
+/zs_hb.c/1.26/Sat Jun 26 03:44:49 2010//Tnetbsd-6-1-5-RELEASE
+D

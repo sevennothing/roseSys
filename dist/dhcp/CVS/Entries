@@ -1,0 +1,23 @@
+/ANONCVS/1.1.1.1/Fri Aug  3 11:35:28 2001//Tnetbsd-6-1-5-RELEASE
+/CHANGES/1.1.1.1/Fri Aug  3 11:35:28 2001//Tnetbsd-6-1-5-RELEASE
+/COPYRIGHT/1.2/Tue Feb 18 17:08:38 2003//Tnetbsd-6-1-5-RELEASE
+/LICENSE/1.1.1.1/Thu Aug 11 16:54:17 2005//Tnetbsd-6-1-5-RELEASE
+/Makefile/1.3/Thu Aug 11 17:13:21 2005//Tnetbsd-6-1-5-RELEASE
+/Makefile.conf/1.4/Thu Aug 11 17:13:21 2005//Tnetbsd-6-1-5-RELEASE
+/Makefile.dist/1.3/Thu Aug 11 17:13:21 2005//Tnetbsd-6-1-5-RELEASE
+/README/1.4/Thu Aug 11 17:13:21 2005//Tnetbsd-6-1-5-RELEASE
+/RELNOTES/1.4/Thu Aug 11 17:13:21 2005//Tnetbsd-6-1-5-RELEASE
+/configure/1.3/Thu Aug 11 17:13:21 2005//Tnetbsd-6-1-5-RELEASE
+/site.conf/1.1.1.1/Fri Aug  3 11:35:29 2001//Tnetbsd-6-1-5-RELEASE
+D/client////
+D/common////
+D/contrib////
+D/dhcpctl////
+D/doc////
+D/dst////
+D/includes////
+D/minires////
+D/omapip////
+D/relay////
+D/server////
+D/tests////

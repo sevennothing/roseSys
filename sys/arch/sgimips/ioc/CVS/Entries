@@ -1,0 +1,10 @@
+/files.ioc/1.4/Fri Feb 13 23:55:33 2009//Tnetbsd-6-1-5-RELEASE
+/if_le_oioc.c/1.4/Sun Feb 20 07:59:50 2011//Tnetbsd-6-1-5-RELEASE
+/ioc.c/1.9/Fri Jul  1 18:53:47 2011//Tnetbsd-6-1-5-RELEASE
+/iocreg.h/1.2/Sun Dec 11 12:18:53 2005//Tnetbsd-6-1-5-RELEASE
+/iocvar.h/1.2/Sun Dec 11 12:18:53 2005//Tnetbsd-6-1-5-RELEASE
+/oioc.c/1.2/Fri Jul  1 18:53:47 2011//Tnetbsd-6-1-5-RELEASE
+/oiocreg.h/1.1/Tue Feb 10 06:04:56 2009//Tnetbsd-6-1-5-RELEASE
+/oiocsc.c/1.2/Fri Jul  1 18:53:47 2011//Tnetbsd-6-1-5-RELEASE
+/oiocvar.h/1.2/Fri Jul  1 18:53:47 2011//Tnetbsd-6-1-5-RELEASE
+D

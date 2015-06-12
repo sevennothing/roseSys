@@ -1,0 +1,19 @@
+/Makefile.am/1.1.1.1/Sun Jan 26 00:43:16 2003//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.1/Sun Jan 26 00:43:16 2003//Tnetbsd-6-1-5-RELEASE
+/analyze.c/1.1.1.1/Sun Jan 26 00:43:16 2003//Tnetbsd-6-1-5-RELEASE
+/cmp.c/1.1.1.1/Sun Jan 26 00:43:16 2003//Tnetbsd-6-1-5-RELEASE
+/context.c/1.2/Mon Dec 29 04:09:25 2008//Tnetbsd-6-1-5-RELEASE
+/diff.c/1.3/Sun May 15 13:55:21 2011//Tnetbsd-6-1-5-RELEASE
+/diff.h/1.1.1.1/Sun Jan 26 00:43:16 2003//Tnetbsd-6-1-5-RELEASE
+/diff3.c/1.2/Mon May 23 22:17:50 2011//Tnetbsd-6-1-5-RELEASE
+/dir.c/1.1.1.1/Sun Jan 26 00:43:17 2003//Tnetbsd-6-1-5-RELEASE
+/ed.c/1.1.1.1/Sun Jan 26 00:43:17 2003//Tnetbsd-6-1-5-RELEASE
+/ifdef.c/1.1.1.1/Sun Jan 26 00:43:17 2003//Tnetbsd-6-1-5-RELEASE
+/io.c/1.1.1.1/Sun Jan 26 00:43:17 2003//Tnetbsd-6-1-5-RELEASE
+/normal.c/1.1.1.1/Sun Jan 26 00:43:17 2003//Tnetbsd-6-1-5-RELEASE
+/sdiff.c/1.2/Sat Feb 18 22:42:12 2006//Tnetbsd-6-1-5-RELEASE
+/side.c/1.1.1.1/Sun Jan 26 00:43:17 2003//Tnetbsd-6-1-5-RELEASE
+/system.h/1.2/Sat Jan 14 09:18:17 2006//Tnetbsd-6-1-5-RELEASE
+/util.c/1.1.1.1/Sun Jan 26 00:43:17 2003//Tnetbsd-6-1-5-RELEASE
+/version.c/1.1.1.1/Sun Jan 26 00:43:16 2003//Tnetbsd-6-1-5-RELEASE
+D

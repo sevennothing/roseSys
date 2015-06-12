@@ -1,0 +1,19 @@
+/autoconf.c/1.25.10.1/Wed Aug  8 15:51:08 2012//Tnetbsd-6-1-5-RELEASE
+/clock.c/1.12/Sat Apr 24 19:58:13 2010//Tnetbsd-6-1-5-RELEASE
+/conf.c/1.17/Sun Dec 11 12:18:29 2005//Tnetbsd-6-1-5-RELEASE
+/disksubr.c/1.25/Mon Mar 16 23:11:13 2009//Tnetbsd-6-1-5-RELEASE
+/genassym.cf/1.26/Fri Jan 14 02:06:29 2011//Tnetbsd-6-1-5-RELEASE
+/isr.c/1.28/Mon Dec 20 00:25:40 2010//Tnetbsd-6-1-5-RELEASE
+/isr.h/1.7/Mon Apr 28 20:23:30 2008//Tnetbsd-6-1-5-RELEASE
+/locore.s/1.61/Thu Dec 22 15:33:30 2011//Tnetbsd-6-1-5-RELEASE
+/machdep.c/1.106/Mon Dec 12 19:03:11 2011//Tnetbsd-6-1-5-RELEASE
+/mainbus.c/1.11/Sun Jun  5 17:03:19 2011//Tnetbsd-6-1-5-RELEASE
+/nextrom.c/1.24/Sun Dec 18 04:29:32 2011//Tnetbsd-6-1-5-RELEASE
+/nextrom.h/1.11/Sun Dec 18 04:29:32 2011//Tnetbsd-6-1-5-RELEASE
+/pmap_bootstrap.c/1.42.16.1/Mon Sep  8 20:38:20 2014//Tnetbsd-6-1-5-RELEASE
+/rtc.c/1.15/Sat Dec 12 14:44:09 2009//Tnetbsd-6-1-5-RELEASE
+/rtc.h/1.5/Mon Apr 28 20:23:30 2008//Tnetbsd-6-1-5-RELEASE
+/seglist.h/1.6/Fri Oct 23 17:01:08 2009//Tnetbsd-6-1-5-RELEASE
+/trap.c/1.84/Tue Feb  8 20:20:21 2011//Tnetbsd-6-1-5-RELEASE
+/vectors.s/1.11/Tue Feb  8 20:20:21 2011//Tnetbsd-6-1-5-RELEASE
+D

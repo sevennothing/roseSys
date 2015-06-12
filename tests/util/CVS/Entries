@@ -1,0 +1,25 @@
+/Makefile/1.10/Sun Aug  1 16:42:58 2010//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.1/Wed Nov  3 16:10:25 2010//Tnetbsd-6-1-5-RELEASE
+/t_basename.sh/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/t_cp.sh/1.5/Sun Nov  7 17:51:22 2010//Tnetbsd-6-1-5-RELEASE
+/t_dd.sh/1.4/Mon Dec  6 16:43:26 2010//Tnetbsd-6-1-5-RELEASE
+/t_dirname.sh/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/t_expr.sh/1.2/Wed Apr 30 13:11:00 2008//Tnetbsd-6-1-5-RELEASE
+/t_gzip.sh/1.3/Sun Nov  7 17:51:22 2010//Tnetbsd-6-1-5-RELEASE
+/t_pax.sh/1.5/Sun Nov  7 17:51:22 2010//Tnetbsd-6-1-5-RELEASE
+/t_tar.sh/1.5/Sun Nov  7 17:51:22 2010//Tnetbsd-6-1-5-RELEASE
+D/awk////
+D/bzip2////
+D/config////
+D/cut////
+D/df////
+D/grep////
+D/id////
+D/m4////
+D/make////
+D/mtree////
+D/ps////
+D/sdiff////
+D/sh////
+D/sort////
+D/xlint////

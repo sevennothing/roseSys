@@ -1,0 +1,29 @@
+/README/1.1.1.1/Thu Apr 20 09:19:05 2006//Tnetbsd-6-1-5-RELEASE
+/dg.exp/1.1.1.1/Thu Apr 20 09:19:05 2006//Tnetbsd-6-1-5-RELEASE
+D/abi////
+D/bprob////
+D/charset////
+D/compat////
+D/conversion////
+D/cpp////
+D/debug////
+D/eh////
+D/expr////
+D/ext////
+D/gcov////
+D/inherit////
+D/init////
+D/lookup////
+D/opt////
+D/other////
+D/overload////
+D/parse////
+D/pch////
+D/rtti////
+D/special////
+D/tc1////
+D/template////
+D/tls////
+D/tree-ssa////
+D/vect////
+D/warn////

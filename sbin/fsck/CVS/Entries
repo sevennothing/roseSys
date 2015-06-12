@@ -1,0 +1,13 @@
+/Makefile/1.18/Fri Jun  5 21:52:31 2009//Tnetbsd-6-1-5-RELEASE
+/exitvalues.h/1.2/Mon Apr 28 20:23:08 2008//Tnetbsd-6-1-5-RELEASE
+/fsck.8/1.38/Thu Apr 28 12:16:10 2011//Tnetbsd-6-1-5-RELEASE
+/fsck.c/1.50/Sat Aug 27 17:34:44 2011//Tnetbsd-6-1-5-RELEASE
+/fsutil.c/1.20/Thu Jun  9 19:57:50 2011//Tnetbsd-6-1-5-RELEASE
+/fsutil.h/1.18/Sat Aug 27 17:34:44 2011//Tnetbsd-6-1-5-RELEASE
+/partutil.c/1.11/Sun Nov 13 22:04:51 2011//Tnetbsd-6-1-5-RELEASE
+/partutil.h/1.2/Mon Apr 28 20:23:08 2008//Tnetbsd-6-1-5-RELEASE
+/pathnames.h/1.2/Wed Oct 21 01:07:46 2009//Tnetbsd-6-1-5-RELEASE
+/preen.c/1.30/Sat Feb 23 21:41:47 2008//Tnetbsd-6-1-5-RELEASE
+/progress.c/1.5/Sat Apr 11 06:48:36 2009//Tnetbsd-6-1-5-RELEASE
+/progress.h/1.3/Mon Apr 28 20:23:08 2008//Tnetbsd-6-1-5-RELEASE
+D

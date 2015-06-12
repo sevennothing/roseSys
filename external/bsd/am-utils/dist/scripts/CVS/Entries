@@ -1,0 +1,24 @@
+/.cvsignore/1.1.1.1/Fri Sep 19 20:07:23 2008//Tnetbsd-6-1-5-RELEASE
+/Makefile.am/1.1.1.1/Fri Sep 19 20:07:23 2008//Tnetbsd-6-1-5-RELEASE
+/am-eject.in/1.1.1.1/Fri Sep 19 20:07:23 2008//Tnetbsd-6-1-5-RELEASE
+/amd.conf-sample/1.1.1.1/Fri Sep 19 20:07:23 2008//Tnetbsd-6-1-5-RELEASE
+/amd.conf.5/1.1.1.2/Fri Mar 20 20:26:56 2009//Tnetbsd-6-1-5-RELEASE
+/amd2ldif.in/1.1.1.1/Fri Sep 19 20:07:23 2008//Tnetbsd-6-1-5-RELEASE
+/amd2sun.in/1.1.1.1/Fri Sep 19 20:07:23 2008//Tnetbsd-6-1-5-RELEASE
+/automount2amd.8/1.1.1.2/Fri Mar 20 20:26:56 2009//Tnetbsd-6-1-5-RELEASE
+/automount2amd.in/1.1.1.1/Fri Sep 19 20:07:23 2008//Tnetbsd-6-1-5-RELEASE
+/ctl-amd.in/1.1.1.1/Fri Sep 19 20:07:23 2008//Tnetbsd-6-1-5-RELEASE
+/ctl-hlfsd.in/1.1.1.1/Fri Sep 19 20:07:23 2008//Tnetbsd-6-1-5-RELEASE
+/expn.1/1.1.1.2/Fri Mar 20 20:26:56 2009//Tnetbsd-6-1-5-RELEASE
+/expn.in/1.1.1.2/Fri Mar 20 20:26:56 2009//Tnetbsd-6-1-5-RELEASE
+/fix-amd-map.in/1.1.1.1/Fri Sep 19 20:07:24 2008//Tnetbsd-6-1-5-RELEASE
+/fixrmtab.in/1.1.1.1/Fri Sep 19 20:07:24 2008//Tnetbsd-6-1-5-RELEASE
+/lostaltmail.conf-sample/1.1.1.1/Fri Sep 19 20:07:23 2008//Tnetbsd-6-1-5-RELEASE
+/lostaltmail.in/1.1.1.1/Fri Sep 19 20:07:24 2008//Tnetbsd-6-1-5-RELEASE
+/redhat-ctl-amd.in/1.1.1.1/Fri Sep 19 20:07:24 2008//Tnetbsd-6-1-5-RELEASE
+/test-amd.conf/1.1.1.1/Fri Sep 19 20:07:24 2008//Tnetbsd-6-1-5-RELEASE
+/test-amd.misc/1.1.1.1/Fri Sep 19 20:07:24 2008//Tnetbsd-6-1-5-RELEASE
+/test-attrcache.in/1.1.1.1/Fri Sep 19 20:07:24 2008//Tnetbsd-6-1-5-RELEASE
+/wait4amd.in/1.1.1.1/Fri Sep 19 20:07:24 2008//Tnetbsd-6-1-5-RELEASE
+/wait4amd2die.in/1.1.1.1/Fri Sep 19 20:07:24 2008//Tnetbsd-6-1-5-RELEASE
+D

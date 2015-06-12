@@ -1,0 +1,72 @@
+/.gitignore/1.1.1.1/Wed Aug  4 10:23:09 2010//Tnetbsd-6-1-5-RELEASE
+/ChangeLog/1.1.1.2/Sat Sep 10 20:55:28 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile/1.1.1.2/Sat Sep 10 20:55:16 2011//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.1/Wed Aug  4 10:22:42 2010//Tnetbsd-6-1-5-RELEASE
+/README-WPS/1.1.1.1/Wed Aug  4 10:22:38 2010//Tnetbsd-6-1-5-RELEASE
+/README-Windows.txt/1.1.1.1/Wed Aug  4 10:23:21 2010//Tnetbsd-6-1-5-RELEASE
+/ap.c/1.1.1.1/Wed Aug  4 10:22:43 2010//Tnetbsd-6-1-5-RELEASE
+/ap.h/1.1.1.1/Wed Aug  4 10:22:59 2010//Tnetbsd-6-1-5-RELEASE
+/bgscan.c/1.1.1.1/Wed Aug  4 10:23:06 2010//Tnetbsd-6-1-5-RELEASE
+/bgscan.h/1.1.1.1/Wed Aug  4 10:23:24 2010//Tnetbsd-6-1-5-RELEASE
+/bgscan_simple.c/1.1.1.2/Sat Sep 10 20:55:22 2011//Tnetbsd-6-1-5-RELEASE
+/blacklist.c/1.1.1.1/Wed Aug  4 10:22:44 2010//Tnetbsd-6-1-5-RELEASE
+/blacklist.h/1.1.1.1/Wed Aug  4 10:22:38 2010//Tnetbsd-6-1-5-RELEASE
+/bss.c/1.1.1.1/Wed Aug  4 10:22:32 2010//Tnetbsd-6-1-5-RELEASE
+/bss.h/1.1.1.1/Wed Aug  4 10:23:24 2010//Tnetbsd-6-1-5-RELEASE
+/config.c/1.1.1.1/Wed Aug  4 10:22:56 2010//Tnetbsd-6-1-5-RELEASE
+/config.h/1.1.1.1/Wed Aug  4 10:22:52 2010//Tnetbsd-6-1-5-RELEASE
+/config_file.c/1.1.1.1/Wed Aug  4 10:23:05 2010//Tnetbsd-6-1-5-RELEASE
+/config_none.c/1.1.1.1/Wed Aug  4 10:22:26 2010//Tnetbsd-6-1-5-RELEASE
+/config_ssid.h/1.1.1.1/Wed Aug  4 10:23:09 2010//Tnetbsd-6-1-5-RELEASE
+/config_winreg.c/1.1.1.2/Sat Sep 10 20:55:21 2011//Tnetbsd-6-1-5-RELEASE
+/ctrl_iface.c/1.1.1.1/Wed Aug  4 10:23:03 2010//Tnetbsd-6-1-5-RELEASE
+/ctrl_iface.h/1.1.1.1/Wed Aug  4 10:23:21 2010//Tnetbsd-6-1-5-RELEASE
+/ctrl_iface_named_pipe.c/1.1.1.1/Wed Aug  4 10:23:19 2010//Tnetbsd-6-1-5-RELEASE
+/ctrl_iface_udp.c/1.1.1.1/Wed Aug  4 10:22:33 2010//Tnetbsd-6-1-5-RELEASE
+/ctrl_iface_unix.c/1.1.1.1/Wed Aug  4 10:23:21 2010//Tnetbsd-6-1-5-RELEASE
+/defconfig/1.1.1.1/Wed Aug  4 10:22:44 2010//Tnetbsd-6-1-5-RELEASE
+/driver_i.h/1.1.1.1/Wed Aug  4 10:22:52 2010//Tnetbsd-6-1-5-RELEASE
+/eap_register.c/1.1.1.1/Wed Aug  4 10:23:09 2010//Tnetbsd-6-1-5-RELEASE
+/eap_testing.txt/1.1.1.1/Wed Aug  4 10:22:58 2010//Tnetbsd-6-1-5-RELEASE
+/eapol_test.c/1.1.1.1/Wed Aug  4 10:23:05 2010//Tnetbsd-6-1-5-RELEASE
+/events.c/1.1.1.2/Sat Sep 10 20:55:17 2011//Tnetbsd-6-1-5-RELEASE
+/ibss_rsn.c/1.1.1.1/Wed Aug  4 10:22:44 2010//Tnetbsd-6-1-5-RELEASE
+/ibss_rsn.h/1.1.1.1/Wed Aug  4 10:23:24 2010//Tnetbsd-6-1-5-RELEASE
+/main.c/1.1.1.1/Wed Aug  4 10:22:38 2010//Tnetbsd-6-1-5-RELEASE
+/main_none.c/1.1.1.1/Wed Aug  4 10:22:50 2010//Tnetbsd-6-1-5-RELEASE
+/main_symbian.cpp/1.1.1.1/Wed Aug  4 10:22:50 2010//Tnetbsd-6-1-5-RELEASE
+/main_winmain.c/1.1.1.1/Wed Aug  4 10:23:18 2010//Tnetbsd-6-1-5-RELEASE
+/main_winsvc.c/1.1.1.1/Wed Aug  4 10:22:56 2010//Tnetbsd-6-1-5-RELEASE
+/mlme.c/1.1.1.1/Wed Aug  4 10:22:32 2010//Tnetbsd-6-1-5-RELEASE
+/mlme.h/1.1.1.1/Wed Aug  4 10:23:06 2010//Tnetbsd-6-1-5-RELEASE
+/nmake.mak/1.1.1.1/Wed Aug  4 10:22:38 2010//Tnetbsd-6-1-5-RELEASE
+/notify.c/1.1.1.1/Wed Aug  4 10:23:17 2010//Tnetbsd-6-1-5-RELEASE
+/notify.h/1.1.1.1/Wed Aug  4 10:22:59 2010//Tnetbsd-6-1-5-RELEASE
+/preauth_test.c/1.1.1.1/Wed Aug  4 10:23:08 2010//Tnetbsd-6-1-5-RELEASE
+/scan.c/1.1.1.2/Sat Sep 10 20:55:19 2011//Tnetbsd-6-1-5-RELEASE
+/scan.h/1.1.1.1/Wed Aug  4 10:23:05 2010//Tnetbsd-6-1-5-RELEASE
+/sme.c/1.1.1.2/Sat Sep 10 20:55:29 2011//Tnetbsd-6-1-5-RELEASE
+/sme.h/1.1.1.1/Wed Aug  4 10:23:09 2010//Tnetbsd-6-1-5-RELEASE
+/todo.txt/1.1.1.1/Wed Aug  4 10:23:18 2010//Tnetbsd-6-1-5-RELEASE
+/win_example.reg/1.1.1.1/Wed Aug  4 10:23:17 2010//Tnetbsd-6-1-5-RELEASE
+/win_if_list.c/1.1.1.1/Wed Aug  4 10:22:26 2010//Tnetbsd-6-1-5-RELEASE
+/wpa_cli.c/1.2/Wed Aug  4 17:12:35 2010//Tnetbsd-6-1-5-RELEASE
+/wpa_passphrase.c/1.1.1.1/Wed Aug  4 10:23:09 2010//Tnetbsd-6-1-5-RELEASE
+/wpa_priv.c/1.1.1.1/Wed Aug  4 10:22:40 2010//Tnetbsd-6-1-5-RELEASE
+/wpa_supplicant.c/1.1.1.2/Sat Sep 10 20:55:21 2011//Tnetbsd-6-1-5-RELEASE
+/wpa_supplicant.conf/1.1.1.1/Wed Aug  4 10:23:24 2010//Tnetbsd-6-1-5-RELEASE
+/wpa_supplicant.nsi/1.1.1.2/Sat Sep 10 20:55:14 2011//Tnetbsd-6-1-5-RELEASE
+/wpa_supplicant_i.h/1.1.1.2/Sat Sep 10 20:55:24 2011//Tnetbsd-6-1-5-RELEASE
+/wpas_glue.c/1.1.1.2/Sat Sep 10 20:55:23 2011//Tnetbsd-6-1-5-RELEASE
+/wpas_glue.h/1.1.1.1/Wed Aug  4 10:22:42 2010//Tnetbsd-6-1-5-RELEASE
+/wps_supplicant.c/1.1.1.1/Wed Aug  4 10:23:07 2010//Tnetbsd-6-1-5-RELEASE
+/wps_supplicant.h/1.1.1.1/Wed Aug  4 10:23:00 2010//Tnetbsd-6-1-5-RELEASE
+D/dbus////
+D/doc////
+D/examples////
+D/symbian////
+D/tests////
+D/vs2005////
+D/wpa_gui////
+D/wpa_gui-qt4////
+D/xcode////

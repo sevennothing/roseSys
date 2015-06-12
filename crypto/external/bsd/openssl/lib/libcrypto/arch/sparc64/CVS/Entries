@@ -1,0 +1,16 @@
+/Makefile/1.2.4.1.6.1/Tue Apr  8 11:44:27 2014//Tnetbsd-6-1-5-RELEASE
+/aes-sparcv9.S/1.2/Sun Jun  5 23:09:50 2011//Tnetbsd-6-1-5-RELEASE
+/aes.inc/1.1.6.2/Tue Apr  8 11:44:27 2014//Tnetbsd-6-1-5-RELEASE
+/bf.inc/1.1/Sun Jul 19 23:30:46 2009//Tnetbsd-6-1-5-RELEASE
+/crypto.inc/1.4.2.2.6.1/Fri Jun  6 05:20:07 2014//Tnetbsd-6-1-5-RELEASE
+/des.inc/1.1.22.1/Tue Apr  8 11:44:27 2014//Tnetbsd-6-1-5-RELEASE
+/des_enc-sparc.S/1.1.6.2/Tue Apr  8 11:44:27 2014//Tnetbsd-6-1-5-RELEASE
+/ghash-sparcv9.S/1.2.2.2.6.1/Tue Apr  8 11:44:27 2014//Tnetbsd-6-1-5-RELEASE
+/modes.inc/1.1.6.2/Tue Apr  8 11:44:27 2014//Tnetbsd-6-1-5-RELEASE
+/sha.inc/1.1.6.2/Tue Apr  8 11:44:27 2014//Tnetbsd-6-1-5-RELEASE
+/sha1-sparcv9.S/1.2.18.1/Tue Apr  8 11:44:27 2014//Tnetbsd-6-1-5-RELEASE
+/sha1-sparcv9a.S/1.1.20.1/Tue Apr  8 11:44:27 2014//Tnetbsd-6-1-5-RELEASE
+/sha512-sparcv9.S/1.2.4.1.6.1/Tue Apr  8 11:44:27 2014//Tnetbsd-6-1-5-RELEASE
+/sparcv9-mont.S/1.1/Sun Jul 19 23:30:47 2009//Tnetbsd-6-1-5-RELEASE
+/sparcv9a-mont.S/1.1/Sun Jul 19 23:30:47 2009//Tnetbsd-6-1-5-RELEASE
+D

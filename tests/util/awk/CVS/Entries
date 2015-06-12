@@ -1,0 +1,26 @@
+/Makefile/1.3/Tue Nov 22 20:22:10 2011//Tnetbsd-6-1-5-RELEASE
+/d_assign_NF.awk/1.1/Tue Nov 22 20:22:10 2011//Tnetbsd-6-1-5-RELEASE
+/d_assign_NF.in/1.1/Tue Nov 22 20:22:10 2011//Tnetbsd-6-1-5-RELEASE
+/d_assign_NF.out/1.1/Tue Nov 22 20:22:10 2011//Tnetbsd-6-1-5-RELEASE
+/d_big_regexp.awk/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_big_regexp.in/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_big_regexp.out/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_end1.awk/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_end1.in/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_end1.out/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_end2.awk/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_end2.in/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_end2.out/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_period.awk/1.1/Thu Apr 28 23:28:23 2011//Tnetbsd-6-1-5-RELEASE
+/d_period.in/1.1/Thu Apr 28 23:28:23 2011//Tnetbsd-6-1-5-RELEASE
+/d_period.out/1.1/Thu Apr 28 23:28:23 2011//Tnetbsd-6-1-5-RELEASE
+/d_string1.awk/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_string1.out/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_tolower.awk/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_tolower.in/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_tolower.out/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_toupper.awk/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_toupper.in/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/d_toupper.out/1.1/Fri Feb 13 05:19:51 2009//Tnetbsd-6-1-5-RELEASE
+/t_awk.sh/1.7/Tue Nov 22 20:22:10 2011//Tnetbsd-6-1-5-RELEASE
+D

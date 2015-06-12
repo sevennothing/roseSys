@@ -1,0 +1,16 @@
+/Makefile.am/1.1.1.2/Tue Jan 31 21:27:06 2012//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.2/Tue Jan 31 21:27:06 2012//Tnetbsd-6-1-5-RELEASE
+/README/1.1.1.1/Sun Dec 13 16:56:32 2009//Tnetbsd-6-1-5-RELEASE
+/netsnmp_daemonize.c/1.1.1.2/Tue Jan 31 21:27:04 2012//Tnetbsd-6-1-5-RELEASE
+/ntpSnmpSubagentObject.c/1.1.1.2/Tue Jan 31 21:27:06 2012//Tnetbsd-6-1-5-RELEASE
+/ntpSnmpSubagentObject.h/1.1.1.2/Tue Jan 31 21:27:04 2012//Tnetbsd-6-1-5-RELEASE
+/ntp_snmp.h/1.1.1.1/Tue Jan 31 21:27:06 2012//Tnetbsd-6-1-5-RELEASE
+/ntpsnmpd-opts.c/1.1.1.2/Tue Jan 31 21:27:05 2012//Tnetbsd-6-1-5-RELEASE
+/ntpsnmpd-opts.def/1.1.1.2/Tue Jan 31 21:27:04 2012//Tnetbsd-6-1-5-RELEASE
+/ntpsnmpd-opts.h/1.1.1.2/Tue Jan 31 21:27:04 2012//Tnetbsd-6-1-5-RELEASE
+/ntpsnmpd-opts.menu/1.1.1.1/Sun Dec 13 16:56:34 2009//Tnetbsd-6-1-5-RELEASE
+/ntpsnmpd-opts.texi/1.1.1.2/Tue Jan 31 21:27:07 2012//Tnetbsd-6-1-5-RELEASE
+/ntpsnmpd.1/1.1.1.2/Tue Jan 31 21:27:06 2012//Tnetbsd-6-1-5-RELEASE
+/ntpsnmpd.c/1.1.1.2/Tue Jan 31 21:27:06 2012//Tnetbsd-6-1-5-RELEASE
+/ntpv4-mib.mib/1.1.1.2/Tue Jan 31 21:27:05 2012//Tnetbsd-6-1-5-RELEASE
+D

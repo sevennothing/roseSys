@@ -1,0 +1,8 @@
+/dlldef.h/1.2/Wed Feb 16 03:46:58 2011//Tnetbsd-6-1-5-RELEASE
+/dllfunc.c/1.2/Wed Feb 16 03:46:58 2011//Tnetbsd-6-1-5-RELEASE
+/dllload.c/1.2/Wed Feb 16 03:46:58 2011//Tnetbsd-6-1-5-RELEASE
+/dllmain.c/1.2/Wed Feb 16 03:46:58 2011//Tnetbsd-6-1-5-RELEASE
+/dllstub.c/1.2.6.1/Wed Jun  6 18:18:10 2012//Tnetbsd-6-1-5-RELEASE
+/make.wnt/1.1.1.1/Sun Mar 22 14:57:53 2009//Tnetbsd-6-1-5-RELEASE
+/wsock32.def/1.1.1.1/Sun Mar 22 14:57:53 2009//Tnetbsd-6-1-5-RELEASE
+D

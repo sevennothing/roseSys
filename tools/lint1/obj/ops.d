@@ -1,0 +1,26 @@
+ops.o: ops.c
+ops.o: 
+ops.o: /usr/include/sys/types.h
+ops.o: /usr/include/features.h
+ops.o: /usr/include/sys/cdefs.h
+ops.o: /usr/include/bits/wordsize.h
+ops.o: /usr/include/gnu/stubs.h
+ops.o: /usr/include/gnu/stubs-64.h
+ops.o: /usr/include/bits/types.h
+ops.o: /usr/include/bits/typesizes.h
+ops.o: /usr/include/time.h
+ops.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
+ops.o: /usr/include/endian.h
+ops.o: /usr/include/bits/endian.h
+ops.o: /usr/include/bits/byteswap.h
+ops.o: /usr/include/sys/select.h
+ops.o: /usr/include/bits/select.h
+ops.o: /usr/include/bits/sigset.h
+ops.o: /usr/include/bits/time.h
+ops.o: /usr/include/sys/sysmacros.h
+ops.o: /usr/include/bits/pthreadtypes.h
+ops.o: /home/licj/software/netBSD/source/netBSD/usr/src/tools/lint1/../../usr.bin/xlint/lint1/op.h
+ops.o: ./ops.h
+ops.o: /home/licj/software/netBSD/source/netBSD/usr/src/tools/lint1/../../usr.bin/xlint/lint1/../common/param.h
+ops.o: /home/licj/software/netBSD/source/netBSD/usr/src/tools/lint1/../../usr.bin/xlint/lint1/../arch/arm/targparam.h
+ops.o: /home/licj/software/netBSD/source/netBSD/usr/src/tools/lint1/../../usr.bin/xlint/lint1/../common/ilp32.h

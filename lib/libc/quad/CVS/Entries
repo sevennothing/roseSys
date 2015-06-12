@@ -1,0 +1,11 @@
+/Makefile.inc/1.13/Mon Jul  4 11:22:39 2011//Tnetbsd-6-1-5-RELEASE
+/fixdfdi.c/1.5/Mon Jul  4 06:23:50 2011//Tnetbsd-6-1-5-RELEASE
+/fixsfdi.c/1.4/Thu Aug  7 16:43:16 2003//Tnetbsd-6-1-5-RELEASE
+/fixunsdfdi.c/1.8/Mon Jul  4 06:23:50 2011//Tnetbsd-6-1-5-RELEASE
+/fixunssfdi.c/1.6/Thu Aug  7 16:43:16 2003//Tnetbsd-6-1-5-RELEASE
+/floatdidf.c/1.7/Mon Jul  4 06:23:50 2011//Tnetbsd-6-1-5-RELEASE
+/floatdisf.c/1.7/Mon Jul  4 06:23:50 2011//Tnetbsd-6-1-5-RELEASE
+/floatundidf.c/1.1/Mon Jul  4 06:23:50 2011//Tnetbsd-6-1-5-RELEASE
+/floatundisf.c/1.1/Mon Jul  4 11:22:39 2011//Tnetbsd-6-1-5-RELEASE
+/floatunditf_ieee754.c/1.2/Sat Jul  9 03:16:40 2011//Tnetbsd-6-1-5-RELEASE
+D/TESTS////

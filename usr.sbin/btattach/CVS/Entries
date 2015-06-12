@@ -1,0 +1,14 @@
+/Makefile/1.2/Sun Dec  6 12:55:46 2009//Tnetbsd-6-1-5-RELEASE
+/btattach.8/1.6/Thu Apr 28 16:23:41 2011//Tnetbsd-6-1-5-RELEASE
+/btattach.c/1.12/Sat Aug 27 22:17:53 2011//Tnetbsd-6-1-5-RELEASE
+/btattach.h/1.3/Sun Dec  6 12:55:46 2009//Tnetbsd-6-1-5-RELEASE
+/init_bcm2035.c/1.2/Wed Apr 15 00:32:23 2009//Tnetbsd-6-1-5-RELEASE
+/init_bgb2xx.c/1.1/Tue Apr 15 11:17:48 2008//Tnetbsd-6-1-5-RELEASE
+/init_csr.c/1.2/Sun Dec  6 12:29:48 2009//Tnetbsd-6-1-5-RELEASE
+/init_digi.c/1.2/Wed Apr 15 00:32:23 2009//Tnetbsd-6-1-5-RELEASE
+/init_ericsson.c/1.2/Wed Apr 15 00:32:23 2009//Tnetbsd-6-1-5-RELEASE
+/init_st.c/1.2/Wed Apr 15 00:32:23 2009//Tnetbsd-6-1-5-RELEASE
+/init_stlc2500.c/1.3/Tue Mar  9 02:01:51 2010//Tnetbsd-6-1-5-RELEASE
+/init_swave.c/1.3/Tue Mar  9 02:01:51 2010//Tnetbsd-6-1-5-RELEASE
+/init_unistone.c/1.1/Sun Dec  6 12:55:46 2009//Tnetbsd-6-1-5-RELEASE
+D

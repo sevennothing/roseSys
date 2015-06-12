@@ -1,0 +1,4 @@
+tdir_armelf_nbsd=arm--netbsdelf
+tdir_armelfb_nbsd=arm--netbsdelf
+tdir_armelf=arm--netbsdelf
+tdir_armnbsd=arm--netbsdelf

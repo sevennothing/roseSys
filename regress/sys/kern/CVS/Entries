@@ -1,0 +1,30 @@
+/Makefile/1.30/Fri Feb 20 21:45:47 2009//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.2/Fri Jan  9 08:03:58 1998//Tnetbsd-6-1-5-RELEASE
+D/allocfree////
+D/callout1////
+D/execve////
+D/getcwd////
+D/ipf////
+D/kqueue////
+D/latency1////
+D/latency2////
+D/lkmcommon////
+D/lockf////
+D/lockf2////
+D/mqueue////
+D/mutex1////
+D/mutex2////
+D/nameibench////
+D/priority_inheritance1////
+D/ras////
+D/rwlock1////
+D/sa////
+D/select////
+D/sigtramp////
+D/sleeping////
+D/softint1////
+D/sysvmsg////
+D/sysvsem////
+D/sysvshm////
+D/unfdpass////
+D/write_append////

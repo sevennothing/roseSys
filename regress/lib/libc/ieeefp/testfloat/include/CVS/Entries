@@ -1,0 +1,13 @@
+/fail.h/1.4/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/milieu.h/1.4/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/random.h/1.5/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/softfloat-specialize/1.2/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/softfloat.h/1.5/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/systflags.h/1.4/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/systfloat.h/1.4/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/systmodes.h/1.5/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/testCases.h/1.4/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/testFunction.h/1.4/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/testLoops.h/1.4/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+/writeHex.h/1.4/Mon Apr 28 20:23:04 2008//Tnetbsd-6-1-5-RELEASE
+D

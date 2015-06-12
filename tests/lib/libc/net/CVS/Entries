@@ -1,0 +1,12 @@
+/Makefile/1.6/Tue Nov  1 22:36:53 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.inc/1.1/Sat Jun 11 18:03:18 2011//Tnetbsd-6-1-5-RELEASE
+/gen_ether_subr/1.1/Tue Nov  1 22:36:53 2011//Tnetbsd-6-1-5-RELEASE
+/h_nsd_recurse.c/1.2/Thu Jan 13 02:24:51 2011//Tnetbsd-6-1-5-RELEASE
+/h_protoent.c/1.2/Thu Apr  7 18:14:09 2011//Tnetbsd-6-1-5-RELEASE
+/h_servent.c/1.2/Thu Apr  7 18:14:09 2011//Tnetbsd-6-1-5-RELEASE
+/t_ether_aton.c/1.1/Tue Nov  1 22:36:53 2011//Tnetbsd-6-1-5-RELEASE
+/t_getprotoent.c/1.1/Fri Jul 15 06:41:29 2011//Tnetbsd-6-1-5-RELEASE
+/t_nsdispatch.sh/1.1/Thu Jan 13 01:56:44 2011//Tnetbsd-6-1-5-RELEASE
+/t_protoent.sh/1.1/Wed Jan 12 17:32:27 2011//Tnetbsd-6-1-5-RELEASE
+/t_servent.sh/1.1/Wed Jan 12 17:32:27 2011//Tnetbsd-6-1-5-RELEASE
+D/getaddrinfo////

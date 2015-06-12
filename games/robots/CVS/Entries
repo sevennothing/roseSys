@@ -1,0 +1,17 @@
+/Makefile/1.16/Sat Feb  6 23:45:25 2010//Tnetbsd-6-1-5-RELEASE
+/auto.c/1.11/Mon Jul 20 06:39:06 2009//Tnetbsd-6-1-5-RELEASE
+/extern.c/1.10/Mon Jul 20 06:39:06 2009//Tnetbsd-6-1-5-RELEASE
+/flush_in.c/1.9/Mon Jul 20 06:39:06 2009//Tnetbsd-6-1-5-RELEASE
+/init_field.c/1.12/Mon Jul 20 06:39:06 2009//Tnetbsd-6-1-5-RELEASE
+/main.c/1.32/Wed Aug 12 08:30:55 2009//Tnetbsd-6-1-5-RELEASE
+/make_level.c/1.10/Mon Jul 20 06:39:06 2009//Tnetbsd-6-1-5-RELEASE
+/move.c/1.16/Wed Aug 12 08:30:55 2009//Tnetbsd-6-1-5-RELEASE
+/move_robs.c/1.10/Mon Jul 20 06:39:06 2009//Tnetbsd-6-1-5-RELEASE
+/pathnames.h/1.4/Thu Aug  7 09:37:37 2003//Tnetbsd-6-1-5-RELEASE
+/play_level.c/1.9/Mon Jul 20 06:39:06 2009//Tnetbsd-6-1-5-RELEASE
+/query.c/1.9/Mon Jul 20 06:39:06 2009//Tnetbsd-6-1-5-RELEASE
+/rnd_pos.c/1.10/Wed Aug 12 08:30:55 2009//Tnetbsd-6-1-5-RELEASE
+/robots.6/1.15/Wed Aug  5 04:03:47 2009//Tnetbsd-6-1-5-RELEASE
+/robots.h/1.22/Wed Aug 12 08:30:55 2009//Tnetbsd-6-1-5-RELEASE
+/score.c/1.23/Wed Aug 12 08:30:55 2009//Tnetbsd-6-1-5-RELEASE
+D

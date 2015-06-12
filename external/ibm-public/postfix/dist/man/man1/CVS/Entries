@@ -1,0 +1,21 @@
+/mailq.1/1.1.1.1/Tue Jun 23 10:08:32 2009//Tnetbsd-6-1-5-RELEASE
+/newaliases.1/1.1.1.1/Tue Jun 23 10:08:32 2009//Tnetbsd-6-1-5-RELEASE
+/postalias.1/1.1.1.1/Tue Jun 23 10:08:32 2009//Tnetbsd-6-1-5-RELEASE
+/postcat.1/1.1.1.2/Thu Jun 17 18:06:24 2010//Tnetbsd-6-1-5-RELEASE
+/postconf.1/1.1.1.4/Wed May 11 09:10:32 2011//Tnetbsd-6-1-5-RELEASE
+/postdrop.1/1.1.1.1/Tue Jun 23 10:08:32 2009//Tnetbsd-6-1-5-RELEASE
+/postfix.1/1.1.1.2/Wed Mar  2 19:31:50 2011//Tnetbsd-6-1-5-RELEASE
+/postkick.1/1.1.1.1/Tue Jun 23 10:08:32 2009//Tnetbsd-6-1-5-RELEASE
+/postlock.1/1.1.1.1/Tue Jun 23 10:08:32 2009//Tnetbsd-6-1-5-RELEASE
+/postlog.1/1.1.1.1/Tue Jun 23 10:08:32 2009//Tnetbsd-6-1-5-RELEASE
+/postmap.1/1.1.1.1/Tue Jun 23 10:08:32 2009//Tnetbsd-6-1-5-RELEASE
+/postmulti.1/1.1.1.2/Thu Jun 17 18:06:24 2010//Tnetbsd-6-1-5-RELEASE
+/postqueue.1/1.1.1.2/Thu Jun 17 18:06:24 2010//Tnetbsd-6-1-5-RELEASE
+/postsuper.1/1.1.1.1/Tue Jun 23 10:08:32 2009//Tnetbsd-6-1-5-RELEASE
+/qmqp-sink.1/1.1.1.1/Tue Jun 23 10:08:32 2009//Tnetbsd-6-1-5-RELEASE
+/qmqp-source.1/1.1.1.1/Tue Jun 23 10:08:32 2009//Tnetbsd-6-1-5-RELEASE
+/qshape.1/1.1.1.1/Tue Jun 23 10:08:32 2009//Tnetbsd-6-1-5-RELEASE
+/sendmail.1/1.1.1.1/Tue Jun 23 10:08:33 2009//Tnetbsd-6-1-5-RELEASE
+/smtp-sink.1/1.1.1.2/Wed Mar  2 19:31:50 2011//Tnetbsd-6-1-5-RELEASE
+/smtp-source.1/1.1.1.1/Tue Jun 23 10:08:32 2009//Tnetbsd-6-1-5-RELEASE
+D

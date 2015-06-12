@@ -1,0 +1,197 @@
+# $NetBSD: CHANGES-6.1.1,v 1.1.2.19 2013/08/15 03:27:37 snj Exp $
+
+A complete list of changes from the NetBSD 6.1 release to the NetBSD 6.1.1
+release:
+
+doc/README.files				patched by hand
+gnu/usr.bin/groff/tmac/mdoc.local		patched by hand
+sys/sys/param.h					patched by hand
+
+	Welcome to 6.1.0_PATCH.
+	[riz]
+
+sys/arch/amiga/dev/if_ne_zbus.c			1.15
+
+	Fix kernel panic on Amigas with Deneb cards.
+	[rkujawa, ticket #892]
+
+xsrc/external/mitMesaLib/dist/src/glx/XF86dri.c		patch
+xsrc/external/mitlibFS/dist/src/FSOpenServ.c		patch
+xsrc/external/mitlibX11/dist/modules/im/ximcp/Makefile.am patch
+xsrc/external/mitlibX11/dist/modules/im/ximcp/imLcPrs.c	patch
+xsrc/external/mitlibX11/dist/modules/im/ximcp/imTrX.c	patch
+xsrc/external/mitlibX11/dist/src/AllCells.c		patch
+xsrc/external/mitlibX11/dist/src/Font.c			patch
+xsrc/external/mitlibX11/dist/src/FontInfo.c		patch
+xsrc/external/mitlibX11/dist/src/FontNames.c		patch
+xsrc/external/mitlibX11/dist/src/GetFPath.c		patch
+xsrc/external/mitlibX11/dist/src/GetImage.c		patch
+xsrc/external/mitlibX11/dist/src/GetMoEv.c		patch
+xsrc/external/mitlibX11/dist/src/GetPntMap.c		patch
+xsrc/external/mitlibX11/dist/src/GetProp.c		patch
+xsrc/external/mitlibX11/dist/src/LiHosts.c		patch
+xsrc/external/mitlibX11/dist/src/ListExt.c		patch
+xsrc/external/mitlibX11/dist/src/ModMap.c		patch
+xsrc/external/mitlibX11/dist/src/Xrm.c			patch
+xsrc/external/mitlibX11/dist/src/xcms/cmsColNm.c	patch
+xsrc/external/mitlibX11/dist/src/xkb/XKBExtDev.c	patch
+xsrc/external/mitlibX11/dist/src/xkb/XKBGeom.c		patch
+xsrc/external/mitlibX11/dist/src/xkb/XKBGetMap.c	patch
+xsrc/external/mitlibX11/dist/src/xkb/XKBNames.c		patch
+xsrc/external/mitlibXcursor/dist/src/file.c		patch
+xsrc/external/mitlibXext/dist/src/XEVI.c		patch
+xsrc/external/mitlibXext/dist/src/XShape.c		patch
+xsrc/external/mitlibXext/dist/src/XSync.c		patch
+xsrc/external/mitlibXext/dist/src/Xcup.c		patch
+xsrc/external/mitlibXext/dist/src/Xdbe.c		patch
+xsrc/external/mitlibXfixes/dist/src/Cursor.c		patch
+xsrc/external/mitlibXi/dist/src/XGMotion.c		patch
+xsrc/external/mitlibXi/dist/src/XGetBMap.c		patch
+xsrc/external/mitlibXi/dist/src/XGetDCtl.c		patch
+xsrc/external/mitlibXi/dist/src/XGetDProp.c		patch
+xsrc/external/mitlibXi/dist/src/XGetFCtl.c		patch
+xsrc/external/mitlibXi/dist/src/XGetProp.c		patch
+xsrc/external/mitlibXi/dist/src/XIPassiveGrab.c		patch
+xsrc/external/mitlibXi/dist/src/XIProperties.c		patch
+xsrc/external/mitlibXi/dist/src/XISelEv.c		patch
+xsrc/external/mitlibXi/dist/src/XListDev.c		patch
+xsrc/external/mitlibXi/dist/src/XQueryDv.c		patch
+xsrc/external/mitlibXinerama/dist/src/Xinerama.c	patch
+xsrc/external/mitlibXrandr/dist/src/XrrProperty.c	patch
+xsrc/external/mitlibXrender/dist/src/Filter.c		patch
+xsrc/external/mitlibXrender/dist/src/Xrender.c		patch
+xsrc/external/mitlibXres/dist/src/XRes.c		patch
+xsrc/external/mitlibXt/dist/src/ResConfig.c		patch
+xsrc/external/mitlibXt/dist/src/Selection.c		patch
+xsrc/external/mitlibXv/dist/src/Xv.c			patch
+xsrc/external/mitlibXvMC/dist/src/XvMC.c		patch
+xsrc/external/mitlibXxf86dga/dist/src/XF86DGA2.c	patch
+xsrc/external/mitlibXxf86vm/dist/src/XF86VMode.c	patch
+xsrc/external/mitlibxcb/dist/src/xcb_in.c		patch
+xsrc/external/mitxf86-video-openchrome/dist/libxvmc/xf86dri.c patch
+
+	Fix protocol handling issues in X client libraries.
+	[mrg, ticket #900]
+
+external/mit/xorg/lib/libX11/Makefile.libx11	1.11 via patch
+
+	hack for old gcc.
+	[mrg, ticket #901]
+
+external/mit/xorg/lib/libXi/Makefile		1.10
+
+	fix vax build issues - GCC 4.1 warns about always true comparisons
+	more than GCC 4.5 does.
+	[mrg, ticket #902]
+
+sys/fs/nilfs/nilfs_vnops.c			1.22-1.23
+
+	Fix serious file read problem due to not-so-clear VOP_BMAP description.
+	Should fix PR 45605.
+	[reinoud, ticket #894]
+
+lib/libm/arch/i387/fenv.c			1.5
+lib/libm/arch/x86_64/fenv.c			1.3-1.4
+
+	Fix amd64 feraiseexcept so that it actually traps. The call to fwait
+	got lost somewhere along the line; the i387 code has it.
+	Fix sense of fegetexcept on x86.
+	[riastradh, ticket #899]
+
+tests/lib/libm/t_atan.c				1.4 - 1.7, 1.9 via patch
+
+	Fix test of atan_inf_neg, atan_inf_pos and atan_tan on i386.
+	PR port-i386/46108.
+	[isaki, ticket #903]
+
+external/gpl3/binutils/dist/ld/emultempl/elf32.em 1.6
+
+	PR 47922: Properly resolve DT_NEEDED entries under sysroot and don't
+	accidently try the installed system.
+	[joerg, ticket #911]
+
+share/man/man7/sysctl.7				1.73 via patch
+sys/netinet6/icmp6.c				1.161 via patch
+sys/netinet6/in6.c				1.161 via patch
+sys/netinet6/in6_proto.c			1.97 via patch
+sys/netinet6/in6_var.h				1.65 via patch
+sys/netinet6/ip6_input.c			1.139 via patch
+sys/netinet6/ip6_var.h				1.59 via patch
+sys/netinet6/nd6.c				1.143 via patch
+sys/netinet6/nd6.h				1.57 via patch
+sys/netinet6/nd6_rtr.c				1.83,1.84 via patch
+
+	4 new sysctls to avoid ipv6 DoS attacks from OpenBSD.
+        Fix potentially uninitialised variable.
+	[christos, ticket #905]
+
+external/bsd/bind/dist/lib/dns/rdata/generic/keydata_65533.c	patch
+
+	Fix for bind CVE-2013-4854.
+	[spz, ticket #924]
+
+usr.bin/netstat/inet.c				1.102-1.03
+usr.bin/netstat/inet6.c				1.61-1.62
+usr.bin/netstat/main.c				1.86
+usr.bin/netstat/netstat.h			1.47
+
+	Don't use -P as a kmem printer, verify that the address points to a
+	pcb first!
+	Not all pointers are 64bit - use uintptr_t instead of uint64_t.
+	[christos, ticket #912]
+
+sys/miscfs/procfs/procfs_map.c			1.43
+
+	Add a missing vm_map_unlock_read() and uvmspace_free() to the ENOMEM
+	error case in procfs_domap()d. Fixes PR#48048.
+	[ryo, ticket #917]
+
+etc/MAKEDEV.tmpl				1.166
+
+	Add a makedisk_p12high, used by VAX now after unbumping MAXPARTITIONS
+	from 16 down to 12. This fixes install issues on new setups.
+	[martin, ticket #919]
+
+src/doc/3RDPARTY				1.1040 via patch
+src/share/zoneinfo/africa			1.1.1.35 via patch
+src/share/zoneinfo/asia				1.1.1.60 via patch
+src/share/zoneinfo/australasia			1.32 via patch
+src/share/zoneinfo/europe			1.1.1.50 via patch
+src/share/zoneinfo/iso3166.tab			1.1.1.21 via patch
+src/share/zoneinfo/southamerica			1.1.1.55 via patch
+src/share/zoneinfo/zone.tab			1.1.1.45 via patch
+
+  Import tzdata2013d.
+  Changes for Morocco, Israel, Antarctica, metadata and documentation.
+  [apb, ticket #915]
+
+sys/net/if_mpls.c				1.9
+
+	Stop abusing kmem during softint context to prevent panic.
+	[kefren, ticket #921]
+
+sys/kern: uipc_socket.c				1.216
+
+	Fix an inversion in checking for authorization to drop TCP connections
+	found (and the obvious fix suggested) by Sander Bos.
+	[spz, ticket #927]
+
+doc/CHANGES-6.1					patch
+
+	Remove the note about ticket #652 (bge) because the change wasn't
+	added. 	Fixes PR#48069 for netbsd-6-1 branch.
+	[msaitoh]
+
+sys/netinet6/nd6_rtr.c				1.86
+
+        Avoid crash destroying tap0 after deleting its link-local address.
+        PR/47576.
+        [msaitoh, ticket #926]
+
+distrib/notes/common/main			patch
+doc/LAST_MINUTE					patch
+doc/README.file					patch
+sys/sys/param.h					patch
+
+	Welcome to 6.1.1!
+	[snj]

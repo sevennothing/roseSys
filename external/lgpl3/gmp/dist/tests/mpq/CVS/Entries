@@ -1,0 +1,14 @@
+/Makefile.am/1.1.1.1/Mon Jun 20 05:54:48 2011//Tnetbsd-6-1-5-RELEASE
+/Makefile.in/1.1.1.1/Mon Jun 20 05:54:48 2011//Tnetbsd-6-1-5-RELEASE
+/t-aors.c/1.1.1.1/Mon Jun 20 05:54:48 2011//Tnetbsd-6-1-5-RELEASE
+/t-cmp.c/1.1.1.1/Mon Jun 20 05:54:48 2011//Tnetbsd-6-1-5-RELEASE
+/t-cmp_si.c/1.1.1.1/Mon Jun 20 05:54:48 2011//Tnetbsd-6-1-5-RELEASE
+/t-cmp_ui.c/1.1.1.1/Mon Jun 20 05:54:48 2011//Tnetbsd-6-1-5-RELEASE
+/t-equal.c/1.1.1.1/Mon Jun 20 05:54:48 2011//Tnetbsd-6-1-5-RELEASE
+/t-get_d.c/1.1.1.1/Mon Jun 20 05:54:48 2011//Tnetbsd-6-1-5-RELEASE
+/t-get_str.c/1.1.1.1/Mon Jun 20 05:54:48 2011//Tnetbsd-6-1-5-RELEASE
+/t-inp_str.c/1.1.1.1/Mon Jun 20 05:54:48 2011//Tnetbsd-6-1-5-RELEASE
+/t-md_2exp.c/1.1.1.1/Mon Jun 20 05:54:48 2011//Tnetbsd-6-1-5-RELEASE
+/t-set_f.c/1.1.1.1/Mon Jun 20 05:54:48 2011//Tnetbsd-6-1-5-RELEASE
+/t-set_str.c/1.1.1.1/Mon Jun 20 05:54:48 2011//Tnetbsd-6-1-5-RELEASE
+D
